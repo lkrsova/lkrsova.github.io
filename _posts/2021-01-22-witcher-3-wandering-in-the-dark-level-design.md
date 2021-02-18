@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this difficult"
-author: "Leni"
+author: "Leni Krsova"
 categories: sample
 tags: [sample]
 image: witcher-3-dark.jpg
@@ -53,7 +53,7 @@ In this level, every new location within the elven ruins you enter is hiding som
 
 In December 2019, Netflix released a long-awaited The Witcher series [showrunner: Lauren Schmidt Hissrich]  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
 
-<img src="/assets/images/witcher/witcher-netflix-search-terms.png">
+
 
 ### References
 [1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
