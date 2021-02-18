@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this difficult"
-author: "Leni Krsova"
+author: "Leni"
 categories: sample
 tags: [sample]
 image: witcher-3-dark.jpg
-
 ---
 
 As many people did during the ongoing pandemic, I also returned to the video games. However, my rediscovered passion, I dropped out of when I was a teenager, comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video video games.
