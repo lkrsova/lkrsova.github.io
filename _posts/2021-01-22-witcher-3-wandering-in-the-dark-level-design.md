@@ -21,41 +21,40 @@ Witcher's world is as much part of my upbringing and culture as it was for the P
 
 This being said, The Witcher 3 can be also a rather difficult game if you, like me, are a noob. For instance, I had to figure out my way around PlayStation controller. I didn't have any experience with playing the previous titles in the series which posed additional problems  for me regarding controls, fighting, potion making, etc. However, the learning curve also made the game immensely enjyoable, at least once I was able to get the hang of it.
 
+### Where are we in the game?
+If you completed all the side quests and points of interest (question marks on the map) in the White Orchard, you enter *Wandering in the Dark* in Velen either in the late stage of level 4 or on the verge of level 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners (I hate those guys!), or a group of ghouls scattered over a battlefield. But that's about it.
 
+Even though you've gone through everything in White Orchard tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
 
+Some of us at this stage also haven't found their way to the Bestiary system of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
 
+<img src="/assets/img/widd-entrance.jpg">
 
+### Level design 
+Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, avoiding, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
++ bunch of drowners;
++ one or two foglets (this is the first time you meet them);
++ rats nests (because Keira, the powerful sorceress, is afraid of them...);
++ more drowners, plus wraiths on a toxic yet explosive field of mushrooms;
++ clones of Geralt and Keira (only if you fail to solve a Kelpie riddle);
++ golem (big and angry one, takes ages to take down!);
++ gargoyle (only if you turn in the wrong direction, takes ages to take down, too);
++ White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
++ Nithral aka the final boss of this level.
 
-## Getting Started
+That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under a YouTube walkthrough shows you how frustrating this part of the game is. People abandoned playing the game entirely because of this quest because they just didn't see a way to succeed. They also probably thought that the game will get progressively more difficult.
 
-## Example Content
+In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you. Early on you realize that although you have aan character/NPC accompanying you, Keira is rather useless and you have to do all the hard work on your own. This is one of the frustrating logics of many NPCs in The Witcher 3 game; and it was nice to learn that <a href="https://youtu.be/tDQPScB3bYA?t=1369">even one of the gameplay designers from CD Projekt RED is aware of it</a>.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-text-formatting %})
+### Fun fact from Google Trends
 
-## Questions?
+In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%20question%20about%20Millennial;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+<img src="/assets/images/witcher/witcher-netflix-search-terms.png">
 
-## More Jekyll!
-
-### Lagrange
-
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
-
-### Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
-
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
-
-### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+### References
+[1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
