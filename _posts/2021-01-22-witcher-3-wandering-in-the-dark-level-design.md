@@ -9,7 +9,7 @@ image: witcher-3-dark.jpg
 
 As many people did during the ongoing pandemic, I also returned to the video games. However, my rediscovered passion, I dropped out of when I was a teenager, comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video video games.
 
-In this post, I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I was so frustrated with this quest I had to write it out of my system. I love the environment design and immersive experience of this level, but I equally hated the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This resulted in something I never liked doing even when I was an active gamer - I had to find support online in the forums and by watching a walkthrough. 
+In this post, I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I was so frustrated with this quest I had to write it out of my system. I loved the environment design and immersive experience of this level, but I equally hated the level design and its frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This resulted in something don't like doing because it ruins my experience from the game and my beliefs in my own abilities to figure out the game - I had to find support online in the forums and by watching a walkthrough. 
 
 You'll soon realize, this post is also a rather cathartic way of writing myself out of the mild "trauma" induced by this quest. Like, I DID NOT expect to have my pixels kicked so many times so early and in such a brutal way... ¯\_(ツ)_/¯
 
@@ -54,15 +54,6 @@ In this level, every new location within the elven ruins you enter is hiding som
 In December 2019, Netflix released a long-awaited The Witcher series [showrunner: Lauren Schmidt Hissrich]  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
 
 <img src="/assets/images/witcher/witcher-netflix-search-terms.png">
-
-### Environment design: The intricacy of the faded beauty
-One of my 
-
-Additionally to the frequency of facing enemies, this level does not let you admire the sheer beauty, details and complexity of the enviromental design of the elven ruins either. Which is sad. The work that was put in designing the environment of this level is just exquisite. True, throughout the whole Witcher 3 you will have tons of other encounters with the elven architecture. But Wandering in the Dark is the first of them, and it's such a pity that you cannot savor it while you're going through the level. Just look at these pictures: 
-
-I honestly think that one of my frustrations with this level is the lack of time to admire the sheer beauty, details and complexity of the envrionment of elven ruins. 
-
-
 
 ### References
 [1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
