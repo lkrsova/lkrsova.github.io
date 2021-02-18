@@ -28,7 +28,7 @@ Even though you've gone through everything in White Orchard tutorial environment
 
 Some of us at this stage also haven't found their way to the Bestiary system of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
 
-<img src="/assets/img/widd-entrance.jpg">
+<img src="/assets/img/widd.jpg">
 
 ### Level design 
 Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
