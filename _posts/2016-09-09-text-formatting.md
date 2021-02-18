@@ -4,154 +4,65 @@ title: "Text Formatting"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: witcher-3-dark.jpg
 ---
 
-# Markdown Support
+As many people did during the ongoing pandemic, I also returned to the video games. However, my rediscovered passion, I dropped out of when I was a teenager, comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video video games.
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+In this post, I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I was so frustrated with this quest I had to write it out of my system. I love the environment design and immersive experience of this level, but I equally hated the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This resulted in something I never liked doing even when I was an active gamer - I had to find support online in the forums and by watching a walkthrough. 
 
-## Basic Formatting
+You'll soon realize, this post is also a rather cathartic way of writing myself out of the mild "trauma" induced by this quest. Like, I DID NOT expect to have my pixels kicked so many times so early and in such a brutal way... ¯\_(ツ)_/¯
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
+<center><font color="#b60000">***spoilers ahead - if you haven't finished this quest, stop reading ***</font></center>
 
-## Paragraphs
+**The Witcher 3: Wild Hunt** is probably not the easiest way how to get back on the proverbial horse of playing games but it was my first choice for many reasons. I am Czech, and Slavic folklore, which The Witcher draws from and encompasses so well, is what I've lived surrounded by since I was a little kid. I've read the first couple of Sapkowski's books, I watched the original <a href="https://en.wikipedia.org/wiki/The_Hexer_(TV_series)">Polish TV show</a> long before Netflix introduced Geralt's white hair, coarse voice and "I don't really care" attitude to the masses in its <a href="https://www.imdb.com/title/tt5180504/">TV show released in 2019</a>.
 
-This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Witcher's world is as much part of my upbringing and culture as it was for the Polish. It is also one of the most praised video games in the industry offering all the aspects I like about video games: immersive experience; shenaningans of an RPG open world; storytelling on the scale of a feature movie; and multiple scenarios and endings based on the choices players make throughout the game (ok, I might have accidentally killed Keira, so what?).
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+This being said, The Witcher 3 can be also a rather difficult game if you, like me, are a noob. For instance, I had to figure out my way around PlayStation controller. I didn't have any experience with playing the previous titles in the series which posed additional problems  for me regarding controls, fighting, potion making, etc. However, the learning curve also made the game immensely enjyoable, at least once I was able to get the hang of it.
+
+### Where are we in the game?
+If you completed all the side quests and points of interest (question marks on the map) in the White Orchard, you enter *Wandering in the Dark* in Velen either in the late stage of level 4 or on the verge of level 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners (I hate those guys!), or a group of ghouls scattered over a battlefield. But that's about it.
+
+Even though you've gone through everything in White Orchard tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
+
+Some of us at this stage also haven't found their way to the Bestiary system of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
+
+### Level design 
+Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
+
+What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, avoiding, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
++ bunch of drowners;
++ one or two foglets (this is the first time you meet them);
++ rats nests (because Keira, the powerful sorceress, is afraid of them...);
++ more drowners, plus wraiths on a toxic yet explosive field of mushrooms;
++ clones of Geralt and Keira (only if you fail to solve a Kelpie riddle);
++ golem (big and angry one, takes ages to take down!);
++ gargoyle (only if you turn in the wrong direction, takes ages to take down, too);
++ White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
++ Nithral aka the final boss of this level.
 
 
-## Headings
+That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
-Sometimes it is useful to have different levels of headings to structure your documents. Start lines with `#` to create headings. Multiple `##` in a row denote smaller heading size. The following demonstrate the full range of heading sizes:
+The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under a YouTube walkthrough shows you how frustrating this part of the game is. People abandoned playing the game entirely because of this quest because they just didn't see a way to succeed. They also probably thought that the game will get progressively more difficult.
 
-# Heading One (h1)
+In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you. Early on you realize that although you have aan character/NPC accompanying you, Keira is rather useless and you have to do all the hard work on your own. This is one of the frustrating logics of many NPCs in The Witcher 3 game; and it was nice to learn that <a href="https://youtu.be/tDQPScB3bYA?t=1369">even one of the gameplay designers from CD Projekt RED is aware of it</a>.
 
-## Heading Two (h2)
+### Fun fact from Google Trends
 
-### Heading Three (h3)
+In December 2019, Netflix released a long-awaited The Witcher series [showrunner: Lauren Schmidt Hissrich]  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
 
-#### Heading Four (h4)
+<img src="/assets/images/witcher/witcher-netflix-search-terms.png">
 
-##### Heading Five (h5)
+### Environment design: The intricacy of the faded beauty
+One of my 
 
-###### Heading Six (h6)
+Additionally to the frequency of facing enemies, this level does not let you admire the sheer beauty, details and complexity of the enviromental design of the elven ruins either. Which is sad. The work that was put in designing the environment of this level is just exquisite. True, throughout the whole Witcher 3 you will have tons of other encounters with the elven architecture. But Wandering in the Dark is the first of them, and it's such a pity that you cannot savor it while you're going through the level. Just look at these pictures: 
 
-## Links
+I honestly think that one of my frustrations with this level is the lack of time to admire the sheer beauty, details and complexity of the envrionment of elven ruins. 
 
-You can create an inline link by wrapping link text in square brackets `[ ]`, and then wrapping the URL in parentheses `( )`. For example, it is very easy to [link to Google!](http://google.com).
 
-## Blockquotes
 
-Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:
-
-> This quote will change your life.
-
-Multi line blockquote with a cite reference:
-
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-
-## Code and Syntax Highlighting
-
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages [here](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers). Also, it is possible to do `inline code blocks`, by wrapping the text in ` ` ` quotations.
-
-```
-No language indicated, so no syntax highlighting.
-```
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Another option is to embed your code through [Gist](https://en.support.wordpress.com/gist/).
-
-## Unordered and Numbered Lists
-
-You can make an unordered and nested list by preceding one or more lines of text with `-`, `*`, or `+`, and indenting sublists. The following lists show the full range of possible list formats.
-
-* List item one
-    * List item one
-        * List item one
-        * List item two
-        * List item three
-        * List item four
-    * List item two
-    * List item three
-    * List item four
-* List item two
-* List item three
-* List item four
-
-Numbered lists are made by using numbers instead of bullet points.
-
-1. List item one
-    1. List item one
-        1. List item one
-        2. List item two
-        3. List item three
-        4. List item four
-    2. List item two
-    3. List item three
-    4. List item four
-2. List item two
-3. List item three
-4. List item four
-
-## MathJax Example
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) is a partial differential equation that describes how the quantum state of a quantum system changes with time:
-
-$$
-i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)
-$$
-
-[Joseph-Louis Lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j} $$
-
-## Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-## Embedding
-
-Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mthtn1X4eUY" frameborder="0" allowfullscreen></iframe>
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/paululele/timelines/755079130027352064">New Collection</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-## Useful Resources
-
-More information on Markdown can be found at the following links:
-
-- [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code)
-- [Quick Markdown Example](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html)
-- [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
-- [GitHub Flavoured Markdown Spec](https://github.github.com/gfm/)
-- [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists)
+### References
+[1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
