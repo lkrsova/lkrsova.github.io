@@ -45,6 +45,8 @@ What starts as a favor for your old friend, a sorceress Keira Metz, develops qui
 + White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
 + Nithral aka the final boss of this level.
 
+<img src="/assets/img/nithral-dark.jpg">
+
 That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
 The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under a YouTube walkthrough shows you how frustrating this part of the game is. People abandoned playing the game entirely because of this quest because they just didn't see a way to succeed. They also probably thought that the game will get progressively more difficult.
