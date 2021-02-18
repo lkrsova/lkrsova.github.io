@@ -42,7 +42,6 @@ What starts as a favor for your old friend, a sorceress Keira Metz, develops qui
 + White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
 + Nithral aka the final boss of this level.
 
-
 That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
 The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under a YouTube walkthrough shows you how frustrating this part of the game is. People abandoned playing the game entirely because of this quest because they just didn't see a way to succeed. They also probably thought that the game will get progressively more difficult.
@@ -52,8 +51,6 @@ In this level, every new location within the elven ruins you enter is hiding som
 ### Fun fact from Google Trends
 
 In December 2019, Netflix released a long-awaited The Witcher series [showrunner: Lauren Schmidt Hissrich]  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
-
-
 
 ### References
 [1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
