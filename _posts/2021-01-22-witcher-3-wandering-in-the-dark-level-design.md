@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this difficult"
-author: "Leni"
+author: "Paul Le"
 categories: sample
 tags: [sample]
 image: witcher-3-dark.jpg
