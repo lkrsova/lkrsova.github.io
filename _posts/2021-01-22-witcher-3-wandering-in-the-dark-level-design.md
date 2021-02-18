@@ -15,7 +15,7 @@ You'll soon realize, this post is also a rather cathartic way of writing myself 
 
 <center><font color="#b60000">***spoilers ahead - if you haven't finished this quest, stop reading ***</font></center>
 
-**The Witcher 3: Wild Hunt** is probably not the easiest way how to get back on the proverbial horse of playing games but it was my first choice for many reasons. I am Czech, and Slavic folklore, which The Witcher draws from and encompasses so well, is what I've lived surrounded by since I was a little kid. I've read the first couple of Sapkowski's books, I watched the original [Polish TV show](https://en.wikipedia.org/wiki/The_Hexer_(TV_series) long before Netflix introduced Geralt's white hair, coarse voice and "I don't really care" attitude to the masses in its [TV show released in 2019](https://www.imdb.com/title/tt5180504).
+**The Witcher 3: Wild Hunt** is probably not the easiest way how to get back on the proverbial horse of playing games but it was my first choice for many reasons. I am Czech, and Slavic folklore, which The Witcher draws from and encompasses so well, is what I've lived surrounded by since I was a little kid. I've read the first couple of Sapkowski's books, I watched the original [Polish TV show](https://en.wikipedia.org/wiki/The_Hexer_(TV_series)) long before Netflix introduced Geralt's white hair, coarse voice and "I don't really care" attitude to the masses in its [TV show released in 2019](https://www.imdb.com/title/tt5180504).
 
 Witcher's world is as much part of my upbringing and culture as it was for the Polish. It is also one of the most praised video games in the industry offering all the aspects I like about video games: immersive experience; shenaningans of an RPG open world; storytelling on the scale of a feature movie; and multiple scenarios and endings based on the choices players make throughout the game (ok, I might have accidentally killed Keira, so what?).
 
@@ -28,7 +28,7 @@ Even though you've gone through everything in White Orchard tutorial environment
 
 Some of us at this stage also haven't found their way to the Bestiary system of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
 
-<img src="/assets/img/widd-entrance.jpg">
+<img src="/assets/img/widd.jpg">
 
 ### Level design 
 Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
@@ -52,9 +52,9 @@ In this level, every new location within the elven ruins you enter is hiding som
 
 ### Fun fact from Google Trends
 
-In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
+In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. Coincidentally, the same works for Wild at Heart quest. It is not a surprise since this is the first time players runs into a werewolf and his quickly recharging health bar is a problem to overcome effectively.
 
-<img src="/assets/images/witcher/witcher-netflix-search-terms.png">
+<img src="/assets/img/witcher-trends.PNG">
 
 ### References
 [1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
