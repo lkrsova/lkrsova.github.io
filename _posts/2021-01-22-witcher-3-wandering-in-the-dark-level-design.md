@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Witcher 3: Wandering in the Dark quest should not be this hard"
 author: "Leni"
 categories: documentation
 tags: [documentation,sample]
