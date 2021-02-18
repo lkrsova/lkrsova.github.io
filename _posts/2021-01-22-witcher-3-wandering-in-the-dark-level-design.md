@@ -52,7 +52,7 @@ In this level, every new location within the elven ruins you enter is hiding som
 
 ### Fun fact from Google Trends
 
-In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. 
+In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. Coincidentally, the same works for Wild at Heart quest. It is not a surprise since this is the first time players runs into a werewolf and his quickly recharging health bar is a problem to overcome effectively.
 
 <img src="/assets/img/witcher-trends.PNG">
 
