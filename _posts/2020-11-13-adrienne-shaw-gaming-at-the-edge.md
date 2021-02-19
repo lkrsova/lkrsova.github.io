@@ -4,7 +4,7 @@ title: "Book to read: Gaming at The Edge, A. Shaw"
 author: "Leni Krsova"
 categories: documentation
 tags: [documentation,sample]
-image: witcher3-dark.jpg
+image: ashaw-philly.jpg
 ---
 Dr. Adrienne Shaw is a communication and <a href="https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/">game studies scholar at Temple University</a>. She is well-known in the research community for her work on queer theory and LGBTQ representation in video games and pop culture. Shaw is interested in what people who are seen as on the edges of a gaming community (members identifying as LGBTQ, women, people of colors, etc.) think about representation and identification in video games and how their media use looks like. She argues that **the assumption that members of marginalized groups are by default concerned with representation of a group in which they might be classified is wrong, and identity, identification, and representation are much more complicated**. She also calls for shifting the argument from the positive or the negative quality of a given representation to a focus on authenticity and the producers' rights to represent a given identity [p. 38]. As an example, she says that game design companies assume that members of marginalized groups will represent that group best and that the representation of a marginal group requires the presence of members of that group in the media industry [p. 34]. Marginalized groups tend to be used in game character design only when it's profitable for the company or when it is desirable to attract people of “their kind”. She also argues that the meaning itself of what it means to be a part of a marginalized group is fluid and ever-changing, because blackness, womanhood, and queerness are fluid and ever-changing too.
 
@@ -20,5 +20,6 @@ Reading Shaw, I could relate to my own research interests in multiple ways. Firs
 
 
 ### References
-[1] Shaw, A. (2015). Gaming at the edge: Sexuality and gender at the margins of gamer culture. U of Minnesota Press. Chicago
+Shaw, A. (2015). Gaming at the edge: Sexuality and gender at the margins of gamer culture. U of Minnesota Press. Chicago
 
+Featured picture is from https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/
