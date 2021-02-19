@@ -2,7 +2,7 @@
 layout: post
 title: "Book to read: Gaming at The Edge, A. Shaw"
 author: "Leni Krsova"
-categories: popculture, resources
+categories: resources
 tags: [pop culture, books, academics, PhD]
 image: ashaw-gamingbook.png
 ---
