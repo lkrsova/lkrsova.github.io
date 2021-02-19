@@ -8,7 +8,7 @@ title: About
 Hi! My name is Leni and I'm the one running this website. I am a PhD student at iSchool in Syracuse (NY) which makes me a researcher in training. I am interested in algorithms, datafication, user experience and pop culture writ-large. I started this blog to share here my ideas, thoughts and things I've noticed about pop culture, game design and topics related to my research.
 
 ### Video games
-I am interested in user experience (UX) and design of video games as an experience that helps us escape from out mundane worlds. I just recently started researching this domain which means I cannot say a lot about it. However, I am so fascinated by the sheer amount of materials and resources I so far stumbeld upon. You will hear about most of them on this website.
+I am interested in user experience (UX) and design of video games as an experience that helps us escape from our mundane worlds. I just recently started researching this domain which means I cannot say a lot about it...yet. However, I am so fascinated by the sheer amount of materials and resources I so far stumbedl upon and you will hear about most of them on this website.
 
 My favorite games are ones which put the gamer in the center of their design by **creating an immersive experience with their rich narrative and thoughtful designed experience**. I am currently working on my way through *The Witcher 3: Wild Hunt* and its expansions. I am also a huge fan of indie games and applaud all the game developers putting their work out there just because they love developing games. 
 
