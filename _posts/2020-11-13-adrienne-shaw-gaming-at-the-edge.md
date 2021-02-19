@@ -2,13 +2,11 @@
 layout: post
 title: "Book to read: Gaming at The Edge, A. Shaw"
 author: "Leni Krsova"
-categories: documentation
-tags: [documentation,sample]
-image: ashaw-philly.jpg
+categories: popculture
+tags: [pop culture, books, academics, PhD]
+image: ashaw-gamingbook.png
 ---
 Dr. Adrienne Shaw is a communication and <a href="https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/">game studies scholar at Temple University</a>. She is well-known in the research community for her work on queer theory and LGBTQ representation in video games and pop culture. Shaw is interested in what people who are seen as on the edges of a gaming community (members identifying as LGBTQ, women, people of colors, etc.) think about representation and identification in video games and how their media use looks like. She argues that **the assumption that members of marginalized groups are by default concerned with representation of a group in which they might be classified is wrong, and identity, identification, and representation are much more complicated**. She also calls for shifting the argument from the positive or the negative quality of a given representation to a focus on authenticity and the producers' rights to represent a given identity [p. 38]. As an example, she says that game design companies assume that members of marginalized groups will represent that group best and that the representation of a marginal group requires the presence of members of that group in the media industry [p. 34]. Marginalized groups tend to be used in game character design only when it's profitable for the company or when it is desirable to attract people of “their kind”. She also argues that the meaning itself of what it means to be a part of a marginalized group is fluid and ever-changing, because blackness, womanhood, and queerness are fluid and ever-changing too.
-
-<img src="/assets/img/ashaw-gaming.jpg">
 
 Shaw, contrary to the traditional approach, doesn't look primarily at texts. Instead, she situated them in **a broader context of gamers' lives, habits, and practices, making them a part of a bigger picture that she studies**. She argues that the game text is not as stable as other media texts, as a great deal depends on how one plays the game. I had a little bit of difficulties understanding her position but then I figured out that compared to reading a book or watching a movie, the main difference is  in the option of how gamers navigate the potentials of the virtual world. That's an option that is missing in other texts, unless it is an interactive one like Black Mirror: Bandersnatch on Netflix, but even there are limitations of the text. A gamer can choose how they look, with whom and how they interact, what their character is after, if they want to follow the storyline or, especially in the open world games, if they plan to do their own shenanigans, which some game designs even support. For example, in The Witcher 3, a game mechanic referred to as the <a href="https://www.youtube.com/watch?v=fjdllHlZAPM">*Bovine Defence Force*</a> sends your way a giant monster as a punishment when you kill too many cows in order to exploit another game mechanic which gives you loot as a reward for killing a cow. What it means in terms of identification with a character or representation is however hard to tell without asking the players themselves.
 
@@ -21,5 +19,3 @@ Reading Shaw, I could relate to my own research interests in multiple ways. Firs
 
 ### References
 Shaw, A. (2015). Gaming at the edge: Sexuality and gender at the margins of gamer culture. U of Minnesota Press. Chicago
-
-Featured picture is from https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/
