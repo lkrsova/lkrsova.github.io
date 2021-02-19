@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaming at The Edge, A. Shaw"
+title: "Book to read: Gaming at The Edge, A. Shaw"
 author: "Leni Krsova"
 categories: documentation
 tags: [documentation,sample]
