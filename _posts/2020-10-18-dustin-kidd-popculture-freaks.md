@@ -21,4 +21,4 @@ On the more granular level (of developing algorithms), I am wondering how machin
 ### References
 Kidd, D. (2018). Pop culture freaks: Identity, mass media, and society. Routledge.
 
-Featured picture is from https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/
+Featured picture is from http://www.dustinkidd.net/pop-culture-freaks-2nd-edition
