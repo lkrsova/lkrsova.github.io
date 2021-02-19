@@ -23,10 +23,10 @@ Reading Shaw, I could relate to my own research interests in multiple ways. Firs
 Regarding the methodology of interviewing, I noticed the approach of two interviews with one person (one a traditional one, the other one in the domestic environment of the interviewee), and wondered how to effectively employ this approach in studying how people perceive algorithms on Netflix from their living rooms. An intriguing methodologically remark is also when **she had to take in account the particularities of video games when they discuss the representations of marginalized groups in these texts**. She showcased that on the example of Mario Bros, who might be perceived as insulting against Italian American population. But when looking at the development of the game and the gaming industry lore, it shows a much more accidental history of the character. In short, this means that in order to understand the subjects' reception of texts, it is beneficial to have domain knowledge to the extent that researchers doing an ethnography research are informed enough to not pollute their research work with vague assumptions on the topic or phenomenon studied.
 
 
-### References
+#### References
 Shaw, A. (2015). Gaming at the edge: Sexuality and gender at the margins of gamer culture. U of Minnesota Press. Chicago
 
 Lara Croft image: https://www.ebaumsworld.com/pictures/lara-croft-tomb-raider-1/81415116/
 
-### Cite as
+#### Cite as
 KRSOVA, Lenka. Book to read: Gaming At The Edge, A. Shaw. Https://lenikrsova.github.io/ [online]. 2020-11-13. 
