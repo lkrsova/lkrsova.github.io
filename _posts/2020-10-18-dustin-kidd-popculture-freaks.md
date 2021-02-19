@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book to read: Pop Culture Freaks"
+title: "Book to read: Pop Culture Freaks, D. Kidd"
 author: "Leni Krsova"
 categories: documentation
 tags: [books, pop culture, academics, PhD]
