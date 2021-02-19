@@ -27,3 +27,6 @@ Regarding the methodology of interviewing, I noticed the approach of two intervi
 Shaw, A. (2015). Gaming at the edge: Sexuality and gender at the margins of gamer culture. U of Minnesota Press. Chicago
 
 Lara Croft image: https://www.ebaumsworld.com/pictures/lara-croft-tomb-raider-1/81415116/
+
+### Cite as
+KRSOVA, Lenka. Book to read: Gaming At The Edge, A. Shaw. Https://lenikrsova.github.io/ [online]. 2020-11-13. 
