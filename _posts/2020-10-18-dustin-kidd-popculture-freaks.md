@@ -2,7 +2,7 @@
 layout: post
 title: "Book to read: Pop Culture Freaks, D. Kidd"
 author: "Leni Krsova"
-categories: popculture, resources
+categories: resources
 tags: [books, pop culture, academics, PhD]
 image: dkidd-popfreaks.png
 ---
