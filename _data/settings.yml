@@ -8,7 +8,6 @@ google-ID: 'G-KWKTHW69EK'
 
 menu:
 - {name: 'UX & Design', folder: 'pages', file: 'uxdesign.html'}
-- {name: 'Pop Culture', folder: 'pages', file: 'popculture.html'}
 - {name: 'Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
