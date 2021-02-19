@@ -12,3 +12,5 @@ I started playing video games when I was five and stopped as a teenager when Mas
 My favorite games are ones which put the gamer in the center of their design by creating an immersive experience with their rich narrative and thoughtful designed experience. I am currently working on my way through **The Witcher 3: Wild Hunt** and its expansions. I am also a huge fan of indie games and applaud all the game developers putting their work out there. 
 
 Occasionally, I am a game tester and localization translator for games and software.
+
+If you want to connect with me you can find me on Steam as leeloo.
