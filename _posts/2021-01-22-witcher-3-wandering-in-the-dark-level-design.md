@@ -2,14 +2,14 @@
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this hard"
 author: "Leni Krsova"
-categories: documentation
+categories: uxdesign
 tags: [documentation,sample]
 image: witcher3-dark.jpg
 ---
 
-As many people did during the ongoing pandemic, I also returned to the video games. However, my rediscovered passion, I dropped out of when I was a teenager, comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video video games.
+As many people did during the ongoing pandemic, I also returned to the video games. However, my rediscovered passion (I dropped out of it when I was a teenager) comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video games here on this blog.
 
-In this post, I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I was so frustrated with this quest I had to write it out of my system. I love the environment design and immersive experience of this level, but I equally hated the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This resulted in something I never liked doing even when I was an active gamer - I had to find support online in the forums and by watching a walkthrough. 
+In this post, I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I was so frustrated with this quest I had to write it out of my system. I love the environment design and immersive experience of this level, but I equally hated the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This resulted in something I never liked doing even when I was an active gamer - I had to find support online in the forums and figuring my way out of the fight by watching <a href="https://www.youtube.com/watch?v=aIvYQI4p-jg">a walkthrough</a>. 
 
 You'll soon realize, this post is also a rather cathartic way of writing myself out of the mild "trauma" induced by this quest. Like, I DID NOT expect to have my pixels kicked so many times so early and in such a brutal way... ¯\_(ツ)_/¯
 
@@ -49,13 +49,15 @@ What starts as a favor for your old friend, a sorceress Keira Metz, develops qui
 
 That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
-The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under a YouTube walkthrough shows you how frustrating this part of the game is. People abandoned playing the game entirely because of this quest because they just didn't see a way to succeed. They also probably thought that the game will get progressively more difficult.
+The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse at Reddit or any comments section under any YouTube walkthrough of this quest shows you how frustrating this part of the game is for many. People abandoned playing the game entirely because of this quest. They just didn't see a way to succeed in the game. They also probably thought that the game will get progressively more difficult which is (suprisingly) not the case.
 
-In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you. Early on you realize that although you have aan character/NPC accompanying you, Keira is rather useless and you have to do all the hard work on your own. This is one of the frustrating logics of many NPCs in The Witcher 3 game; and it was nice to learn that <a href="https://youtu.be/tDQPScB3bYA?t=1369">even one of the gameplay designers from CD Projekt RED is aware of it</a>.
+In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you and you're not ready for it. Also, early on you realize that although you have an character/NPC accompanying you, Keira is rather useless and you have to do all the hard work on your own. This is one of the frustrating logics of many NPCs in The Witcher 3 game; and it was nice to learn that <a href="https://youtu.be/tDQPScB3bYA?t=1369">even one of the gameplay designers from CD Projekt RED is aware of it</a>.
+
+As much as this level might have been a first rite of passage for a player, I believe this is also the one which makes people give up on the game and hate it in the long run. I'm glad I am the former example, althought there were many moments I was inclining to the latter one.
 
 ### Fun fact from Google Trends
 
-In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich)  with Henry Cavill portraying Geralt of Rivia. It caused such a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release. As a consequence and also an illustration that people struggle with the same places of the game play even years after the original release, Google shows that the searching for the Wandering in The Dark" went up too. Coincidentally, the same works for Wild at Heart quest. It is not a surprise since this is the first time players runs into a werewolf and his quickly recharging health bar is a problem to overcome effectively.
+In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich) with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release**. As a consequence and also an illustration that people struggle with the same places of the game even years after the original release, **Google shows that the searching for the Wandering in The Dark" went up too**. Coincidentally, the same works for *Wild at Heart* quest. It is not much of a surprise since this quest the first time players runs into a werewolf. His quickly recharging health bar is a problem to overcome effectively only with a knowledge found online.
 
 <img src="/assets/img/witcher-trends.PNG">
 
