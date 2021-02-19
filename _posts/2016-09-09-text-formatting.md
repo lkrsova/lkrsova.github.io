@@ -3,7 +3,7 @@ layout: post
 title: "Text Formatting"
 author: "Paul Le"
 categories: popculture
-tags: [sample]
+tags: [popculture]
 image: arctic-1.jpg
 ---
 
