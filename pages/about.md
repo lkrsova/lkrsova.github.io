@@ -28,5 +28,5 @@ When my PhD obligations permits, I am a game tester and localization translator 
 
 If you want to connect with me, you can find me on Steam as leeloo.
 
-I hang out on Discord with people from <a href="https://designoriented.net/">Design Oriented</a> (founded by Richard Terell aka Kirby Kid) and <https://designoriented.net/>IGDA Games Research & User Experience Special Interest Group</a> (founded by Steve Bromley)
+I hang out on Discord with people from <a href="https://designoriented.net/">Design Oriented</a> (founded by Richard Terell aka Kirby Kid) and <a href="https://designoriented.net/">IGDA Games Research & User Experience Special Interest Group</a> (founded by Steve Bromley)
 
