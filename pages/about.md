@@ -24,9 +24,11 @@ A current study I prepare to work on with Dr. Brian McKernan will concern about 
 
 ### Non-academic academic fun
 
-When my PhD obligations permits, I am a game tester and localization translator for games and software.
+When my PhD obligations permits, I am a game tester and localization translator for games and software. I am also learning ropes of game design with Unity. I really enjoy environment design and can spend endless hours creating pastures, mountains, and other type sof landscape. 
 
 If you want to connect with me, you can find me on Steam as leeloo.
 
-I hang out on Discord with people from <a href="https://designoriented.net/">Design Oriented</a> (founded by Richard Terell aka Kirby Kid) and <a href="https://designoriented.net/">IGDA Games Research & User Experience Special Interest Group</a> (founded by Steve Bromley)
+I hang out on Discord with people from <a href="https://designoriented.net/">Design Oriented</a> (founded by Richard Terell aka Kirby Kid) and <a href="https://designoriented.net/">IGDA Games Research & User Experience Special Interest Group</a> (founded by Steve Bromley).
+
+In "offline" world far from computer screens and my PhD, I enjoy water coloring, travelling, yoga, and playing basketball against my basketball proficient partner Cole.
 
