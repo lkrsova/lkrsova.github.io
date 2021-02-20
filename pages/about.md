@@ -22,9 +22,9 @@ From the topics of datafication and data surveillance, I extended my interest to
 
 A current study I prepare to work on with Dr. Brian McKernan will concern about folk theories encompassing Netflix algorithm.
 
-### Non-academic academic fun
+### Non-academic fun
 
-When my PhD obligations permits, I am a game tester and localization translator for games and software. I am also learning ropes of game design with Unity. I really enjoy environment design and can spend endless hours creating pastures, mountains, and other type sof landscape. 
+When my PhD obligations permits, I am a game tester and localization translator for games and software. I am also learning ropes of game design with Unity. I really enjoy environment design, and can spend endless hours creating pastures, mountains, and other types of landscape (usually with pre-made assets). 
 
 If you want to connect with me, you can find me on Steam as leeloo.
 
