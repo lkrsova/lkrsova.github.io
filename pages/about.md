@@ -14,8 +14,6 @@ My favorite games are ones which put the gamer in the center of their design by 
 
 I started playing video games when I was 5 and stopped as a teenager around the time when the first *Mass Effect* came out. I played games including first-person shooters like *DOOM*, *Quake*, *Heretic*, *Duke Nukem 3D*; strategy games like *Sid Meier's Colonization* and *Cvilization*, *Age of Empires*, *Caeser III*, *Tycoons*; RPG games like *Mafia*, *Diablo II*; and adventure games including Czech *Polda*, *Veil of Darkness* and others. I returned to video games after 15 years (as a player and researcher) through *Call of Duty Mobile*, *Life is Strange* and hidden objects & mini-puzzles *Lost Lands* game series. 
 
-When my PhD obligations permits, I am a game tester and localization translator for games and software. If you want to connect with me, you can find me on Steam as leeloo.
-
 ### Algorithms & Datafication
 
 I used to work in companies handling personal data harvested from social media platforms. At some point I wasn't okay with the unethical dimensions of this type of work and joined the other (Light) side of research. I moved both physically and mentally from Europe to USA to follow a path that allows me to ask and work on pressing questions like "Are people aware of their personal data being harvested and used so heavily? What can we do about it? Does anyone even care?" and so on.
@@ -23,3 +21,12 @@ I used to work in companies handling personal data harvested from social media p
 From the topics of datafication and data surveillance, I extended my interest to algorithms and how these design the experience for thousands of people using their personal data. Currently, I am interested in learning more about the intersection of recommmendation algorithms, datafication, data literacy and pop culture. To be more specific, Netflix and alike is one of the socio-technical platforms I am interested in looking at in relation to its users and what they make out of the algorithmic recommendations and related phenomena.
 
 A current study I prepare to work on with Dr. Brian McKernan will concern about folk theories encompassing Netflix algorithm.
+
+### Non-academic academic fun
+
+When my PhD obligations permits, I am a game tester and localization translator for games and software.
+
+If you want to connect with me, you can find me on Steam as leeloo.
+
+I hang out on Discord with people from <a href="https://designoriented.net/">Design Oriented</a> (founded by Richard Terell aka Kirby Kid) and <https://designoriented.net/>IGDA Games Research & User Experience Special Interest Group</a> (founded by Steve Bromley)
+
