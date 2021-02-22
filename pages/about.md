@@ -28,7 +28,7 @@ When my PhD obligations permits, I am a game tester and localization translator 
 
 If you want to connect with me, you can find me on Steam as leeloo.
 
-I ama member of IGDA and hang out on Discord with people from <a href="https://designoriented.net/">IGDA Games Research & User Experience Special Interest Group</a>.
+I am a member of the IGDA (International Game Developers Association) and hang out on Discord with people from <a href="https://designoriented.net/">IGDA Games Research & User Experience Special Interest Group</a>.
 
 In "offline" world far from computer screens and my PhD, I enjoy water coloring, travelling, yoga, and playing basketball against my basketball proficient partner Cole.
 
