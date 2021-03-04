@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Feeds of academi articles I read"
+title: "Feeds of academic journals I read"
 author: "Leni Krsova"
 categories: resources
-tags: [pop culture, books, academics, PhD]
+tags: [pop culture, books, journals, academics, PhD]
 image: feedly-robot.jpg
 ---
 Us, researchers, live off of academic articles. Keeping up with the neverending flow of new research is a discipline of its own, so it's always nice when someone makes it easier for you. For the very reason, I am sharing with you my Feedly feed (no pun intended!) of academic journals.
