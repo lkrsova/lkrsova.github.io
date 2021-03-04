@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book to read: Watching Dallas, I. Ang"
+title: "Feeds of academi articles I read"
 author: "Leni Krsova"
 categories: resources
 tags: [pop culture, books, academics, PhD]
