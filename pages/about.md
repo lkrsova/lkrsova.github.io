@@ -30,5 +30,5 @@ If you want to connect with me, you can find me on Steam as leeloo.
 
 I am a member of the IGDA (International Game Developers Association) and hang out on Discord with people from <a href="https://grux.org/#1">IGDA Games Research & User Experience Special Interest Group</a> and <a href="https://www.designbuddies.community/">Design Buddies</a>.
 
-In "offline" world far from computer screens and my PhD, I enjoy water coloring, travelling, yoga, and playing basketball against my basketball proficient partner Cole.
+In "offline" world far from computer screens and my PhD, I enjoy water coloring, travelling, yoga, movies, and playing basketball against my basketball proficient partner Cole.
 
