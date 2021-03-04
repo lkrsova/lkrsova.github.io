@@ -26,7 +26,7 @@ I started playing video games when I was 5 and stopped as a teenager around the 
 
 When my PhD obligations permits, I am a game tester and localization translator for games and software. I am also learning the ropes of game design with Unity. I really enjoy environment design, and can spend endless hours creating pastures, mountains, and other types of landscape (usually with pre-made assets). 
 
-If you want to connect with me, you can find me on Steam as leeloo.
+If you want to connect with me, you can find me on <a href="https://steamcommunity.com/profiles/76561198067795186/">Steam</a>.
 
 I am a member of the IGDA (International Game Developers Association) and hang out on Discord with people from <a href="https://grux.org/#1">IGDA Games Research & User Experience Special Interest Group</a> and <a href="https://www.designbuddies.community/">Design Buddies</a>.
 
