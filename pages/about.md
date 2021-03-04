@@ -16,7 +16,7 @@ From the topics of datafication and data surveillance, I extended my interest to
 A current study I prepare to work on with Dr. Brian McKernan will concern about folk theories evolving around and explaining Netflix recommender algorithm.
 
 ### Video games
-I am interested in user experience (UX) and design of video games as an experience that helps us escape from our mundane worlds. I just recently started researching this domain.
+I am interested in user experience (UX) and design of video games as an experience that helps us escape from our mundane worlds and deal with unprecedent situations. Currently, I am learning about video games as helpful coping tools in pandemic.
 
 My favorite games are ones which put the gamer in the center of their design by **creating an immersive experience with their rich narrative and thoughtful designed experience**. I am currently working on my way through *The Witcher 3: Wild Hunt* and its expansions. I am also a huge fan of indie games (yay, Stardew Valley!) and applaud all the game developers for putting their work out there just because they love developing games. 
 
