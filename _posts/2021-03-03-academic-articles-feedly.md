@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feeds of info scienc, new media & pop culture academic journals I recommend"
+title: "Feeds of info science, new media & pop culture academic journals I recommend"
 author: "Leni Krsova"
 categories: resources
 tags: [pop culture, books, journals, academics, PhD]
