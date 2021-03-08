@@ -31,9 +31,11 @@ Essentially, **this is where you are done with a so-called skimming**, which is 
 
 Skimming is not always the end goal of reading an article. **Sometimes you need to know much more than just the superficial overlook**. To get to a certain level of details of information you could then use in your own work (in a paper, presentation, etc.), as the next step **you want to look at the headlines of different sections of the article**. This will give you a brief notion of how the article is structured and what are the parts authors talk about. Also, if you need to learn only about methods authors used in their research, you don’t have to read other parts of the article. Headlines will tell you where to start and where to stop.
 
-**One tip before you go:** A well-written paragraph starts and ends with sentences summarizing the main points of the paragraph. In a lot of cases, unless you are someone who has a reading FOMO, that’s enough for you to get the gist about the paragraph’s contents. Unfortunately, it’s not always the case.
+This is how my approach looks like in the practice on the first and last page of an article about <a href="http://soda.swedish-ict.se/5552/1/DarkPatterns.1.1.6_cameraready.pdf">Dark Patterns in the Design of Games</a> respectively:
 
-<img src="/assets/img/ac-articles-3.PNG" width="75%" height="75%">
-<img src="/assets/img/ac-articles-2.PNG" width="75%" height="75%">
+<img src="/assets/img/ac-articles-3.jpg" width="75%" height="75%">
+<img src="/assets/img/ac-articles-2.jpg" width="75%" height="75%">
+
+**One tip before you go:** A well-written paragraph starts and ends with sentences summarizing the main points of the paragraph. In a lot of cases, unless you are someone who has a reading FOMO, that’s enough for you to get the gist about the paragraph’s contents. Unfortunately, it’s not always the case.
 
 Since the researcher should always give the credit where it’s due, I need to confess that I learned this strategy and tweak it to my own reading habits from the book <a href="https://www.amazon.com/Grad-School-Essentials-Course-Scholarly/dp/0520288300">Grad School Essentials: A Crash Course in Scholarly Skills</a> by Zachary Shore. It's been saving my time and brain on multiple occassions throughout my PhD.
