@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Feeds of info science, new media & pop culture academic journals I recommend"
+title: "How to read academic articles without overloading your brain"
 author: "Leni Krsova"
 categories: resources
-tags: [pop culture, books, journals, academics, PhD]
+tags: [journals, academics, PhD]
 image: reading-academic-articles.jpg
 ---
 For untrained eyes reading academic articles might be a daunting task. As I witness daily with students, it can alienate even the most curious people from learning something new.
