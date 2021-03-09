@@ -38,15 +38,13 @@ This is how my approach looks like in the practice on the first and last page of
 
 **One tip before you go:** A well-written paragraph starts and ends with sentences summarizing the main points of the paragraph. In a lot of cases, unless you are someone who has a reading FOMO, that’s enough for you to get the gist of the paragraph’s contents. Unfortunately, it’s not always the case.
 
-TLDR; version:
+**TLDR; version:**
 
-*
-1. Check the title of the article to see what is going on and what the main topic of the article is
+1. Check the title of the article to see what is going on and what the main topic of the article is.
 2. Read the abstract, which should be a summary of the article placed at right before the article starts.
 3. Read the conclusion or discussion part at the end of the article to learn about the summary of the research described in the article.
 4. Look at the headlines of different sections of the article to understand what each section is about.
 5. Read first and last sentence of the paragraph to get the gist of the paragraph's contents.
-*
 
 ---
 
