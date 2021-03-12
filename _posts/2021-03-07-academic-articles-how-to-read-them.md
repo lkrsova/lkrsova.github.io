@@ -21,7 +21,7 @@ Believe it or not, this is how the reading of academic articles work (or can wor
 
 First, you **check the title of the article to see what is going on and what the main topic of the article is**. Some authors disclose their findings right in the headline which makes your life way easier (yay!). Some use keywords to get the traction for their article, although the content doesn’t talk about the topic at all. Some are enigmatic and don’t tell you much, and it’s up to you to dig a bit deeper in the article itself to learn about its content. 
 
-The second step is to **read the abstract, which should be a summary of the article placed at right before the article starts**. You can think about it as a movie trailer. A well written abstract gives you a glimpse of all the important parts of the article without spoiling all the content, only the important parts, The quality and information disclosed in the abstract vary greatly across the fields, but Anna Clemens gave a neat glimpse into the abstract anatomy that you can follow to make sense out of the one you read.
+The second step is to **read the abstract, which should be a summary of the article placed at right before the article starts**. You can think about it as a movie trailer. A well written abstract gives you a glimpse of all the important parts of the article without spoiling all the content. The quality and information disclosed in the abstract vary greatly across the fields, but Anna Clemens gave a neat glimpse into the abstract anatomy which you can follow to make sense out of the one you read.
 
 <img src="/assets/img/ac-abstract.PNG">
 
