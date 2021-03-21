@@ -1001,3 +1001,9 @@ pre {
   display: block;
   margin: 0 auto;
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: #013766;
+    border-color: #013766;
+}
