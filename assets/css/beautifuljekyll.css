@@ -69,7 +69,7 @@ hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 1px;
-  border-color: inherit;
+  border-color: lightgrey;
   border-radius: 0.1875rem;
 }
 
