@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Book to read: Watching Dallas, I. Ang"
-author: "Leni Krsova"
-categories: resources
+author: Leni Krsova
+readtime: true
 tags: [pop culture, books, academics, PhD]
 image: ang-dallas.png
 ---

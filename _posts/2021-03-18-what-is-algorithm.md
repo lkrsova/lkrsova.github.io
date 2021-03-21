@@ -6,7 +6,7 @@ categories: algorithms
 cover-img: /assets/img/algorithm.jpg
 readtime: true
 thumbnail-img: ""
-tags: [PhD, algorithms, academia]
+tags: [academia, PhD, algorithms]
 ---
 
 ### What is an algorithm? Depends on whom you ask
