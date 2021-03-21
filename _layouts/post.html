@@ -1,81 +1,82 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="page-content">
-  <h1>
-    {{ page.title }}
-  </h1>
+{% include header.html type="post" %}
 
-  <span class="post-date">
-    {{ site.data.settings.post_date_prefix }}
-    {% assign d = page.date | date: "%-d"  %}
-    {{ page.date | date: "%B" }}
-    {% case d %}
-      {% when '1' or '21' or '31' %}{{ d }}st
-      {% when '2' or '22' %}{{ d }}nd
-      {% when '3' or '23' %}{{ d }}rd
-      {% else %}{{ d }}th{% endcase %},
-    {{ page.date | date: "%Y" }}
-    by
-    {% if page.author %}
-      {{ page.author }}
-    {% else %}
-      {{ site.author }}
-    {% endif %}
-  </span>
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
 
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-    </div>
-  {% endif %}
+      {% if page.gh-repo %}
+        {% assign gh_split =  page.gh-repo | split:'/'  %}
+        {% assign gh_user =  gh_split[0]  %}
+        {% assign gh_repo =  gh_split[1]  %}
 
-  <article>
-    {{ content }}
-  </article>
-
-  <div class="post-share">
-    <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
-    <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-    </div>
-  </div>
-
-  <div class="related">
-    <h2>{{ site.data.settings.related_posts }}</h2>
-    {% assign listed_posts_urls = page.url | split: ' ' %}
-    <ul class="related-posts">
-      {% for tag in page.tags %}
-        {% for mypost in site.tags[tag] limit:2 %}
-          {% if listed_posts_urls contains mypost.url %}
-          {% else %}
-            <li>
-              <h3>
-                <a href="{{ site.github.url }}{{ mypost.url }}">
-                  <div class="related-thumbnail">
-                    {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
-                    {% endif %}
-                  </div>
-                  <div class="related-title">
-                    {{ mypost.title }}
-                  </div>
-                  <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
-                </a>
-              </h3>
-            </li>
-            {% assign listed_posts_urls = listed_posts_urls | push: mypost.url %}
+        <div id="header-gh-btns">
+          {% if page.gh-badge.size > 0 %}
+            {% for badge in page.gh-badge %}
+              {% case badge %}
+                {% when 'star'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'watch'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=watch&v=2&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'fork'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'follow'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
+              {% endcase %}
+            {% endfor %}
           {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </ul>
+        </div>
+      {% endif %}
+
+      {% if page.before-content %}
+        <div class="before-content">
+          {% for file in page.before-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+
+      {% if page.tags.size > 0 %}
+        <div class="blog-tags">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.after-content %}
+        <div class="after-content">
+          {% for file in page.after-content %}
+            {% include {{ file }} %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
+      <ul class="pagination blog-pager">
+        {% if page.previous.url %}
+        <li class="page-item previous">
+          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="page-item next">
+          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+      {% include comments.html %}
+    </div>
   </div>
-
-  {% if site.data.settings.disqus.comments %}
-    {% include disqus.html %}
-  {% endif %}
-
 </div>

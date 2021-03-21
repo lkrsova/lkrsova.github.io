@@ -3,8 +3,10 @@ layout: post
 title: "How to read academic articles without overloading your brain"
 author: "Leni Krsova"
 categories: resources
+readtime: true
+thumbnail: " "
 tags: [journals, academics, PhD]
-image: reading-academic-articles.jpg
+cover-img: assets/img/reading-academic-articles.jpg
 ---
 For untrained eyes reading academic articles might be a daunting task. As I witness daily with students, it can alienate even the most curious people from learning something new.
 
