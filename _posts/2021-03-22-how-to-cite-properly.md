@@ -24,14 +24,14 @@ Three common ways how to do it is by paraphrasing what they said [Krsova, 2019].
 
 <img src="/assets/img/citation.png">
 ### Citations tools to make your life easier
-Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. The usual suspects are Zotero, Mendeley, RefWorks, EndNote, BibTeX, etc. Which one you use is a question of preferences. I met people who were flexing their Zotero over mine, but it is the same thing as arguing about which superhero is better. At the end of the day, all of them have their kryptonites. I personally recently switched to PaperPile based on a recommendation by one of my friends and can confirm, I am a very happy camper. 
+Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. The usual suspects are Zotero, Mendeley, RefWorks, EndNote, BibTeX, etc. Which one you use is a question of preferences. I met people who were flexing their Zotero over mine management tool, but it was as pointless as arguing about which superhero is better. At the end of the day, all of them have their kryptonites. I personally recently switched to <a href="https://paperpile.com/">PaperPile</a> based on a recommendation from one of my friends, and can confirm, I am a very happy camper. 
 
-If you don't need to use a reference management tool, there are free and accesible options, too. I list just some of the online versions.
+If you don't need to use a reference management tool, there are free and accesible options which will help you cite, too.
 
 #### Google Scholar (+ browser extension)
-One of the msot common yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles. Not only it is a database of academic works, books, articles and other sources, but its features include cited by and cite option, version control, tagging etc.
+One of the most common, yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles. Not only it is a database of academic works, books, articles and other sources, but its features include cited by/cite option, version control, tagging etc.
 
-
+<div style="text-align: center"><img src="/assets/img/cite-button.PNG"></div>
 
 #### CiteThisForMe.com
 
