@@ -35,6 +35,8 @@ You can use Google Scholar also as a browser extension. It allows you to perform
 
 #### CiteThisForMe.com
 
+<div style="text-align: center"><img src="/assets/img/ctfm.PNG"></div>
+
 ### A couple words before we part
 A mix-matched APA and Chicago reference system should not be treated as a death penalty type of crime. A gentle reminder to make sure the student doesn't forget in the future is way more effective. Unfortunately, some professors use any mistakes in the refernce system of an essay as a tool how to exercise their powers over students. However, it is also true that correctly cited sources save everyone's beautiful butts from serious accusations of plagiarism and other type of intelectuall property theft. 
 
