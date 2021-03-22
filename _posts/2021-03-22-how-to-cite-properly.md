@@ -24,12 +24,12 @@ Three common ways how to do it is by paraphrasing what they said [Krsova, 2019].
 
 <img src="/assets/img/citation.png">
 ### Citations tools to make your life easier
-Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. Usually, you run into Zotero, Mendeley, RefWorks, EndNote and others. It is a question of preferences. I personally quite recently switched to PaperPile based on a recommendation by one of my friends. 
+Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. The usual suspects are Zotero, Mendeley, RefWorks, EndNote, BibTeX, etc. Which one you use is a question of preferences. I met people who were flexing their Zotero over mine, but it is the same thing as arguing about which superhero is better. At the end of the day, all of them have their kryptonites. I personally recently switched to PaperPile based on a recommendation by one of my friends and can confirm, I am a very happy camper. 
 
-If you don't need to use a reference management tool, there are free and accesible options, too.
+If you don't need to use a reference management tool, there are free and accesible options, too. I list just some of the online versions.
 
 #### Google Scholar (+ browser extension)
-One of them is Google Scholar, the alpha and omega of searching online for academic articles developed by Google. Not only it is a database of academic works, books, articles and other sources, but it's features include cited by, citing option, version control, tagging etc.
+One of the msot common yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles. Not only it is a database of academic works, books, articles and other sources, but its features include cited by and cite option, version control, tagging etc.
 
 
 
