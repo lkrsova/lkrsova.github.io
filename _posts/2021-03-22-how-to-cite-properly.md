@@ -12,7 +12,9 @@ In academia, citations are no joke. Either you have them in order, or you fail. 
 
 <div style="text-align: center"><img src="/assets/img/citation.png"></div>
 
-The basic premise of citing sources in academic writing of any sort is to **give credit where it's due to the smart people whose work inspired you to write yours**. It also prevents people from presenting other people's work as their own, which is an act of plagiarism and violation of academic intergrity. In non-academic word: you stole someone's idea and didn't give them credit.  Boo! So everyone can realize where and when you cite in your own writing, there are citations styles and rules unifying how to do it.
+The basic premise of citing sources in academic writing of any sort is to **give credit where it's due to the smart people whose work inspired you to write yours**. It also prevents people from presenting other people's work as their own, which is an act of plagiarism and violation of academic intergrity. In non-academic word: You stole someone's idea and didn't give them credit.  Boo!
+
+So everyone can realize where and when you cite in your own writing, there are citations styles and rules unifying how to do it.
 
 ### Citation styles 
 In the North American academic environment, the most commonly used citations styles are MLA, APA, and Chicago. The styles are dependent on the discipline, journals, and other domain-based practices and rules. Believe it or not, different people have different favorite citations styles as much as they have that one particular one they hate. In my case, I'm not a fan of the ones <a href="https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/">using numbers in brackets</a>. Unfortunately they are very common in my field. 
@@ -30,12 +32,12 @@ One of the most common, yet by industry people overlooked is <a href="https://sc
 
 <div style="text-align: center"><img src="/assets/img/cite-button.PNG"></div>
 
-You can use Google Scholar also as a browser extension. It allows you to perform the same thins you would do with a website version. One particularly neat thing happens when you open the extension on a website featuring an academic article. The extension shows all meta information and cite button, too. This is useful especially because many journal website don't have an accessible "cite" button/option.
+You can use Google Scholar also as <a href="https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,33#4">a browser extension</a>. It allows you to perform the same thins you would do with a website version. One particularly neat thing happens when you open the extension on a website featuring an academic article. The extension shows all meta information and cite button, too. This is useful especially because many journal website don't have an accessible "cite" button/option.
 
 <div style="text-align: center"><img src="/assets/img/google-scholar-extension.png"></div>
 
 #### CiteThisForMe.com
-
+CiteThisForMe.com is another tool for citing. It also tracks list of all the sources in a neat alphabeticsally ordered bibliography, so you don't have to compile it on your own (that's what reference management tools normally do for you, Google Scholar doesn't do that). CTFM.com also offers in-text citations, making your life a bit more easier.
 
 <div style="text-align: center"><img src="/assets/img/ctfm.PNG"></div>
 
