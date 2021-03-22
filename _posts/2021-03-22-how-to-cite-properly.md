@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to read academic articles without overloading your brain"
+title: "How to cite, the academic style"
 author: "Leni Krsova"
 categories: resources
 readtime: true
