@@ -24,7 +24,7 @@ Three common ways how to do it is by paraphrasing what they said [Krsova, 2019].
 
 <img src="/assets/img/citation.png">
 ### Citations tools to make your life easier
-Academics use some sort of tools helping them manage all their references. Usually, you run into Zotero, Mendeley, RefWorks, EndNote and others. It is a question of preferences. I personally quite recently switched to PaperPile based on a recommendation by one of my friends. 
+Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. Usually, you run into Zotero, Mendeley, RefWorks, EndNote and others. It is a question of preferences. I personally quite recently switched to PaperPile based on a recommendation by one of my friends. 
 
 If you don't need to use a reference management tool, there are free and accesible options, too.
 
