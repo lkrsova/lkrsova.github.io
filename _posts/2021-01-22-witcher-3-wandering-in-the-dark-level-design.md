@@ -46,8 +46,6 @@ What starts as a favor for your old friend, a sorceress Keira Metz, develops qui
 + White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
 + Nithral aka the final boss of this level.
 
-<img src="/assets/img/nithral-dark.jpg">
-
 That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
 The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse <a href="https://www.reddit.com/r/thewitcher3/comments/4m9ls2/a_rant_on_the_level_design_of_wandering_in_the/">at Reddit</a> or comments section under any YouTube walkthrough of this quest shows you how frustrating this part of the game is for many. People abandoned playing the game entirely because of this quest. They just didn't see a way to succeed in the game. They also probably thought that the game will get progressively more difficult which is (suprisingly) not the case.
@@ -60,7 +58,11 @@ As much as this level might have been a first rite of passage for a player, I be
 
 In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich) with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release**. As a consequence and also an illustration that people struggle with the same places of the game even years after the original release, **Google shows that the searching for the Wandering in The Dark" went up too**. Coincidentally, the same works for *Wild at Heart* quest. It is not much of a surprise since this quest the first time players runs into a werewolf. His quickly recharging health bar is a problem to overcome effectively only with a knowledge found online.
 
-<img src="/assets/img/witcher-trends.PNG">
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"wandering in the dark witcher","geo":"","time":"today 5-y"},{"keyword":"wild at heart witcher","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=wandering%20in%20the%20dark%20witcher,wild%20at%20heart%20witcher","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
 
 ### References
 [1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
