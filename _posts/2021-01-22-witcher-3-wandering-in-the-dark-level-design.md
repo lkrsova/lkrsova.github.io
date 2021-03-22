@@ -25,12 +25,12 @@ This being said, The Witcher 3 can be also a rather difficult game if you, like 
 ### Where are we in the game?
 If you completed all the side quests and points of interest (question marks on the map) in the White Orchard, you enter *Wandering in the Dark* in Velen either in the late stage of level 4 or on the verge of level 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners (I hate those guys!), or a group of ghouls scattered over a battlefield. But that's about it.
 
-Even though you've gone through everything in White Orchard tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
+Even though you've gone through everything in **White Orchard** tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
 
 <img src="/assets/img/kill-the-griffin.jpg">
 White Orchard is one of the best onboarding parts incorporated to a game seamlessly 
 
-Some of us at this stage also haven't found their way to the Bestiary system of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
+Some of us at this stage also haven't found their way to the **Bestiary system** of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
 
 ### Level design 
 Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
