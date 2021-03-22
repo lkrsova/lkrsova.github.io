@@ -18,10 +18,6 @@ In the North American academic environment, the most commonly used citations sty
 Here you can see different styles and how they look. The devil is in the details, but they are there and need to be acknowledged when you want to cite correctly:
 <div style="text-align: center"><img src="/assets/img/citations-styles.PNG"></div>
 
-### Citations rules
-Three common ways how to do it is by paraphrasing what they said [Krsova, 2019]. Using part of a sentence the
-
-
 <img src="/assets/img/citation.png">
 ### Citations tools to make your life easier
 Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. The usual suspects are Zotero, Mendeley, RefWorks, EndNote, BibTeX, etc. Which one you use is a question of preferences. I met people who were flexing their Zotero over mine management tool, but it was as pointless as arguing about which superhero is better. At the end of the day, all of them have their kryptonites. I personally recently switched to <a href="https://paperpile.com/">PaperPile</a> based on a recommendation from one of my friends, and can confirm, I am a very happy camper. 
@@ -32,6 +28,10 @@ If you don't need to use a reference management tool, there are free and accesib
 One of the most common, yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles. Not only it is a database of academic works, books, articles and other sources, but its features include cited by/cite option, version control, tagging etc.
 
 <div style="text-align: center"><img src="/assets/img/cite-button.PNG"></div>
+
+You can use Google Scholar also as a browser extension. 
+
+<div style="text-align: center"><img src="/assets/img/google-scholar-extension.png"></div>
 
 #### CiteThisForMe.com
 
