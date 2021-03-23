@@ -32,7 +32,7 @@ One of the most common, yet by industry people overlooked, is <a href="https://s
 
 <div style="text-align: center"><img src="/assets/img/cite-button.PNG"></div>
 
-You can use Google Scholar also as <a href="https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,33#4">a browser extension</a>. It allows you to perform the same thins you would do with a website version. One particularly neat thing happens when you open the extension on a website featuring an academic article. The extension shows all meta information and cite button, too. This is useful especially because many journal website don't have an accessible "cite" button/option.
+You can use Google Scholar also as <a href="https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,33#4">a browser extension</a>. It allows you to perform the same things you would do with a website version. One particularly neat thing happens when you open the extension on a website featuring an academic article. The extension shows all meta information and cite button, too. This is useful especially because many journal website don't have an accessible "cite" button/option.
 
 <div style="text-align: center"><img src="/assets/img/google-scholar-extension.png"></div>
 
