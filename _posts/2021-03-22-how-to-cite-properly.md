@@ -4,7 +4,7 @@ title: "How to cite, the academic style"
 author: "Leni Krsova"
 categories: resources
 readtime: true
-thumbnail: ""
+thumbnail: " "
 tags: [academia, PhD, academic protips]
 cover-img: assets/img/humble-lamb-references.jpg
 ---
