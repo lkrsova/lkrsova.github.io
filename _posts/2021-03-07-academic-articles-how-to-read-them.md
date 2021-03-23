@@ -16,7 +16,7 @@ As many academics can confess, strategies on how to read academic texts are the 
 
 So, before we reach the time when all the scientists, researchers and academics will write in a slightly approachable language, **these are some helpful strategies on how to read an academic article from yours only**.  
 
-## Order matters
+### Order matters
 This might be an illustrative story too old for some to remember, but bear with me. Have you ever noticed the manner sports fans read their daily (printed) newspapers? They start at the back and only after they learn everything they need to know about their favorite team’s last night performance, they turn the pages back towards the beginning of the papers and start reading from the beginning. What is not interesting to them is doomed to be skimmed, more intriguing pieces got more attention.
 
 Believe it or not, this is how the reading of academic articles work (or can work) for you too. Only a couple of tweaks and steps are different.
