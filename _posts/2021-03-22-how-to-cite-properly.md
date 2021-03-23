@@ -43,3 +43,6 @@ CiteThisForMe.com is another tool for citing. It also tracks list of all the sou
 
 ### A couple words before we part
 A mix-matched APA and Chicago reference system should not be treated as a death penalty type of crime. A gentle reminder to make sure the student doesn't forget in the future is way more effective. Unfortunately, some professors use any mistakes in the refernce system of an essay as a tool how to exercise their powers over students. I am sorry if you ever experienced that. Not all people are that way. Promise. It is also true that correctly cited sources can save you from serious accusations of plagiarism and other types of intelectual property theft. Just make sure you cite everything you used and you should be fine.
+
+#### References:
+https://www.explainxkcd.com/wiki/index.php/285:_Wikipedian_Protester
