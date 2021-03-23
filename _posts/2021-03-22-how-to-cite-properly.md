@@ -28,7 +28,7 @@ Academics use management tools to categorize and make sense of the sheer amount 
 If you don't need to use a reference management tool, there are free and accesible options which will help you cite, too.
 
 #### Google Scholar (+ browser extension)
-One of the most common, yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles. Not only it is a database of academic works, books, articles and other sources, but its features include cited by/cite option, version control, tagging etc.
+One of the most common, yet by industry people overlooked is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles (unless you use journal databases). Not only it is a database of academic works, books, articles and other sources, but its features include cited by/cite option, version control, tagging etc.
 
 <div style="text-align: center"><img src="/assets/img/cite-button.PNG"></div>
 
