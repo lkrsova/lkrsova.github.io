@@ -37,7 +37,7 @@ You can use Google Scholar also as <a href="https://scholar.google.com/scholar_s
 <div style="text-align: center"><img src="/assets/img/google-scholar-extension.png"></div>
 
 #### CiteThisForMe.com
-CiteThisForMe.com is another tool for citing. It also tracks list of all the sources in a neat alphabeticsally ordered bibliography, so you don't have to compile it on your own (that's what reference management tools normally do for you, Google Scholar doesn't do that). CTFM.com also offers in-text citations, making your life a bit more easier.
+CiteThisForMe.com is another tool for citing. It also tracks list of all the sources in a neat alphabetically ordered bibliography, so you don't have to compile it on your own (that's what reference management tools normally do for you, Google Scholar doesn't do that). CTFM.com also offers in-text citations, making your life a bit more easier.
 
 <div style="text-align: center"><img src="/assets/img/ctfm.PNG"></div>
 
