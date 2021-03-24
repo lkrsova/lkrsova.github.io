@@ -35,7 +35,7 @@ Some of us at this stage also haven't found their way to the **Bestiary system**
 ### Level design 
 Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
 
-What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, avoiding, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
+What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
 + bunch of drowners;
 + one or two foglets (this is the first time you meet them);
 + rats nests (because Keira, the powerful sorceress, is afraid of them...);
