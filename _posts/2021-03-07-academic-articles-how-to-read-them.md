@@ -17,13 +17,13 @@ As many academics can confess, strategies on how to read academic texts are the 
 So, before we reach the time when all the scientists, researchers and academics will write in a slightly approachable language, **these are some helpful strategies on how to read an academic article from yours only**.  
 
 ### Order matters
-This might be an illustrative story too old for some to remember, but bear with me. Have you ever noticed the manner sports fans read their daily (printed) newspapers? They start at the back and only after they learn everything they need to know about their favorite team’s last night performance, they turn the pages back towards the beginning of the papers and start reading from the beginning. What is not interesting to them is doomed to be skimmed, more intriguing pieces got more attention.
+This might be an illustrative story too old for some to remember, but bear with me. Have you ever noticed the manner sports fans read their daily (printed) newspapers? They start at the back and only after they learn everything they need to know about their favorite team’s last night performance, they turn the pages back towards the beginning of the papers and start reading from there. What is not interesting to them is doomed to be skimmed, more intriguing pieces got more attention.
 
 Believe it or not, this is how the reading of academic articles work (or can work) for you too. Only a couple of tweaks and steps are different.
 
 First, you **check the title of the article to see what is going on and what the main topic of the article is**. Some authors disclose their findings right in the headline which makes your life way easier (yay!). Some use keywords to get the traction for their article, although the content doesn’t talk about the topic at all. Some are enigmatic and don’t tell you much, and it’s up to you to dig a bit deeper in the article itself to learn about its content. 
 
-The second step is to **read the abstract, which should be a summary of the article placed at right before the article starts**. You can think about it as a movie trailer. A well written abstract gives you a glimpse of all the important parts of the article without spoiling all the content. The quality and information disclosed in the abstract vary greatly across the fields, but Anna Clemens gave a neat glimpse into the abstract anatomy which you can follow to make sense out of the one you read.
+The second step is to **read the abstract, which should be a summary of the article placed right before the article starts**. You can think about it as a movie trailer. A well written abstract gives you a glimpse of all the important parts of the article without spoiling all the content. The quality and information disclosed in the abstract vary greatly across the fields, but <a href="https://www.annaclemens.com/">Dr. Anna Clemens</a>, who is a scientific writing coach I like following, gave a neat glimpse into the abstract anatomy which you can follow to make sense out of the one you read.
 
 <img src="/assets/img/ac-abstract.PNG">
 
