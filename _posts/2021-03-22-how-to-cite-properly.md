@@ -17,7 +17,9 @@ The basic premise of citing sources in academic writing of any sort is to **give
 So everyone can realize where and when you cite in your own writing, there are citations styles and rules unifying how to do it.
 
 ### Citation styles 
-In the North American academic environment, the most commonly used citations styles are MLA, APA, and Chicago. The styles are dependent on the discipline, journals, and other domain-based practices and rules. Believe it or not, different people have different favorite citations styles as much as they have that one particular one they hate. In my case, I'm not a fan of the ones <a href="https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/">using numbers in brackets</a>. Unfortunately they are very common in my field. 
+In the North American academic environment, the most commonly used citations styles are MLA, APA, and Chicago. The styles are dependent on the discipline, journals, and other domain-based practices and rules.
+
+Believe it or not, different people have different favorite citations styles as much as they have that one particular one they hate. In my case, I'm not a fan of the ones <a href="https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/">using numbers in brackets</a>. Unfortunately they are very common in my field. 
 
 Here you can see different styles and how they look. The devil is in the details, but they are there and need to be acknowledged when you want to cite correctly:
 <div style="text-align: center"><img src="/assets/img/citations-styles.PNG"></div>
