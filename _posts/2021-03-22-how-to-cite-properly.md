@@ -12,7 +12,7 @@ In academia, citations are no joke. Either you have them in order, or you fail. 
 
 <div style="text-align: center"><img src="/assets/img/citation.png"></div>
 
-The basic premise of citing sources in academic writing of any sort is to **give credit where it's due to the smart people whose work inspired you to write yours**. It also prevents people from presenting other people's work as their own, which is an act of plagiarism and violation of academic intergrity. In non-academic word: You stole someone's idea and didn't give them credit.  Boo!
+The basic premise of citing sources in academic writing of any sort is to **give credit where it's due to the smart people whose work inspired you to write yours**. It also prevents people from presenting other people's work as their own, which is an act of plagiarism and violation of academic intergrity. In a non-academic word: You stole someone's idea and didn't give them credit.  Boo!
 
 So everyone can realize where and when you cite in your own writing, there are citations styles and rules unifying how to do it.
 
