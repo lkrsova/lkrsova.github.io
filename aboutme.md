@@ -31,7 +31,8 @@ I love connecting with people and learning from the experts. That's why I hang o
 - <a href="https://igda.org/">IGDA (International Game Developers Association)</a>,
 - <a href="https://grux.org/">IGDA Games Research & User Experience Special Interest Group</a>,
 - <a href="https://www.designbuddies.community/">Design Buddies</a>,
-- <a href="https://interfaceingame.com/">Interface of Game</a>.
+- <a href="https://www.womeningames.org/">Women in Game</a>,
+- and <a href="https://interfaceingame.com/">Interface of Game</a>.
 
 I am a proud patreon of <a href="https://www.patreon.com/noclip">NoClip productions</a> and you should become a one too.
 
