@@ -11,7 +11,7 @@ tags: [uxdesign, adobe xd, video games]
 Learning about UX/UI without actually designing a prototype is like learning to swim without stepping into water. Thankfully, there's tons of tools accesible and kind to beginners and to-be UX/UI designers. One of them is Adobe XD, which I've been using lately to learn basics of designing, prototyping and testing low-fidelity to high-fidelity prototypes of (mostly) game-related designs.
 
 <img src="/assets/img/adobe-xd-fun-stuff.PNG">
-**Prototyping and wiring is my favorite part of working with Adobe XD**
+*Prototyping and wiring is my favorite part of working with Adobe XD*
 
 Recently, I run into a YouTube tutorial by <a href="https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA">Dansky</a> in which he explains step-by-step how to make a basic introductory game interface selecting a character to play as.
 
