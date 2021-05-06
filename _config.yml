@@ -43,7 +43,7 @@ title-img: /assets/img/icon.png
 social-network-links:
  # email: "someone@example.com"
  # facebook:
-  twitter: https://twitter.com/lenikrsova
+  twitter: lenikrsova
 #  patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
@@ -62,7 +62,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=B-T_Hj_cescC&hl=en&authuser=1&oi=ao
+  google-scholar: citations?user=B-T_Hj_cescC&hl=en&authuser=1&oi=ao
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
