@@ -6,6 +6,7 @@ cover-img: assets/img/start-screen-2.png
 readtime: true
 thumbnail-img: " "
 tags: [uxdesign, adobe xd, video games]
+cover-img: assets/img/start-screen-2.png
 ---
 
 Learning about UX/UI without actually designing a prototype is like learning to swim without stepping into water. Thankfully, there's tons of tools accesible and kind to beginners and to-be UX/UI designers.
