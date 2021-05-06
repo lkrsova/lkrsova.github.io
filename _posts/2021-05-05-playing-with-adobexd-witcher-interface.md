@@ -12,15 +12,12 @@ Learning about UX/UI without actually designing a prototype is like learning to 
 
 Recently, I run into a YouTube tutorial by <a href="https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA">Dansky</a> in which he explains step-by-step how to make a basic introductory game interface selecting a character to play as.
 
-
- Using tutorials from Dansky and <a href="https://twitter.com/pingdani">Dani Beaumont</a> from Adobe, I designed and prototyped an alternative version of Witcher 3: Wild Hunt as if it was a game where you can choose between Geralt and Ciri to play their respective story. I am not saying that <a href="https://en.cdprojektred.com/">CD Projekt RED</a> should make a game like this but... We can only hope that, as they announced they started working on Witcher 4, maybe there will be something like this in the Witcher universe soon?
+Using tutorials from Dansky and <a href="https://twitter.com/pingdani">Dani Beaumont</a> from Adobe, I designed and prototyped an alternative version of Witcher 3: Wild Hunt as if it was a game where you can choose between Geralt and Ciri to play their respective story.
+ 
+<center><iframe width="720" height="405" src="https://xd.adobe.com/embed/4917e1e6-bf6f-43db-9869-b40bb0d5a19a-1c44/" frameborder="0" allowfullscreen></iframe></center>
+Use X, O, and arrow keys (left and right) accordingly to navigate through the prototype. Click for bigger version.
+ 
+I am not saying that <a href="https://en.cdprojektred.com/">CD Projekt RED</a> should make a game like this but... We can only hope, as they announced they started working on Witcher 4, there will be something like this in the Witcher universe soon?
 
 <img src="/assets/img/adobe-xd-fun-stuff.PNG">
 Prototyping and wiring is my favorite part of working with Adobe XD
-
-So, without further ado, if you want to try my very very basic prototype, here it is. Use X, O, and arrow keys (left and right) accordingly to navigate through the prototype. It's not much but it's an honest work and first attempt to tame the beast of the game UI design. Have fun!
-
-<center><iframe width="720" height="405" src="https://xd.adobe.com/embed/4917e1e6-bf6f-43db-9869-b40bb0d5a19a-1c44/" frameborder="0" allowfullscreen></iframe></center>
-Click for bigger version.
-
-P.S. In this prototype you can only choose to play as Ciri.
