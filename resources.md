@@ -13,8 +13,6 @@ cover-img: "/assets/img/resources.jpg"
         }
 </style>
 
-<div class="intro-header"></div>
-
 This page is currently in progress. Stay tuned, I am gathering all the resources.
 
 
