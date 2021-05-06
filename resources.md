@@ -6,4 +6,4 @@ cover-img: "/assets/img/resources.jpg"
 
 ---
 
-This page is currently in the progress. Stay tuned, I am gathering all the resources.
+This page is currently in progress. Stay tuned, I am gathering all the resources.
