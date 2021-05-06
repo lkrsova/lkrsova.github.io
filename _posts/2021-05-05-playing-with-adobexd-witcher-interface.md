@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Designing game interface in Adobe XD for the first time"
+title: "Designing a game interface in Adobe XD for the first time"
 author: Leni Krsova
-cover-img: /assets/img/start-screen-2.png
+cover-img: assets/img/start-screen-2.png
 readtime: true
 thumbnail-img: ""
 tags: [uxdesign, adobe xd, video games]
 ---
 
-Learning about UX/UI without actually designing a prototype is like learning to swim without stepping into water. Thankfully, there's tons of tools accesible and kind to beginners and to-be UX/UI designers. One of them is <a href="https://www.adobe.com/products/xd.html">Adobe XD</a>, which I've been using lately to learn basics of designing, prototyping and testing low-fidelity to high-fidelity prototypes of (mostly) game-related designs.
+Learning about UX/UI without actually designing a prototype is like learning to swim without stepping into water. Thankfully, there's tons of tools accesible and kind to beginners and to-be UX/UI designers.
+
+One of them is <a href="https://www.adobe.com/products/xd.html">Adobe XD</a>, which I've been using lately to learn basics of designing, prototyping and testing low-fidelity to high-fidelity prototypes of (mostly) game-related designs.
 
 <img src="/assets/img/adobe-xd-fun-stuff.PNG">
 *Prototyping and wiring is my favorite part of working with Adobe XD*
