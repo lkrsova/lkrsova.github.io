@@ -8,7 +8,7 @@ cover-img: "/assets/img/resources.jpg"
 
 <style>
     .row {
-        width: 1500px;
+        width: 1200px;
         
         }
 </style>
