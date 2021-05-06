@@ -22,5 +22,6 @@ Prototyping and wiring is my favorite part of working with Adobe XD
 So, without further ado, if you want to try my very very basic prototype, here it is. Use X, O, and arrow keys (left and right) accordingly to navigate through the prototype. It's not much but it's an honest work and first attempt to tame the beast of the game UI design. Have fun!
 
 <center><iframe width="720" height="405" src="https://xd.adobe.com/embed/4917e1e6-bf6f-43db-9869-b40bb0d5a19a-1c44/" frameborder="0" allowfullscreen></iframe></center>
+Click for bigger version.
 
 P.S. In this prototype you can only choose to play as Ciri.
