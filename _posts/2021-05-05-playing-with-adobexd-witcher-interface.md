@@ -4,7 +4,7 @@ title: "Designing a game interface in Adobe XD for the first time"
 author: Leni Krsova
 cover-img: assets/img/start-screen-2.png
 readtime: true
-thumbnail-img: ""
+thumbnail-img: " "
 tags: [uxdesign, adobe xd, video games]
 ---
 
