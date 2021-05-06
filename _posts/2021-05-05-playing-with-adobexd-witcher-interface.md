@@ -18,7 +18,7 @@ Recently, I run into a YouTube tutorial by <a href="https://www.youtube.com/chan
 Using tutorials from Dansky and <a href="https://twitter.com/pingdani">Dani Beaumont</a> from Adobe, I designed and prototyped an alternative version of **Witcher 3: Wild Hunt** as if it was a game where you can choose between Geralt and Ciri to play their respective story.
  
 <center><iframe width="720" height="405" src="https://xd.adobe.com/embed/4917e1e6-bf6f-43db-9869-b40bb0d5a19a-1c44/" frameborder="0" allowfullscreen></iframe></center>
-*Use X, O, and arrow keys (left and right) accordingly to navigate through the prototype. Click for bigger version.*
+*Use X, O, and arrow keys (left and right) accordingly to navigate through the prototype.*
  
 I am not saying that <a href="https://en.cdprojektred.com/">CD Projekt RED</a> should make a game like this but... We can only hope, as they announced they started working on Witcher 4, there will be something like this in the Witcher universe soon?
 
