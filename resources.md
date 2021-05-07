@@ -13,4 +13,4 @@ cover-img: "/assets/img/resources.jpg"
         }
 </style>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrha3eto8plk6anT?backgroundColor=white&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="2800px" style="background: transparent; border: 0px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrha3eto8plk6anT?backgroundColor=white&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="3500px" style="background: transparent; border: 0px solid #ccc;"></iframe>
