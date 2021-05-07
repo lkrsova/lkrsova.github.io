@@ -13,4 +13,6 @@ cover-img: "/assets/img/resources.jpg"
         }
 </style>
 
+Here you find all the resources that help me learn about UX/UI and video games.
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrha3eto8plk6anT?backgroundColor=white&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="3500px" style="background: transparent; border: 0px solid #ccc;"></iframe>
