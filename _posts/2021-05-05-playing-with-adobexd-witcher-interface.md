@@ -15,7 +15,7 @@ One of them is <a href="https://www.adobe.com/products/xd.html">Adobe XD</a>, wh
 <img src="/assets/img/adobe-xd-fun-stuff.PNG">
 *Prototyping and wiring is my favorite part of working with Adobe XD*
 
-Recently, I run into a YouTube tutorial by <a href="https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA">Dansky</a> in which he explains step-by-step how to make a basic introductory game interface selecting a character to play as.
+Recently, I ran into a YouTube tutorial by <a href="https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA">Dansky</a> in which he explains step-by-step how to make a basic introductory game interface selecting a character to play as.
 
 Using tutorials from Dansky and <a href="https://twitter.com/pingdani">Dani Beaumont</a> from Adobe, I designed and prototyped an alternative version of **Witcher 3: Wild Hunt** as if it was a game where you can choose between Geralt and Ciri to play their respective story.
  
