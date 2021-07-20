@@ -21,7 +21,7 @@ A current study I prepare to work on will concern about **folk theories evolving
 
 I am interested in user experience (UX) and design of video games as an experience that helps us escape from our mundane worlds and deal with unprecedented situations.
 
-My favorite games are the ones which put gamers in the center of the design by creating an immersive experience using narrative and thoughtfully designed experience. I am currently working on my way through The Witcher 3: Wild Hunt and its expansions. I am also a huge fan of indie games and applaud all the game developers for putting their work out there just because they love developing games.
+My favorite games are the ones which put gamers in the center of the design by creating an immersive experience using narrative and thoughtfully designed experience. I am currently working on finalizing my way through The Witcher 3: Wild Hunt by completing all the POIs in the game. When the Slavic folklore and monster hunter becomes mundane (which doesn't happen often), I am on the quest to finish Assassins Creed: Odyssey. I am also a huge fan of indie games and I applaud all the game developers for putting their work out there just because they love developing games.
 
 I started playing video games when I was 5 and stopped as a teenager around the time the first Mass Effect came out. I used to play games including first-person shooters like DOOM, Quake, Heretic, Duke Nukem 3D; strategy games like Sid Meier’s Colonization and Civilization, Age of Empires, Caesar III, Tycoons; RPG games like Mafia, Diablo II; and adventure games including Czech Polda, Veil of Darkness, and others.
 
@@ -34,7 +34,7 @@ I love connecting with people and learning from the experts. That's why I hang o
 - <a href="https://www.womeningames.org/">Women in Games</a>,
 - and <a href="https://interfaceingame.com/">Interface of Game</a>.
 
-I am a proud patreon of <a href="https://www.patreon.com/noclip">NoClip productions</a> and you should become a one too.
+I am a proud patreon of <a href="https://www.patreon.com/noclip">NoClip productions</a> and I believe you should become a one too!
 
 ## Outside of Academia
 
@@ -45,4 +45,4 @@ When my PhD obligations permits, I am a game tester and localization translator 
 I really enjoy environment design and GUI, and can spend endless hours creating pastures, mountains, and other types of landscape (usually with pre-made assets).
 
 ### "I'm a bit of a painter myself."
-In “offline” world far from computer screens and my PhD, I enjoy water coloring, traveling, cooking, reading, yoga, movies, and playing basketball with my basketball proficient partner Cole.
+In “offline” world far from computer screens and my PhD, I enjoy water coloring, traveling, cooking, reading, yoga, movies, and playing basketball with my basketball proficient boyfriend Cole.
