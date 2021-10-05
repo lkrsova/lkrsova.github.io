@@ -1,25 +1,27 @@
----
-layout: base
----
+<!DOCTYPE html>
 
-<div class="intro-header"></div>
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
 
-<div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  {% if page.before-content %}
-    <div class="before-content">
-      {% for file in page.before-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
+<html lang="en" class="h-100">
 
-  {{ content }}
+{% include head.html %}
 
-  {% if page.after-content %}
-    <div class="after-content">
-      {% for file in page.after-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
-</div>
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    {% include navbar.html %}
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  {% include analytics.html %}
+  {% include scripts.html %}
+
+</body>
+
+</html>
