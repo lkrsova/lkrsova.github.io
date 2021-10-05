@@ -4,10 +4,10 @@ permalink:           /:title
 # Setup
 timezone:            New York
 locale:              en_us
-name:				         Leni Krsova
-title:               Game Design portfolio
-tagline:             'tagline'
-description:         'description'
+name:	               Leni Krsova
+title:               game design portfolio
+tagline:             'Leni Krsova'
+description:         'game design portfolio'
 url:                 site url
 rss:                 rss feed url
 baseurl:             ''
