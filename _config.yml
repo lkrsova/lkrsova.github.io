@@ -2,12 +2,12 @@
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
+timezone:            New York
 locale:              en_us
-name:				         Leni Krsová
-title:               Game Design portfolio
-tagline:             'tagline'
-description:         'description'
+name:	               Leni Krsova
+title:               game design portfolio
+tagline:             'Leni Krsova'
+description:         'game design portfolio'
 url:                 site url
 rss:                 rss feed url
 baseurl:             ''
@@ -19,7 +19,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Leni Krsova
   url:            	 your site url
   facebook:          username
   twitter:           username
