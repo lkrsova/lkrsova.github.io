@@ -1,12 +1,12 @@
 {
-  "name": "Mickey",
+  "name": "Leni Krsová",
   "version": "0.0.1",
-  "description": "A minimal one-column, responsive theme for Jekyll",
-  "homepage": "http://vincentchan.github.io/mickey",
-  "author": "Vincent Chan",
+  "description": "Game design portfolio",
+  "homepage": "http://lenikrsova.github.io",
+  "author": "Leni Krsova",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentchan"
+    "url": "https://github.com/lenikrsova"
   },
   "devDependencies": {
     "browser-sync": "~2.9.7",
