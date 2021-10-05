@@ -4,9 +4,8 @@ title: "How to cite, the academic style"
 author: "Leni Krsova"
 categories: resources
 readtime: true
-thumbnail: " "
 tags: [academia, PhD, academic protips]
-cover-img: assets/img/humble-lamb-references.jpg
+
 ---
 In academia, citations are no joke. Either you have them in order, or you fail. At least, that's  one of the most perpetuating myths about citing sources in academia. There are **tons of myths like this one, which makes it unnecessarily difficult for students to chill about the way they cite, and just do it.** With some handy tools and basic rules, citations are not as terrifying as it sometimes look, and can be done by anyone.
 
