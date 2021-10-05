@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Book to read: Pop Culture Freaks, D. Kidd"
-author: Leni Krsova
+author: "Leni Krsova"
 readtime: true
-tags: [books, pop culture, academics, PhD]
+tags: [books,pop culture,academics,PhD]
 image: dkidd-popfreaks.png
 ---
 Dustin Kidd is a professor of sociology at Temple University of Philadelphia. In his <a href="http://www.dustinkidd.net/pop-culture-freaks-2nd-edition">book</a>, using a metaphor of freaks being everyone and anyone not just people ostracized and pushed to the rims of society, he aims to explore **how popular culture creates a sense of closeness and remoteness for everyone**. The theoretical concept he uses in his book draw from sociology (e.g. reflection theory, feminist theories), economy, communication studies, cultural studies, and reception studies. Mostly, he focuses on the intersection of identity in popular culture. Kidd aims to answer a research question on how identity influences popular culture through five dimensions of identity including race, class, gender, sexuality, and disability, adding a global perspective as a summarizing factor to his analysis.
