@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Book to read: Gaming at The Edge, A. Shaw"
-author: Leni Krsova
+author: "Leni Krsova"
 readtime: true
-thumbnail-img: ""
 tags: [pop culture, books, academics, PhD]
 cover-img: /assets/img/ashaw-philly.jpg
 ---
