@@ -3,7 +3,7 @@ permalink:           /:title
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+locale:              en_us
 name:				         Leni Krsová
 title:               Game Design portfolio
 tagline:             'tagline'
