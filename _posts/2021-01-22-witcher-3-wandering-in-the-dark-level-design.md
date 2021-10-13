@@ -2,7 +2,7 @@
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this hard"
 author: Leni Krsova
-image: /assets/img/witcher3-dark.jpg
+cover-imag: witcher3-dark.jpg
 readtime: true
 thumbnail-img: ""
 tags: [portfolio, video games]
