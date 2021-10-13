@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hi! Welcome to my game design portfolio!"
-author: "Paul Le"
+title: "Hi & Welcome!"
+author: "Leni Krsova"
 categories: documentation
 tags: [documentation,sample]
 image: algorithm.jpg
