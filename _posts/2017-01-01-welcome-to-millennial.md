@@ -4,7 +4,7 @@ title: "Hi & Welcome!"
 author: "Leni Krsova"
 categories: website
 tags: [documentation,sample]
-image: me-leni2.jpg
+featured-image: me-leni2.jpg
 
 ---
 
