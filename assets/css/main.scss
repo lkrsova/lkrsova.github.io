@@ -2,12 +2,6 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-.posts-wrapper {
-    padding-top: 80px;
-    margin: 10px 0 0 0;
-    display: block;
-    width: 1080px;
-
 /*
   Site variables
 */
@@ -29,3 +23,9 @@ $phone-width: 480px;
 $header-thickness: 56px;
 
 @import "_sass/-sections-dir";
+
+.posts-wrapper {
+    padding-top: 80px;
+    margin: 10px 0 0 0;
+    display: block;
+    width: 1080px;
