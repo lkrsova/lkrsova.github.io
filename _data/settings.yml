@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-170516909-1'
 
 menu:
-- {name: 'Portfolio', folder: 'pages', file: 'portfolio.md'}
-- {name: 'Research', folder: 'pages', file: 'research.md'}
-- {name: 'About', folder: 'pages', file: 'aboutme.md'}
+- {name: 'Portfolio', folder: 'pages', file: 'portfolio.html'}
+- {name: 'Research', folder: 'pages', file: 'research.html'}
+- {name: 'About', folder: 'pages', file: 'aboutme.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
