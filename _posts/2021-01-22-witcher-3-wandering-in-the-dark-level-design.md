@@ -2,9 +2,10 @@
 layout: post
 title: "Witcher 3: Wandering in the Dark quest should not be this hard"
 author: Leni Krsova
+categories: portfolio
 image: witcher3-dark.jpg
 readtime: true
-tags: [portfolio, video games]
+tags: [video games, game design, critique, witcher 3]
 ---
 
 As many people did during the ongoing pandemic, I also returned to video games. However, my rediscovered passion (I dropped out of it when I was a teenager) comes with a bit of a plot twist. Playing video games and being an information science researcher interested in researching algorithms, user experience, and pop culture writ-large, inspired me to start documenting my thoughts and ideas about video games here on this blog.
