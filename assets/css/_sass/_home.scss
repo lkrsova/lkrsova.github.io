@@ -1,6 +1,6 @@
 .featured-posts {
   height: 400px;
-  margin: 5px 10px 10px;
+  margin: 15px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11,6 +11,7 @@
   margin: 0;
   padding: 10px;
   position: absolute;
+  font-stretch: semi-expanded;
 }
 .featured-posts h2 span {
    display: inline-block;
