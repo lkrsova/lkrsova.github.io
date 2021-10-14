@@ -9,13 +9,13 @@ cover-img: "/assets/img/me-leni.jpg"
 
 ### Algorithms & Datafication
 
-**I used to work in companies handling personal data harvested from social media platforms like Facebook, Twitter and Instagram.** At some point I wasn’t okay with the unethical dimensions of this type of work and joined the other (Light) side of research. I moved both physically and mentally from Europe to USA to follow a path that allows me to ask and work on pressing questions like “Are people aware of their personal data being harvested and used so heavily? What can we do about it? Does anyone even care? How can we make people care? And how can we make companies be more transparent?” and so on.
+**I used to work in companies handling personal data harvested from social media platforms like Facebook, Twitter and Instagram.** At some point I wasn’t okay with the unethical dimensions of this type of work and joined the other ("Light") side of research. I moved both physically and mentally from Europe to the USA to follow a path that allows me to ask and work on fun research questions and problems.
+
+I am always interested in how people make sense of technology and how their experience with it is designed. Right now I am researching AI in video games and how gamers perceive believability of NPCs in story driven open world games like Witcher 3: Wild Hunt,
 
 From the topics of datafication and data surveillance, **I extended my interest to algorithms and how these help (or not) design the experience for thousands of people**. Currently, I am interested in learning more about the **intersection of recommmendation algorithms, datafication, data literacy and pop culture**.
 
-To be more specific, Netflix and alike are one of the socio-technical platforms I am interested in studying in detail. Especially intruiging is **what users make out of the algorithmic recommendations and related phenomena, and how they resist to what algorithms expect them to do**.
 
-A current study I prepare to work on will concern about **folk theories evolving around and explaining Netflix recommender algorithm**.
 
 ### Video games & UX/Design Research
 
