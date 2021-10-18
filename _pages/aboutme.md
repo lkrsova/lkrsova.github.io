@@ -36,7 +36,7 @@ If you want to hang out, let me know! You can also <a href="https://steamcommuni
 
 ### Game design
 
-When my PhD obligations permits, I am learning the ropes of game design with Unity and GameDevHub courses.
+When my PhD obligations permits, I am learning the ropes of game design with game design professionals in <a href="https://www.gamedevhub.cz/">GameDevHub courses</a>.
 
 ### "I'm a bit of a painter myself."
-In “offline” world far from computer screens and my PhD, I enjoy water coloring, anything pop culture, traveling, cooking, reading, yoga, movies, and playing basketball with my basketball proficient boyfriend Cole.
+In “offline” world far from computer screens, I enjoy water coloring, anything pop culture, traveling, cooking, reading, yoga, movies, and playing basketball with my basketball proficient boyfriend Cole.
