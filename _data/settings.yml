@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Leni Krsova
+  site_tagline: game design portfolio & academic blog
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -62,7 +62,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#A2DED0'
+  accent_color: '#1D3F6E'
   border_color: '#dddddd'
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
