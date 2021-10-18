@@ -4,7 +4,7 @@ subtitle: Originally from Central Europe, currently residing in Upstate New York
 featured_image: /images/me-leni.jpg
 ---
 
-![](/images/meleni.jpg)
+![](/images/me-leni.jpg)
 
 ## Research-wise
 
