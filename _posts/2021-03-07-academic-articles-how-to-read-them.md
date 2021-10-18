@@ -6,7 +6,7 @@ categories: resources
 readtime: true
 thumbnail: ""
 tags: [academia, PhD, academic protips]
-cover-img: assets/img/reading-academic-articles.jpg
+image: reading-academic-articles.jpg
 ---
 For untrained eyes reading academic articles might be a daunting task. As I witness daily with students, it can alienate even the most curious people from learning something new.
 
