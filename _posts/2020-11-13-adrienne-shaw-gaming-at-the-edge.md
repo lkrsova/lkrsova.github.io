@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "Book to read: Gaming at The Edge, A. Shaw"
 author: Leni Krsova
-readtime: true
-image: ashaw-philly.jpg
-thumbnail-img: ""
+featured_image: /images/posts/ashaw-philly.jpg
 tags: [pop culture, books, academics, PhD]
 ---
 Dr. Adrienne Shaw is a communication and <a href="https://www.phillymag.com/sponsor-content/alternative-to-zoom-call/">game studies scholar at Temple University</a>. She is well-known in the research community for her work on queer theory and LGBTQ representation in video games and pop culture. Shaw is interested in what people who are seen as on the edges of a gaming community (members identifying as LGBTQ, women, people of colors, etc.) think about representation and identification in video games and how their media use looks like.
