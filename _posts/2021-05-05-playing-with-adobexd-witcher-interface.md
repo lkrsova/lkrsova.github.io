@@ -2,7 +2,7 @@
 title: "Designing a game interface in Adobe XD for the first time"
 author: Leni Krsova
 tags: [uxdesign, adobe xd, video games]
-featured_image: image/posts/adobe-xd-fun-stuff.PNG
+featured_image: /images/posts/adobe-xd-fun-stuff.PNG
 ---
 
 Learning about UX/UI without actually designing a prototype is like learning to swim without stepping into water. Thankfully, there's tons of tools accesible and kind to beginners and to-be UX/UI designers.
