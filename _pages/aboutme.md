@@ -6,8 +6,6 @@ featured_image: /images/me-leni.jpg
 
 ![](/images/me-leni.jpg)
 
-## Research-wise
-
 ### Algorithms, AI & believability of NPCs
 
 I am always interested in how people make sense of technology and how their experience with it is designed. Right now I am researching AI in video games and how gamers perceive believability of NPCs in story driven open world games like Witcher 3: Wild Hunt,
