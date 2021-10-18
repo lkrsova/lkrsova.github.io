@@ -19,7 +19,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
-  font-family: 'Raleway', sans-serif;
 }
 
 h1 {
@@ -40,7 +39,7 @@ h4, h5, h6 {
 
 /* Body */
 body {
-  font-family: 'Lusitana', serif;
+  font-family: $base-font-family;
 }
 body img {
     align: middle;
@@ -56,8 +55,7 @@ p {
   margin-left: 0;
   margin-right: 0;
   line-height: 1.65;
-  font-family: 'Lusitana', serif;
-  font-size: 19px;
+  font-family: $body-font-family;
 }
 
 /* Lists */
@@ -65,7 +63,7 @@ ul, ol, dl {
   margin-top: 1rem;
   margin-bottom: 1rem;
   margin-left: 1.5rem;
-  font-family: 'Lusitana', serif;
+  font-family: $body-font-family;
 }
 
 ol li {
