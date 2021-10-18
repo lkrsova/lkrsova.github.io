@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "How to cite, the academic style"
 author: "Leni Krsova"
 categories: resources
-image: humble-lamb-references.jpg
-readtime: true
-thumbnail: " "
+featured_image: images/posts/humble-lamb-references.jpg
 tags: [academia, PhD, academic protips]
 ---
 
