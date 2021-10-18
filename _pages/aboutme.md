@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: Originally from Central Europe, currently residing in Upstate New York. I am an iSchool PhD student in an interdisciplinary field of information science & technology, studying AI in video games.
-featured_image: /images/meleni.jpg
+featured_image: /images/me-leni.jpg
 ---
 
 ![](/images/meleni.jpg)
