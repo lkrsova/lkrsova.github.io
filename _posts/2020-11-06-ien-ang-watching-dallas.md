@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Book to read: Watching Dallas, I. Ang"
 author: Leni Krsova
-readtime: true
-featured_image: /image/posts/ang-dallas.png
+featured_image: /images/posts/dallas-tv.jpg
 tags: [pop culture, books, academics, PhD]
 ---
 Ang is a cultural studies scholar and her study on pleasure as a constituent of the popularity of American soap opera Dallas from the 80s has been highly influential in the field of audience studies. Her questions answered in this book focus on why people watched Dallas and what are the determining factors of the enjoyment, the pleasure, of watching it.
