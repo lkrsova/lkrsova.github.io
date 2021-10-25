@@ -1,12 +1,12 @@
 ---
 title: Doučování angličtiny & konverzace
-subtitle: Work in progress!
+subtitle: 
 featured_image: /images/coffee.jpg
 ---
 
 Potřebujete pomoct se základy angličtiny? Nejste si jistí svým psaným projevem, chybí vám slovíčka, nebo si chcete jen s někým popovídat bez ostychu a z pohodlí vašeho domova?
 
-Není problém, se vším výše zmíněným vám dokážu pomoci!
+Není problém, se vším výše zmíněným vám umím pomoci!
 
 ### Kdo jsem?
 Jmenuju se Lenka ("Leni") Krsová a už třetím rokem žiju v USA ve státě New York. Zavedlo mě sem doktorandské studium z informačních věd a technologií na <a href="https://www.syracuse.edu/">Syracuse University</a>, kde zároveň učím jako tzv. graduate assitant studenty naší katedry informačních studií.
