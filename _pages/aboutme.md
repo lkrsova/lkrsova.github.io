@@ -4,7 +4,7 @@ subtitle: Originally from Central Europe, currently residing in Upstate New York
 featured_image: /images/me-leni.jpg
 ---
 
-![](/images/me-leni.jpg)
+![](/images/me-leni2.jpg)
 
 ### Algorithms, AI & believability of NPCs
 
