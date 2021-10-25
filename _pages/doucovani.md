@@ -1,5 +1,5 @@
 ---
 title: Doučování angličtiny & business psaní
-subtitle: 
+subtitle: Work in progress!
 featured_image: /images/coffee.jpg
 ---
