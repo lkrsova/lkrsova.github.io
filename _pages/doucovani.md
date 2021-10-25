@@ -13,7 +13,7 @@ Jmenuju se Lenka ("Leni") Krsová a už třetím rokem žiju v USA ve státě Ne
 
 Mám zkušenosti s** doučováním angličtiny u dětí i dospělých**. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou zažitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, neformální i akademickou angličtinou, ale i s konverzacemi a psaným projevem.
 
-Konkrétně mám k dispozici tři způsoby, jak vám pomoct s angličtinou na dálku & online:
+Konkrétně mám k dispozici **tři způsoby, jak vám pomoct s angličtinou** na dálku & online:
 + 60 minut anglické konverzace;
 + 45 minut konzultace nad vaším psaným projevem;
 + 45 minut doučování vybrané anglické gramatiky.
