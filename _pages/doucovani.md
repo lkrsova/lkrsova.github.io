@@ -16,6 +16,6 @@ Nabízím tři způsoby, jak vám můžu pomoct s vaší angličtinou:
 + 45 minut doučování vybrané anglické gramatiky
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/lenikrsova?primary_color=1d3f6e" style="min-width:320px;height:800px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/lenikrsova?primary_color=1d3f6e" style="min-width:320px;height:900px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
