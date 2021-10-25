@@ -11,7 +11,7 @@ Není problém, se vším výše zmíněným vám umím pomoci!
 ### Kdo jsem a co nabízím?
 Jmenuju se Lenka ("Leni") Krsová a už třetím rokem žiju v USA ve státě New York. Zavedlo mě sem doktorandské studium z informačních věd a technologií na <a href="https://www.syracuse.edu/">Syracuse University</a>, kde zároveň učím jako tzv. graduate assitant studenty naší katedry informačních studií.
 
-Mám zkušenosti s **doučováním angličtiny u dětí i dospělých**. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou zažitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, neformální i akademickou angličtinou, ale i s konverzacemi a psaným projevem.
+Mám zkušenosti s **doučováním angličtiny u dětí i dospělých**. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou žitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, neformální i akademickou angličtinou, ale i s konverzacemi a psaným projevem.
 
 Konkrétně mám k dispozici **tři způsoby, jak vám pomoct s angličtinou** na dálku & online:
 + 60 minut anglické konverzace (600,-);
