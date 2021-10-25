@@ -4,14 +4,14 @@ subtitle: Work in progress!
 featured_image: /images/coffee.jpg
 ---
 
-Potřebujete pomoct se základy angličtiny? Nejste si už moc jistí gramatikou, chybí vám slovíčka, nebo si chcete jen s někým popovídat be ostychu, že uděláte chyby a z pohodlí vašeho domova? Nebo byste chtěli zkonzultovat váš anglický psaný projev?
+Potřebujete pomoct se základy angličtiny? Nejste si jistí svým psaným projevem, chybí vám slovíčka, nebo si chcete jen s někým popovídat bez ostychu a z pohodlí vašeho domova?
 
-Není problém, se vším výše zmíněným vám ráda pomůžu!
+Není problém, se vším výše zmíněným vám dokážu pomoci!
 
 ### Kdo jsem?
-Jmenuju se Lenka ("Leni") Krsová a momentálně žiju v USA ve státě New York. Zavedlo mě sem doktorandské studium z informačních věd a technologií na <a href="https://www.syracuse.edu/">Syracuse University</a>, kde zároveň učím jako tzv. graduate assitant studenty naší katedry informačních studií.
+Jmenuju se Lenka ("Leni") Krsová a už třetím rokem žiju v USA ve státě New York. Zavedlo mě sem doktorandské studium z informačních věd a technologií na <a href="https://www.syracuse.edu/">Syracuse University</a>, kde zároveň učím jako tzv. graduate assitant studenty naší katedry informačních studií.
 
-Mám zkušenosti s doučováním angličtiny u dětí i dospělých. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou zažitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, ale i s konverzacemi a psaným projevem.
+Mám zkušenosti s doučováním angličtiny u dětí i dospělých. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou zažitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, neformální i akademickou angličtinou, ale i s konverzacemi a psaným projevem.
 
 ### Co nabízím?
 Máme k dispozici tři způsoby, jak vám pomoct s angličtinou:
