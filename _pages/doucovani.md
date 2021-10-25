@@ -8,18 +8,17 @@ Potřebujete pomoct se základy angličtiny? Nejste si jistí svým psaným proj
 
 Není problém, se vším výše zmíněným vám umím pomoci!
 
-### Kdo jsem?
+### Kdo jsem a co nabízím?
 Jmenuju se Lenka ("Leni") Krsová a už třetím rokem žiju v USA ve státě New York. Zavedlo mě sem doktorandské studium z informačních věd a technologií na <a href="https://www.syracuse.edu/">Syracuse University</a>, kde zároveň učím jako tzv. graduate assitant studenty naší katedry informačních studií.
 
 Mám zkušenosti s doučováním angličtiny u dětí i dospělých. Díky studiu jazykové školy mám certifikát úrovně C1 z angličtiny, B1 z francouzštiny, certifikaci TOEFL pro nerodilé mluvčí, ale hlavně mám již tříletou zažitou zkušenost v americkém univerzitním prostředí. Můžu vám tak pomoct nejen s anglickou gramatikou, neformální i akademickou angličtinou, ale i s konverzacemi a psaným projevem.
 
-### Co nabízím?
-Máme k dispozici tři způsoby, jak vám pomoct s angličtinou:
+Konkrétně mám k dispozici tři způsoby, jak vám pomoct s angličtinou:
 + 60 minut anglické konverzace;
 + 45 minut konzultace nad vaším psaným projevem;
 + 45 minut doučování vybrané anglické gramatiky.
 
-### Zajímá mě to, ale chci víc informací
+### Chcete víc informací?
 Rezervujte si v kalendáři dole 15 minutovou info schůzku, kde se mě můžete doptat, na vše, co chcete a kde se, doufám, domluvíme na detailech spolupráce.
 
 <!-- Calendly inline widget begin -->
