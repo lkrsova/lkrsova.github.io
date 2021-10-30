@@ -25,7 +25,7 @@ If you completed all the side quests and points of interest (question marks on t
 
 Even though you've gone through everything in **White Orchard** tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
 
-![](images/posts/kill-the-griffin.jpg)
+![](/images/posts/kill-the-griffin.jpg)
 White Orchard is one of the best onboardings genuinely incorporated into a game
 
 Some of us at this stage also haven't found their way to the **Bestiary system** of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
