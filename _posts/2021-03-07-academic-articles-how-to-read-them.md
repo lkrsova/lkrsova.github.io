@@ -22,7 +22,7 @@ First, you **check the title of the article to see what is going on and what the
 
 The second step is to **read the abstract, which should be a summary of the article placed right before the article starts**. You can think about it as a movie trailer. A well written abstract gives you a glimpse of all the important parts of the article without spoiling all the content. The quality and information disclosed in the abstract vary greatly across the fields, but <a href="https://www.annaclemens.com/">Dr. Anna Clemens</a>, who is a scientific writing coach I like following, gave a neat glimpse into the abstract anatomy which you can follow to make sense out of the one you read.
 
-<img src="/assets/img/ac-abstract.PNG">
+![](/images/posts/ac-abstract.PNG)
 
 The next step goes contrary to the usual approach of reading. In the third step, **you read the conclusion or discussion part at the end of the article to learn about the summary of the research described in the article**. Why? Most academics summarize their findings and recapitulate in this part of the document what they described in a lengthy way in the article.  At this point, you might aslo want to **check if the article has an introduction where the same summary usually happens too**. This varies based on the discipline and its norms on how to structure a paper, so don’t worry if one of the parts is missing. Reading this way also gives justification to my sports newspaper metaphor *wink wink*.
 
@@ -32,12 +32,12 @@ Skimming is not always the end goal of reading an article. **Sometimes you need 
 
 This is how my approach looks like in the practice on the first and last page of an article about <a href="http://soda.swedish-ict.se/5552/1/DarkPatterns.1.1.6_cameraready.pdf">Dark Patterns in the Design of Games</a> respectively:
 
-<img src="/assets/img/ac-articles-3.jpg" width="75%" height="75%">
-<img src="/assets/img/ac-articles-2.jpg" width="75%" height="75%">
+![](/images/posts/ac-articles-3.jpg)
+![](/images/posts/ac-articles-2.jpg)
 
 **One tip before you go:** A well-written paragraph starts and ends with sentences summarizing the main points of the paragraph. In a lot of cases, unless you are someone who has a reading FOMO, that’s enough for you to get the gist of the paragraph’s contents. Unfortunately, it’s not always the case.
 
-**TLDR; version:**
+### TLDR; version:
 
 1. Check the title of the article to see what is going on and what the main topic of the article is.
 2. Read the abstract, which should be a summary of the article placed at right before the article starts.
