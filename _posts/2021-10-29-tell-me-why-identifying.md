@@ -15,7 +15,7 @@ Tell Me Why was published in 2020 by XboX Games Studios (run by Microsoft). This
 
 ![](/images/posts/tellmewhy-4.jpg)
 
-![](/images/posts/tellmewhy-5.jpg)
+![](/images/posts/tellmewhy-5.png)
 
 #### References:
 Photos from IGN.com
