@@ -20,7 +20,8 @@ In the North American academic environment, the most commonly used citations sty
 Believe it or not, different people have different favorite citations styles as much as they have that one particular one they hate. In my case, I'm not a fan of the ones <a href="https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/">using numbers in brackets</a>. Unfortunately they are very common in my field. 
 
 Here you can see different styles and how they look. The devil is in the details, but they are there and need to be acknowledged when you want to cite correctly:
-<div style="text-align: center"><img src="/images/posts/citations-styles.PNG"></div>
+
+![](/images/posts/citations-styles.PNG)
 
 ### Citations tools to make your life easier
 Academics use management tools to categorize and make sense of the sheer amount of literature they read or at least use for their research. The usual suspects are Zotero, Mendeley, RefWorks, EndNote, BibTeX, etc. Which one you use is a question of preferences. I met people who were flexing their Zotero over mine management tool, but it was as pointless as arguing about which superhero is better. At the end of the day, all of them have their kryptonites. I personally recently switched to <a href="https://paperpile.com/">PaperPile</a> based on a recommendation from one of my friends. I can confirm, I am a very happy camper. 
@@ -30,16 +31,16 @@ If you don't need to use a reference management tool, there are free and accesib
 #### Google Scholar (+ browser extension)
 One of the most common, yet by industry people overlooked, is <a href="https://scholar.google.com/">Google Scholar</a>; the alpha and omega of searching online for academic articles (unless you use journal databases). Not only it is a database of academic works, books, articles and other sources, but its features include cited by/cite option, version control, tagging etc.
 
-<div style="text-align: center"><img src="/images/posts/cite-button.PNG"></div>
+![](/images/posts/cite-button.PNG)
 
 You can use Google Scholar also as <a href="https://scholar.google.com/scholar_settings?sciifh=1&hl=en&as_sdt=0,33#4">a browser extension</a>. It allows you to perform the same things you would do with a website version. One particularly neat thing happens when you open the extension on a website featuring an academic article. The extension shows all meta information and cite button, too. This is useful especially because many journal websites don't have an accessible "cite" button/option.
 
-<div style="text-align: center"><img src="/images/posts/google-scholar-extension.png"></div>
+![](/images/posts/google-scholar-extension.png)
 
 #### CiteThisForMe.com
 CiteThisForMe.com is another tool for citing. It also tracks list of all the sources in a neat alphabetically ordered bibliography, so you don't have to compile it on your own (that's what reference management tools normally do for you, Google Scholar doesn't do that). CTFM.com also offers in-text citations, making your life a bit more easier.
 
-<div style="text-align: center"><img src="/images/posts/ctfm.PNG"></div>
+![](/images/posts/ctfm.PNG)
 
 ### A couple words before we part
 A mix-matched APA and Chicago reference system should not be treated as a death penalty type of crime. A gentle reminder to make sure the student doesn't forget in the future is way more effective. Unfortunately, some professors use any mistakes in the refernce system of an essay as a tool how to exercise their powers over students. I am sorry if you ever experienced that. Not all people are that way. Promise. It is also true that correctly cited sources can save you from serious accusations of plagiarism and other types of intelectual property theft. Just make sure you cite everything you used and you should be fine.
