@@ -18,6 +18,8 @@ You'll soon realize, this post is also a rather cathartic way of writing myself 
 
 Witcher's world is as much part of my upbringing and culture as it was for the Polish. It is also one of the most praised video games in the industry offering all the aspects I like about video games: immersive experience; shenaningans of an RPG open world; storytelling on the scale of a feature movie; and multiple scenarios and endings based on the choices players make throughout the game (ok, I might have accidentally killed Keira, so what?).
 
+![](/images/posts/memewitcher.jpeg)
+
 This being said, The Witcher 3 can be also a rather difficult game if you, like me, are a noob. For instance, I had to figure out my way around PlayStation controller. I didn't have any experience with playing the previous titles in the series which posed additional problems  for me regarding controls, fighting, potion making, etc. However, the learning curve also made the game immensely enjyoable, at least once I was able to get the hang of it.
 
 ### Where are we in the game?
