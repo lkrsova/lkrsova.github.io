@@ -8,7 +8,7 @@ tags: [academia, PhD, academic protips]
 
 In academia, citations are no joke. Either you have them in order, or you fail. At least, that's  one of the most perpetuating myths about citing sources in academia. There are **tons of myths like this one, which makes it unnecessarily difficult for students to chill about the way they cite, and just do it.** With some handy tools and basic rules, citations are not as terrifying as it sometimes look, and can be done by anyone.
 
-<img src="/images/posts/citation.png">
+![](/images/posts/citation.png)
 
 The basic premise of citing sources in academic writing of any sort is to **give credit where it's due to the smart people whose work inspired you to write yours**. It also prevents people from presenting other people's work as their own, which is an act of plagiarism and violation of academic intergrity. In a non-academic word: You stole someone's idea and didn't give them credit.  Boo!
 
