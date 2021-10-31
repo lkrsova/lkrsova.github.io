@@ -1,5 +1,5 @@
 ---
-title: "Tell Me Why: A feel good game with about heavy topics"
+title: "Tell Me Why: Making peace with the past done right"
 author: "Leni Krsova"
 categories: portfolio
 featured_image: images/posts/tellmewhy-3.jpg
