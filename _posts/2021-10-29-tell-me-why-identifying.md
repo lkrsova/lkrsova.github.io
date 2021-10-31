@@ -24,7 +24,7 @@ There are stories about a Princess and her two little helpful goblins going thro
 
 ![](/images/posts/tellmewhy-5.PNG)
 
-In my opinion, the game deserves attention not only for it's rich story and emotional impact on a player but especially for the way it handles difficult, complicated and nuanced topics such as post-traumatic stress disorder, poverty, acceptance, and gender transitioning. I cannot say much about the latter one. But Tell Me Why let me have, what I believe, was a non-caricaturized glimpse into that type of experience through issues of acceptance, identity and making peace with all of it. Topics which are universal to all human beings, including me.
+In my opinion, the game deserves attention not only for it's rich story and emotional impact on a player but especially for the way it handles complicated and nuanced topics such as post-traumatic stress disorder, poverty, acceptance, and gender transitioning. I cannot say much about the latter one. But Tell Me Why mediated for me what was a non-caricaturized glimpse into that type of experience through issues of acceptance, identity and making peace with the past. Topics which are universal to all human beings, including me.
 
 In this talk, Deborah Hendersen who is one of researchers at Microsoft Research, talks a bit more about deep representation in Tell Me Why, and how the game came to be respectful of identity and gender experiences. Enjoy!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KW9rDjklV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
