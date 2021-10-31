@@ -14,7 +14,7 @@ Mos of the video games have almost transcendental qualities. They take their pla
 
 The story takes place in a fictional town of Delos Crossing in Alaska, surrounded by beautiful nature where lake feels like its own character. Twins Alyson and Tyler Ronan are revisiting their old house after 10 years of not seeing each other, and all the memories attached to the old places, including the blurry and painful ones about their late mother. Mary-Anne Ronan is also the very reason twins had to separate in the first place. As we learn in the opening flashback scene of the game, Tyler killed his mom in a self-defense and was put in a correctional facility.
 
-By interacting with the characters inhabiting the town, Alyson and Tyler learn more about circumstances of their mother's demise and what had lead to it. They also realize that what they remember is not complete, and it's up to them to fill in the gaps and make peace with their own secrets, their mom's legacy and the post-traumatic stress disorder they have been carrying for all those years.
+By interacting with the characters inhabiting the town, Alyson and Tyler learn more about circumstances of their mother's demise and what had led to it. They also realize that what they remember is not complete, and it's up to them to fill in the gaps and make peace with their own secrets, their mom's legacy and the post-traumatic stress disorder they have been carrying for all those years.
 
 ![](/images/posts/tellmewhy-2.jpg)
 
