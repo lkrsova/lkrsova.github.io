@@ -6,7 +6,7 @@ featured_image: images/posts/tellmewhy-3.jpg
 tags: [video games, PhD]
 ---
 
-Mos of the video games have almost transcendental qualities. They take their player to the worlds that don't exist, let them experience things they would not normally be able to live through, and leave a mark of some sorts. **Tell Me Why** does that within its two main topics -- gender transitioning, and overcoming of a shared childhood trauma. As heavy as these topics sounds, the game does an amazing job with portraying both in a loving and daring way, showing a player there's always multiple perspectives needed to be taken in an account, and that judgement should be left to the well-informed.
+Most video games have almost transcendental qualities. They take their player to the worlds that don't exist, let them experience things they would not normally be able to live through, and leave a mark of some sorts. **Tell Me Why** does that within its two main topics -- gender transitioning, and overcoming of a shared childhood trauma. As heavy as these topics sounds, the game does an amazing job with portraying both in a loving and daring way, showing a player there's always multiple perspectives needed to be taken in an account, and that judgement should be left to the well-informed.
 
 ![](/images/posts/tellmewhy-1.jpg)
 
