@@ -18,7 +18,7 @@ By interacting with the characters inhabiting the town, Alyson and Tyler learn m
 
 ![](/images/posts/tellmewhy-2.jpg)
 
-Game's main storyline is remarkably interlaced with stories from a **"Book of Goblins"** storybook the twins' mom put together and created in cooperation with her kids. Not only this book works as a token of connection between the twins and their mom's past, but it also serves as a tool for a player to solve in-game puzzles, and learn about the background of the characters.
+The game's main storyline is remarkably interlaced with stories from a **"Book of Goblins"** storybook the twins' mom put together and created in cooperation with her kids. Not only this book works as a token of connection between the twins and their mom's past, but it also serves as a tool for a player to solve in-game puzzles, and learn about the background of the characters.
 
 There are stories about a Princess and her two little helpful goblins going through various adventures. It is also a place where we learn about an omnipresent and omnious dangerous figure of The Mad Hunter who is lurking behind the treeline and endangering the marvelous life of the Princess and her Crafty Goblins. Only as adults, both twins learn there's way more resemblance with the real people in those stories that they originally realized. Without spoiling too much from the plot, the characters in the book has more to do with reality than fiction, and holds the key to the mysterious behavior of Mary-Anne Ronan before she ultimately died. It also reveals who is actually to be blamed for her death.
 
