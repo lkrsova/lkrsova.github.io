@@ -1,12 +1,12 @@
 ---
-title: "Tell Me Why: A feel good game with a heavy topic"
+title: "Tell Me Why: A feel good game with about heavy topics"
 author: "Leni Krsova"
 categories: portfolio
 featured_image: images/posts/tellmewhy-3.jpg
 tags: [video games, PhD]
 ---
 
-Mos of the video games have almost transcendental qualities. They take their player to the worlds that don't exist, let them experience things they would not normally be able to live through, and leave a mark of knowing obtained from these experiences. Tell Me Why does that within its two main topics -- gender transitioning, and overcoming of a shared childhood trauma. As heavy as these topics sounds, the game does an amazing job to portrait both topics in a loving and daring way, showing a player there's always multiple perspectives needed to be taken in an account.
+Mos of the video games have almost transcendental qualities. They take their player to the worlds that don't exist, let them experience things they would not normally be able to live through, and leave a mark of knowing obtained from these experiences. **Tell Me Why** does that within its two main topics -- gender transitioning, and overcoming of a shared childhood trauma. As heavy as these topics sounds, the game does an amazing job to portrait both topics in a loving and daring way, showing a player there's always multiple perspectives needed to be taken in an account.
 
 ![](/images/posts/tellmewhy-1.jpg)
 
