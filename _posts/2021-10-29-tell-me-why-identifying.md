@@ -18,15 +18,15 @@ By interacting with the characters inhabiting the town, Alyson and Tyler learn m
 
 ![](/images/posts/tellmewhy-2.jpg)
 
-The game's main storyline is remarkably interlaced with stories from a **"Book of Goblins"** storybook the twins' mom put together and created in cooperation with her kids. Not only this book works as a token of connection between the twins and their mom's past, but it also serves as a tool for a player to solve in-game puzzles, and learn about the background of the characters.
+The game's main storyline is remarkably interlaced with stories from a **"Book of Goblins"**, a storybook the twins' mom put together and created in cooperation with her kids. Not only this book works as a token of connection between the twins and their mom's past, but it also serves as a tool for a player to solve in-game puzzles, and learn about the background of the characters.
 
-There are stories about a Princess and her two little helpful goblins going through various adventures. It is also a place where we learn about an omnipresent and omnious dangerous figure of The Mad Hunter who is lurking behind the treeline and endangering the marvelous life of the Princess and her Crafty Goblins. Only as adults, both twins learn there's way more resemblance with the real people in those stories that they originally realized. Without spoiling too much from the plot, the characters in the book has more to do with reality than fiction, and holds the key to the mysterious behavior of Mary-Anne Ronan before she ultimately died. It also reveals who is actually to be blamed for her death.
+In the book we find stories about a Princess and her two little helpful goblins going through various adventures. It is also a place where we learn about an omnipresent and omnious dangerous figure of The Mad Hunter who is lurking behind the treeline and endangering the marvelous life of the Princess and her Crafty Goblins. Only as adults, both twins learn there's way more resemblance with the real people in those stories that they originally realized. Without spoiling too much from the plot, the characters in the book has more to do with reality than fiction, and hold the key to the mysterious behavior of Mary-Anne Ronan before she ultimately died. It also reveals who is actually to be blamed for her death.
 
 ![](/images/posts/tellmewhy-5.PNG)
 
 In my opinion, the game deserves attention not only for it's rich story and emotional impact on a player but especially for the way it handles complicated and nuanced topics such as post-traumatic stress disorder, poverty, acceptance, and gender transitioning. I cannot say much about the latter one. But Tell Me Why mediated for me what was a non-caricaturized glimpse into that type of experience through issues of acceptance, identity and making peace with the past. Topics which are universal to all human beings, including me.
 
-In the talk below, Deborah Hendersen who is one of researchers at Microsoft Research, discusses in depth the deep representation in Tell Me Why, and how the game came to be so effective in respecting one's identity and gender experiences. Enjoy!
+In the talk below, Deborah Hendersen who is one of the researchers at Microsoft Research, discusses in depth the deep representation in Tell Me Why, and how the game came to be so effective in respecting one's identity and gender experiences. Enjoy!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KW9rDjklV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### References:
