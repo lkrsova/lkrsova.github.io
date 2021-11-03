@@ -12,7 +12,7 @@ Most video games have almost transcendental qualities. They take their player to
 
 <a href="https://www.tellmewhygame.com/">Tell Me Why</a> was published in 2020 by <a href="https://www.xbox.com/en-US/xbox-game-studios">XboX Games Studios</a>, run by Microsoft, in cooperation with <a href="https://dont-nod.com/en/projects/">DONTNOD Entertainment</a> which has developed Life Is Strange among others of its game titles. 
 
-### What's the story, Alaskan glory
+### What's the story, Alaskan glory?
 The story takes place in a fictional town of Delos Crossing in Alaska, surrounded by beautiful nature where the local gives an impression of being its own character. Twins Alyson and Tyler Ronan are revisiting their old house after 10 years of not seeing each other, and all the memories attached to the old places, including the blurry and painful ones about their late mother. Mary-Anne Ronan is also the very reason twins had to separate in the first place. As we learn in the opening flashback scene of the game, Tyler killed his mom in a self-defense and was put in a correctional facility, an event effectively separating the twins.
 
 By interacting with the characters inhabiting the town, Alyson and Tyler learn more about circumstances of their mother's demise and what had led to it. They also employ their supernatural twin bond to realize that what they remember is not complete. It's up to them to fill in the gaps and make peace with their own secrets, their mom's legacy, as well as with the post-traumatic stress disorder they have been carrying for all those years.
