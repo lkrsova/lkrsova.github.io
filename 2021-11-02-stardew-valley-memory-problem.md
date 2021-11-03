@@ -6,7 +6,7 @@ featured_image: images/stardew-valley/stardew-valley.jpg
 tags: [video games, PhD]
 ---
 
-Crafting systems are an essential set of mechanics of most modern games, including Micecraft, a myriad of survival games, or cozy and fluffy farming sims like Stardew Valley. Aa much as it crafts (pun intended!) a wholesome experience for a player, it can cause an extra cognitive burden for a player. 
+Crafting systems are an essential set of mechanics of most modern games, including Minecraft, a myriad of survival games, or cozy and fluffy farming sims like Stardew Valley. As much as it crafts (pun intended!) a wholesome experience for a player, it can cause an extra cognitive burden for a player. 
 
 ### Crafting systems
 Crafting systems is a collection of game mechanics which allow a player to build virtual objects within a game. Since it enables a player to interact with objects within a game to create something new, useful or necessary to advance a gameplay, it is a fairly common system implemented in most modern games. If it's a good or bad thing is up to the reader's discretion.
