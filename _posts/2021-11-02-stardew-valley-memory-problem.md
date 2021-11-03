@@ -2,14 +2,12 @@
 title: "Stardew Valley: A problem with a leaky memory of crafting games"
 author: "Leni Krsova"
 categories: portfolio
-featured_image: images/posts/stardew-valley/stardew-valley.jpg
+featured_image: images/stardew-valley/stardew-valley.jpg
 tags: [video games, PhD]
 ---
 
 
-
-
-![](/images/posts/stardew-valley/sw1.jpg)
+![](/images/stardew-valley/sw1.jpg)
 
 
 
