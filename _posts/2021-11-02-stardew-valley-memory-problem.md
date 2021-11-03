@@ -1,5 +1,5 @@
 ---
-title: "Stardew Valley: A problem with a leaky memory of crafting games"
+title: "Stardew Valley et al.: A problem with a leaky memory of crafting games"
 author: "Leni Krsova"
 categories: portfolio
 featured_image: images/stardew-valley/stardew-valley.jpg
@@ -36,7 +36,7 @@ Show on examples: Stardew Valley, Graveyard Keeper, Raft
 ![](/images/stardew-valley/sw1.jpg)
 
 
-[^1] Some games like <a href="https://www.bigfishgames.com/games/8834/crafting-story/">Crafting Story</a> are built solely around this system.
+[^1]: Some games like <a href="https://www.bigfishgames.com/games/8834/crafting-story/">Crafting Story</a> are built solely around this system.
 
 #### References:
 Photos taken from IGN.com
