@@ -1,6 +1,6 @@
 ---
-title: 'Analysis'
-subtitle: 'A level design balancing analysis'
+title: '🐺 ⚔️'
+subtitle: 'click'
 date: 2021-09-10 12:00:00
 featured_image: '/images/projects/widdbanner.png'
 ---
