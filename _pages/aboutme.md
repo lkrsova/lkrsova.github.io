@@ -35,8 +35,9 @@ If you want to hang out, let me know! You can also <a href="https://steamcommuni
 ## Outside of Academia
 
 ### Game design
-
-When my PhD obligations permits, I am learning the ropes of game design with game design professionals in <a href="https://www.gamedevhub.cz/">GameDevHub courses</a>.
+When my PhD obligations permits, I am learning the ropes of game design with game design professionals in a <a href="https://www.gamedevhub.cz/">GameDevHub Game Design course</a>. I get a kick from creating something from scratch that could make people happy.
 
 ### "I'm a bit of a painter myself."
-In “offline” world far from computer screens, I enjoy water coloring, anything pop culture, traveling, cooking, reading, yoga, movies, and playing basketball with my basketball proficient boyfriend Cole.
+I'm an overall an artistic person. In “offline” world far from computer screens, I enjoy water coloring and crafting in general. I love anything pop culture from a blockbuster movie to the recent social media trend.
+
+When pandemic is not a thing I travel quite a bit. In my free time I have fun while cooking, reading, yoga, and playing basketball with my basketball proficient boyfriend Cole.
