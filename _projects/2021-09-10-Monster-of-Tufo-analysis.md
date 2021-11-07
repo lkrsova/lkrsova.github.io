@@ -2,7 +2,7 @@
 title: 'Monster of Tufo contract analysis'
 subtitle: 'This is a demo'
 date: 2021-09-10 12:00:00
-featured_image: '/images/projects/monsteroftufo/mot-banner.png'
+featured_image: '/images/projects/monsteroftufo/motbanner.png'
 ---
 
 
