@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
+title: 'Monster of Tufo contract analysis'
 subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-featured_image: '/images/projects/dracula.PNG'
+date: 2021-09-10 12:00:00
+featured_image: '/images/projects/monsteroftufo/monster-of-tufo.jpg'
 ---
 
 
