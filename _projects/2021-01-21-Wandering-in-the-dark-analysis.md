@@ -12,9 +12,9 @@ You completed all the side quests and points of interest (❔ on the map) in the
 
 Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics you might have learned through facing an advanced enemy.
+You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making and how to use them during a fight; nor about fight tactics you might have learned through facing an advanced enemy.
 
-Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and survival. In short, you are facing this quest unprepared.
+Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and your survival. In short, you are facing this quest unprepared.
 
 ![](/images/posts/kill-the-griffin.jpg)
 
