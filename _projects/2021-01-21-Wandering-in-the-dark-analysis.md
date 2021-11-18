@@ -5,23 +5,25 @@ date: 2021-09-10 12:00:00
 featured_image: '/images/projects/widdbanner.png'
 ---
 
- I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally dislikes the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This post is not at all an expert view, rather just a bunch of personal notes about facing difficulties in a game as a newcomer to the franchise.
+ I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally disliked the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This post is not at all an expert view, rather just a bunch of personal notes about facing difficulties in a game as a newcomer to the franchise.
 
 ### Where are we in the game?
 You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
-Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. That's about it.
+Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics developed you learned through facing an advanced enemy.
+You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics you might have learned through facing an advanced enemy.
+
+Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and survival. In short, you are facing this quest unprepared.
 
 ![](/images/posts/kill-the-griffin.jpg)
 
 *White Orchard is one of the best onboardings genuinely incorporated into a game*
 
-Some players at this stage also haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and survival. In short, you are facing this quest unprepared.
-
 ### Level design 
-Since this quest is also a secondary quest helping drive the main story forward, there is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. To make it even more challenging, as it shows during completing the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere, and come back to finish the job. This is especially frustrating when facing more advanced enemies. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
+Wandering in the Dark is a secondary quest helping drive the main story forward. There is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. As it shows during the completion of the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere. You are stuck in the dark.
+
+This is especially frustrating when you face enemies that are way more advanced than you. It's fair to say that Nithral, one of the main baddies from the Wild Hunt crew, is the final boss of this level. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
 
 What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
 + bunch of drowners;
