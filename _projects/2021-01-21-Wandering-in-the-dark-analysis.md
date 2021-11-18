@@ -8,9 +8,11 @@ featured_image: '/images/projects/widdbanner.png'
 This post is not at all an expert view, rather just a bunch of personal notes about facing difficulties in a game as a newcomer to the franchise. I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally dislikes the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. 
 
 ### Where are we in the game?
-If you completed all the side quests and points of interest (❔ on the map) in the **White Orchard**, you enter *Wandering in the Dark* in Velen either in the late stage of level 4 or on the verge of level 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners (I hate those guys!), or a group of ghouls scattered over a battlefield. But that's about it.
+You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
-Even though you've gone through everything in **White Orchard** tutorial environment, you're not up to the quest resource-wise, knowledge-wise, nor mentally- or, God forbid, emotionally-wise. You have none or minimal fighting experiences, you don't know much about potion making, nor fight tactics developed by facing a more advanced enemy.
+Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. That's about it.
+
+You're not up to the quest resource-wise, knowledge-wise regarding concoctions or potions. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics developed you learned through facing an advanced enemy.
 
 ![](/images/posts/kill-the-griffin.jpg)
 White Orchard is one of the best onboardings genuinely incorporated into a game
