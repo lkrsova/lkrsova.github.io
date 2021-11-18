@@ -12,10 +12,11 @@ You completed all the side quests and points of interest (❔ on the map) in the
 
 Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. That's about it.
 
-You're not up to the quest resource-wise, knowledge-wise regarding concoctions or potions. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics developed you learned through facing an advanced enemy.
+You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions. You have none or minimal fighting experiences; you don't know much about potion making; nor fight tactics developed you learned through facing an advanced enemy.
 
 ![](/images/posts/kill-the-griffin.jpg)
-White Orchard is one of the best onboardings genuinely incorporated into a game
+
+*White Orchard is one of the best onboardings genuinely incorporated into a game*
 
 Some of us at this stage also haven't found their way to the **Bestiary system** of the game. The system as crucial for Geralt's well-being and survival as is for Roach its tendency to be startled by everything that breaths. In short, you are facing this quest unprepared.
 
