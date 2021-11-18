@@ -41,13 +41,13 @@ As much as this level might have been a first rite of passage for a player, I be
 
 ### Fun fact from Google Trends
 
-In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich) with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up [1] around the time of the TV show release**. As a consequence and also an illustration that people struggle with the same places of the game even years after the original release, **Google shows that the searching for the Wandering in The Dark quest went up too around the same time**. Coincidentally, the same spike showed up for *Wild at Heart* quest. It is not that much of a surprise since this quest is the first time players runs into a werewolf. Especially his quickly recharging health bar is a problem to overcome effectively, usually only with the knowledge found online.
+In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich) with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up[^1] around the time of the TV show release**. As a consequence and also an illustration that people struggle with the same places of the game even years after the original release, **Google shows that the searching for the Wandering in The Dark quest went up too around the same time**. Coincidentally, the same spike showed up for *Wild at Heart* quest. It is not that much of a surprise since this quest is the first time players runs into a werewolf. Especially his quickly recharging health bar is a problem to overcome effectively, usually only with the knowledge found online.
 
-  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script>
-  <script type="text/javascript">
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script>
+<script type="text/javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"wandering in the dark witcher","geo":"","time":"today 5-y"},{"keyword":"wild at heart witcher","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=wandering%20in%20the%20dark%20witcher,wild%20at%20heart%20witcher","guestPath":"https://trends.google.com:443/trends/embed/"});
-  </script>
+</script>
 
 
 ### References
-[1] https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
+[^1]: https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
