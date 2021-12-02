@@ -10,9 +10,9 @@ featured_image: '/images/projects/widdbanner.png'
 ### Where are we in the game?
 You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
-Experience-wise you are most likely on a level 4 or 5. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
+Experience-wise you are most likely on a **level 4 or 5**. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making and how to use them during a fight; nor about fight tactics you might have learned through facing an advanced enemy.
+You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making and how to use them during a fight; nor about fighting tactics you might have learned through facing an advanced enemy.
 
 Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and your survival. In short, you are facing this quest unprepared.
 
@@ -21,11 +21,9 @@ Also, some players at this stage haven't found their way to the **Bestiary syste
 *White Orchard is one of the best onboardings genuinely incorporated into a game*
 
 ### Level design 
-Wandering in the Dark is a secondary quest helping drive the main story forward. There is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. As it shows during the completion of the quest, there are stages of it where you literally cannot leave the location to gather resources elsewhere. You are stuck in the dark.
+Wandering in the Dark is a secondary quest helping drive the main story forward. There is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. On top of that, you cannot leave the area until you are done with the level. You are indeed wandering in the dark.
 
-This is especially frustrating when you face enemies that are way more advanced than you. It's fair to say that Nithral, one of the main baddies from the Wild Hunt crew, is the final boss of this level. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
-
-What starts as a favor for your old friend, a sorceress Keira Metz, develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
+The level starts on an easy end when you try to figure out a way to chatch up with Wild Hunt's company. However it develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
 + bunch of drowners;
 + one or two foglets (this is the first time you meet them);
 + rats nests (because Keira, the powerful sorceress, is afraid of them...);
@@ -36,11 +34,22 @@ What starts as a favor for your old friend, a sorceress Keira Metz, develops qui
 + White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
 + Nithral aka the final boss of this level.
 
+
+
+
+Narrative design
+Good thing is you have a companion with you. Keira Metz is your old friend from the past and this quest is a sort of favor you agreed to do for her. She is one of the powerful sorceresses from the Lodge which initially give you 
+
+
+Where the two clashes
+This is especially frustrating when you face enemies that are way more advanced than you. It's fair to say that Nithral, one of the main baddies from the Wild Hunt crew, is the final boss of this level. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
+
+What starts as a favor for your old friend, a sorceress Keira Metz,
 That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
 
 The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse <a href="https://www.reddit.com/r/thewitcher3/comments/4m9ls2/a_rant_on_the_level_design_of_wandering_in_the/">at Reddit</a> or comments section under any YouTube walkthrough of this quest shows you how frustrating this part of the game is for many. People abandoned playing the game entirely because of this quest. They just didn't see a way to succeed in the game. They also probably thought that the game will get progressively more difficult which is (suprisingly) not the case.
 
-In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you and you're not ready for it. Also, early on you realize that although you have a character/NPC accompanying you, Keira is rather useless. You have to do all the hard work on your own. This is one of the frustrating logics of many NPCs in The Witcher 3 game (and one of mine few critiques of this game), so it was nice to learn that <a href="https://youtu.be/tDQPScB3bYA?t=1369">even one of the gameplay designers from CD Projekt RED is aware of it</a>.
+In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you and you're not ready for it. 
 
 As much as this level might have been a first rite of passage for a player, I believe this is also the one which makes people give up on the game and hate it in the long run. I'm glad I am the former example, although there were many moments I was inclining towards the latter one.
 
