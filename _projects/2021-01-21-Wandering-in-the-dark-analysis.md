@@ -5,36 +5,45 @@ date: 2021-09-10 12:00:00
 featured_image: '/images/projects/widdbanner.png'
 ---
 
- I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally disliked the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This post is not at all an expert view, rather just a bunch of personal notes about facing difficulties in a game as a newcomer to the franchise.
+ I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally disliked the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This post is not at all an expert view, rather just a bunch of personal notes about **facing difficulties in a game as a newcomer to the franchise**.
 
 ### Where are we in the game?
 You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
 Experience-wise you are most likely on a **level 4 or 5**. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making and how to use them during a fight; nor about fighting tactics you might have learned through facing an advanced enemy.
-
-Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and your survival. In short, you are facing this quest unprepared.
-
 ![](/images/posts/kill-the-griffin.jpg)
 
 *White Orchard is one of the best onboardings genuinely incorporated into a game*
 
-### Level design 
+You're not up to the quest resource-wise or knowledge-wise regarding concoctions or potions especially. You have none or minimal fighting experiences; you don't know much about potion making and how to use them during a fight; nor about fighting tactics you might have learned through facing an advanced enemy.
+
+Also, some players at this stage haven't found their way to the **Bestiary system** of the game. The system is a crucial component for Geralt's well-being and your survival.
+
+In short, you are facing this quest unprepared.
+
+### Narrative design
 Wandering in the Dark is a secondary quest helping drive the main story forward. There is no way how to avoid it, skip it, or in any other way pretend that it doesn't exist. On top of that, you cannot leave the area until you are done with the level. You are indeed wandering in the dark.
 
-The level starts on an easy end when you try to figure out a way to chatch up with Wild Hunt's company. However it develops quite quickly into long hours sitting in front of the screen of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark. Just for the illustration, you have to fight all these monsters in (more or less) this order before you can leave:
-+ bunch of drowners;
-+ one or two foglets (this is the first time you meet them);
-+ rats nests (because Keira, the powerful sorceress, is afraid of them...);
-+ more drowners, plus wraiths on a toxic yet explosive field of mushrooms;
-+ clones of Geralt and Keira (only if you fail to solve a Kelpie riddle);
-+ golem (big and angry one, takes ages to take down!);
-+ gargoyle (only if you turn in the wrong direction, takes ages to take down, too);
-+ White Hunt's dogs coming at you from 3 portals while your movement is limited by a protective shield;
-+ Nithral aka the final boss of this level.
+The level starts on the easy end when you try to figure out a way to catch up with the Wild Hunt's company. Upon entering into a cave system with ancient elven ruins, you see them entering a portal and leaving the place. Accompanied by your friend, a powerful sorceress Keira Metz, you decide to chase after them to prevent them from finding Ciri.
 
+Unfortunately for you, some things go awry and you are stuck in the dungeon, figuring out your way out as well as finding clues about Ciri's whereabouts through riddles scattered all over the place.
 
+### Level design & enemies
+
+You realize quite quickly that this little hiccup on the road soon develops into long hours of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark.
+
+Just for the illustration and not necessarily in this particular order, you have to fight all these monsters:
+
++ bunch of **drowners**;
++ one or two **foglets** (this is the first time you meet them);
++ **rats** nests (because Keira, the powerful sorceress, is afraid of them...);
++ more **drowners**, plus **wraiths** on a toxic & explosive field of mushrooms;
++ **clones of Geralt and Keira** (only if you fail to solve a Kelpie riddle);
++ **golem** (big and angry one, takes ages to take down!);
++ **gargoyle** (only if you turn in the wrong direction, takes ages to take down too);
++ **White Hunt's dogs** coming at you from 3 portals while your movement is limited by a protective shield;
++ **Nithral** aka the final boss of this level.
 
 
 Narrative design
