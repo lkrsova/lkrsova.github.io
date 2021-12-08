@@ -45,22 +45,16 @@ Just for the illustration and not necessarily in this particular order, you have
 + **White Hunt's dogs** coming at you from 3 portals while your movement is limited by a protective shield;
 + **Nithral** aka the final boss of this level.
 
-
-Narrative design
-Good thing is you have a companion with you. Keira Metz is your old friend from the past and this quest is a sort of favor you agreed to do for her. She is one of the powerful sorceresses from the Lodge which initially give you 
-
-
-Where the two clashes
-This is especially frustrating when you face enemies that are way more advanced than you. It's fair to say that Nithral, one of the main baddies from the Wild Hunt crew, is the final boss of this level. You run out of potions, health and food and before you know it, you face the big boss without anything that will save you.
-
-What starts as a favor for your old friend, a sorceress Keira Metz,
-That's a lot for someone who's just started becoming comfortable walking in Geralt's shoes, assuming you are just getting familiar with the game.
+Personally, I had an issue with the pacing of this level. Most of the enemies a player faces are way above their level, forcing you to spend a lot of time grinding through each of the stages and quite often replaying them over and ovre again. This become tedious 
 
 The problem is that the gameplay doesn't let you take a break or take in some deep and much needed breaths. Just a glimpse <a href="https://www.reddit.com/r/thewitcher3/comments/4m9ls2/a_rant_on_the_level_design_of_wandering_in_the/">at Reddit</a> or comments section under any YouTube walkthrough of this quest shows you how frustrating this part of the game is for many. People abandoned playing the game entirely because of this quest. They just didn't see a way to succeed in the game. They also probably thought that the game will get progressively more difficult which is (suprisingly) not the case.
 
-In this level, every new location within the elven ruins you enter is hiding something lurking in the dark to get you and you're not ready for it. 
+As much as this level might have been a first rite of passage for a player, **I believe this is also the one which makes people give up on the game and hate it in the long run**. I'm glad I am the former example, although there were many moments I was inclining towards the latter one.
 
-As much as this level might have been a first rite of passage for a player, I believe this is also the one which makes people give up on the game and hate it in the long run. I'm glad I am the former example, although there were many moments I was inclining towards the latter one.
+### A sidenote about a case of narrative dissonance
+A **narrative dissonance happens when a game gives you a certain information but it is not reflected or ignored in the game**. In this case it's the issue of Keira Metz being a powerful sorceress.
+
+As the Witcher lore says, Keira is one of the powerful sorceresses from the Lodge. That makes her one of the most skilled mages in the Witcher world. You would assume she should be rather helpful in fights but as it soon turns out, it's not the case. First, she's afraid of rats (gender stereotypes aside...), then she is not particularly helpful in any of the upcoming fights. The only exception is when she helps you fighting Wild Hunt's dogs by creating a shield around you. And that's about it.
 
 ### Fun fact from Google Trends
 
