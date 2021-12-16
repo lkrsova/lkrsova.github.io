@@ -51,8 +51,8 @@ The problem is that the gameplay doesn't let you take a break or take in some de
 
 As much as this level might have been designed as the first rite of passage for a player, **I believe this is also the one which makes people give up on the game and hate it in the long run**. I'm glad I am the former example, although there were many moments I was inclining towards the latter one.
 
-### A sidenote about a case of narrative dissonance
-A **narrative dissonance happens when a game gives you a certain information but it is not reflected or ignored in the game**. In this case it's the issue of Keira Metz being a powerful sorceress.
+### A sidenote about a narrative dissonance
+A **narrative dissonance happens when a game gives you a certain information but it is not reflected or is entirely ignored in the game**. In this case it's the issue of Keira Metz being a powerful sorceress.
 
 As the Witcher lore says, Keira is one of the powerful sorceresses from the Lodge. That makes her one of the most skilled mages in the Witcher world. You would assume she should be rather helpful in fights but as it soon turns out, it's not the case. First, she's afraid of rats (gender stereotypes aside...), then she is not particularly helpful in any of the upcoming fights. The only exception is when she helps you fighting Wild Hunt's dogs by creating a shield around you. And that's about it.
 
@@ -61,8 +61,7 @@ Interestingly enough, one of the CD Projekt RED developer's disclosed he is awar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tDQPScB3bYA?start=1337" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fun fact from Google Trends
-
-In December 2019, Netflix released a long-awaited The Witcher series (showrunner: Lauren Schmidt Hissrich) with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up[^1] around the time of the TV show release**. As a consequence and illustration that people struggle with the same game levels even years after the original release, **Google showed that the searching for the Wandering in The Dark quest went up around the same time**.
+In December 2019, Netflix released a long-awaited The Witcher series with Henry Cavill portraying Geralt of Rivia. It caused such **a global hype that the sales of The Witcher 3: Wild Hunt went 554% up[^1] around the time of the TV show release**. As a consequence and illustration that people struggle with the same game levels even years after the original release, **Google showed that the searching for the Wandering in The Dark quest went up around the same time**.
 
 Coincidentally, the same spike showed up for *Wild at Heart* quest. It is not that much of a surprise since this quest is the first time players runs into a werewolf. Especially his quickly recharging health bar is a problem to overcome effectively, usually only with the knowledge found online.
 
