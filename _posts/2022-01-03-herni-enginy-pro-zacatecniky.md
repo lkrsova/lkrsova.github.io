@@ -45,6 +45,8 @@ S Bitsy nemám osobní zkušenost, ale
 ### Godot
 ![](/images/posts/engines/godot.PNG)
 
+#### Poznámka na konec:
+Tenhle seznam rozhodně není vyčerpávající. Existuje velká řada editorů, kitů a enginů a je na každém, co mu konkrétně vyhovuje.
 
 #### Zdroje:
 [^1]: https://gg.deals/dlc/basic-platformer-game-engine-for-construct-2-and-3/
