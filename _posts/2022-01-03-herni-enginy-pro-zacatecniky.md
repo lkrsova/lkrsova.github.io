@@ -31,7 +31,7 @@ S Bitsy nemám osobní zkušenost, ale hodí se na trénink vymýšlení mechani
 ![](/images/posts/engines/bitsy.PNG)
 
 #### Construct
-Pokud jste fandové 2D, top-down her nebo platformerů a neumíte programovat, Construct je ideální varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem drag & drop a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
+Pokud jste fandové 2D, top-down her nebo platformerů a **neumíte programovat, Construct je ideální** varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem drag & drop a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
 
 Construct má i vlastní asset store, sekci plnou tutoriálu a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
 ![](/images/posts/engines/construct.jpg)
