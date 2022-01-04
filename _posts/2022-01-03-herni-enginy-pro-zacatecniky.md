@@ -28,12 +28,14 @@ Twine a Inklewriter jsou dva textové editory určené právě pro psaní intera
 
 #### Bitsy
 S Bitsy nemám osobní zkušenost, ale hodí se na trénink vymýšlení mechanik ve velmi základním prostředí. Dostanete panáčka (hráče), pár nepřátel a kostičku po kostičce vybudujete prostředí a mechaniky vaší hry.
+
 ![](/images/posts/engines/bitsy.PNG)
 
 #### Construct
 Pokud jste fandové 2D, top-down her nebo platformerů a **neumíte programovat, Construct je ideální** varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem drag & drop a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
 
 Construct má i vlastní asset store, sekci plnou tutoriálu a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
+
 ![](/images/posts/engines/construct.jpg)
 
 ### Unity kits
@@ -53,6 +55,7 @@ Unity je jedním z nejběžněji používaným herním enginem hned vedle Unreal
 Co by byla Unity bez 3D her. 3D kit nabízí možnost si vyzkoušet, jaké to je stavět levely, vymýšlet gameplay hry a její prostředí, aniž byste museli umět programovat. Celý balík obsahuje předvyrobené assety s přednastavenými funkcemi.
 
 Tutoriál, který je zadarmo na Unity Learn, pomůže s navigací v kitu a odměnou na konci vám bude malá hra, kterou můžete dát vyzkoušet kamarádům.
+
 ![](/images/posts/engines/unity-3dkit.PNG)
 
 ### Godot
