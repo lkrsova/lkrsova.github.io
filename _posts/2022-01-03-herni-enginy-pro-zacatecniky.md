@@ -11,7 +11,7 @@ Herní design je velmi přístupná disciplína, i přes zvláštní auru, kter�
 ### Editory map
 Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru **Heroes of Might & Magic III** herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio <a href="https://en.cdprojektred.com/">CD Projekt Red</a>, který stojí za sérií <a href="https://witcher.fandom.com/wiki/CD_Projekt%27s_The_Witcher_franchise">The Witcher 1 - 3</a> a <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a>, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
 
-#### Inkarnate
+#### Inkarnate a další
 
 **Inkarnate** je jedním z oblíbených mapových editorů, který zvládá spoustu muziky za málo peněz. Vytvořit můžete jak plánky interiérů, battle mapy, tak i mapy světů se popisky, různými druhy terénů a prostředí v HD rozlišení.
 
@@ -23,8 +23,8 @@ Další šikovné mapové editory jsou třeba <a href="https://alternativeto.net
 
 ### Editory v prohlížeči
 
-#### Twine
-Možná máte ještě v blahé paměti tzv. gamebooky. Knížky, kde jste si do určité míry určovali, co se bude vašemu hrdinovi dít, jsou jedním ze základních formátů interaktivních her. Ostatně jedny z prvních dungeonů, <a href="https://en.wikipedia.org/wiki/MUD">tzv. MUD, kdy hráč psal vstupní požadavky na 8bitových obrazovkách v 70. letech, jsou pradědečkem oblíbených moderních RPGček.bit
+#### Twine & Inklewriter
+Možná máte ještě v blahé paměti tzv. <a href="https://en.wikipedia.org/wiki/Gamebook">gamebooky</a>. Knížky, kde jste si do určité míry určovali, co se bude vašemu hrdinovi dít, jsou jedním ze základních formátů interaktivních her. Ostatně jedny z prvních dungeonů, <a href="https://en.wikipedia.org/wiki/MUD">tzv. MUD, kdy hráč psal vstupní požadavky na 8bitových obrazovkách v 70. letech, jsou pradědečkem oblíbených moderních RPGček.bit
 
 <a href="https://twinery.org/">Twine</a> a <a href="https://www.inklestudios.com/inklewriter/">Inklewriter</a> jsou dva textové editory určené právě pro psaní interaktivních příběhů. Ve Twine dokonce můžete používat i makra a <a href="https://www.wired.com/story/porpentine-twine-game/">vymakat i UX prostředí dle vlastních potřeb a chuti</a>.
 
