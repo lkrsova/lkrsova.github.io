@@ -24,7 +24,7 @@ Další šikovné mapové editory jsou třeba <a href="https://alternativeto.net
 ### Editory v prohlížeči
 
 #### Twine & Inklewriter
-Možná máte ještě v blahé paměti tzv. <a href="https://en.wikipedia.org/wiki/Gamebook">gamebooky</a>. Knížky, kde jste si do určité míry určovali, co se bude vašemu hrdinovi dít, jsou jedním ze základních formátů interaktivních her. Ostatně jedny z prvních dungeonů, <a href="https://en.wikipedia.org/wiki/MUD">tzv. MUD, kdy hráč psal vstupní požadavky na 8bitových obrazovkách v 70. letech, jsou pradědečkem oblíbených moderních RPGček.bit
+Možná máte ještě v blahé paměti tzv. <a href="https://en.wikipedia.org/wiki/Gamebook">gamebooky</a>. Knížky, kde jste si do určité míry určovali, co se bude vašemu hrdinovi dít, jsou jedním ze základních formátů interaktivních her. Ostatně jedny z prvních dungeonů, <a href="https://en.wikipedia.org/wiki/MUD">tzv. MUD</a>, kdy hráč psal vstupní požadavky na 8bitových obrazovkách v 70. letech, jsou pradědečkem oblíbených moderních RPGček.
 
 <a href="https://twinery.org/">Twine</a> a <a href="https://www.inklestudios.com/inklewriter/">Inklewriter</a> jsou dva textové editory určené právě pro psaní interaktivních příběhů. Ve Twine dokonce můžete používat i makra a <a href="https://www.wired.com/story/porpentine-twine-game/">vymakat i UX prostředí dle vlastních potřeb a chuti</a>.
 
