@@ -38,7 +38,7 @@ Construct má i vlastní asset store, sekci plnou tutoriálu a celkem fajn komun
 
 ![](/images/posts/engines/construct.jpg)
 
-### Unity kits
+### Unity kits & další enginy
 
 Unity je jedním z nejběžněji používaným herním enginem hned vedle Unreal Enginu. Má kolem sebe platformu Learn Unity, kde se dá vyzkoušet nespočet tutoriálů se sety assetů zdarma.  
 
