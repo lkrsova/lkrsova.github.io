@@ -9,10 +9,13 @@ tags: [video games, PhD]
 Herní design je velmi přístupná disciplína, i přes zvláštní auru, která ho obklopuje a často říká opak. Následující seznam herních editorů, kitů a enginů sdílím pro ty, kteří by si chtěli zkusit vytvořit hru a buď neumí programovat nebo neví kde začít.
 
 ### Editory map
-Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru Heroes of Might & Magic III herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio CD Projekt Red, který stojí za sérií The Witcher 1 - 3 a Cyberpunk 2077, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
+Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru **Heroes of Might & Magic III** herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio <a href="https://en.cdprojektred.com/">CD Projekt Red</a>, který stojí za sérií <a href="https://witcher.fandom.com/wiki/CD_Projekt%27s_The_Witcher_franchise">The Witcher 1 - 3</a> a <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a>, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
 
 #### Inkarnate
-**Inkarnate** je jedním z oblíbených mapových editorů, kde si vyzkoušíte spoustu muziky za málo peněz. Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Aplikujte na to herní mechaniky a jste už jen kousek od navrhování her jako takových. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
+**Inkarnate** je jedním z oblíbených mapových editorů, kde je spousta muziky za málo peněz. Vytvořit můžete jak plánky interiérů, tak i mapy světů se popisky, různými druhy terénů a prostředí.
+
+Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
+
 ![](/images/posts/engines/inkarnate.PNG)
 
 Další mapové editory: 
@@ -47,6 +50,7 @@ Unity je jedním z nejběžněji používaným herním enginem hned vedle Unreal
 ![](/images/posts/engines/unity-creator-kit.PNG)
 
 #### Unity 2D kit
+
 ![](/images/posts/engines/unity-2dkit.PNG)
 
 #### Unity 3D kit
@@ -58,6 +62,7 @@ Tutoriál, který je zadarmo na Unity Learn, pomůže s navigací v kitu a odmě
 ![](/images/posts/engines/unity-3dkit.PNG)
 
 ### Godot
+
 ![](/images/posts/engines/godot.png)
 
 #### Poznámka na konec
