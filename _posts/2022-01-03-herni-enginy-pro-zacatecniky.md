@@ -34,23 +34,24 @@ S <a href="https://bitsy.org/#0,0">Bitsy</a> mám omezenou osobní zkušenost, a
 ![](/images/posts/engines/bitsy.PNG)
 
 #### Construct
-Pokud jste fandové 2D, top-down her nebo platformerů a **neumíte programovat, Construct je ideální** varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem drag & drop a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
+Pokud jste fandové 2D či top-down her nebo platformerů a **neumíte programovat, Construct je ideální** varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem *drag & drop* a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
 
-Construct má i vlastní asset store, sekci plnou tutoriálu a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
+Construct má i vlastní asset store, sekci plnou tutoriálů a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
 
 ![](/images/posts/engines/construct.jpg)
 
 ### Unity kits & další enginy
 
-Unity je jedním z nejběžněji používaným herním enginem hned vedle Unreal Enginu. Má kolem sebe platformu Learn Unity, kde se dá vyzkoušet nespočet tutoriálů se sety assetů zdarma.  
+Unity je jedním z nejběžněji používaných herních enginů hned vedle Unreal Enginu. Má k sobě ještě platformu <a href="https://learn.unity.com/">Unity Learn</a>, kde se dá vyzkoušet nespočet tutoriálů. A pokud máte školní/univerzitní e-mail, celou platformu můžete využívat zdarma v rámci <a href="https://unity.com/products/unity-student">plánu Unity Student</a>. 
 
 #### Unity Creator Kit: RPG
-
-<a href="https://learn.unity.com/project/creator-kit-rpg">Creator Kit: RPG</a>
+S tímhle kitem v Unity si můžete postavit jednoduchou RPG top-down (pohled z vrchu) hru á la Pokémon nebo Stardew Valley. S pomocí <a href="https://learn.unity.com/project/creator-kit-rpg">tutoriálu</a> si vyzkoušíte designovat vlastní svět, vymyslet jednodušší questy a dialogy s NPCs a naučíte se pracovat s tilemap funkcí, což se hodí pro všechny 2D hry.
 
 ![](/images/posts/engines/unity-creator-kit.PNG)
 
 #### Unity 2D kit
+
+2D Platformery jsou jedny z těch her, na kterých se naučíte spoustu věcí, ale zároveň to není úplně raketová věda je vymýšlet. Pár plošinek, nepřátel a věcí ke sbírání a uděláte s tím spoustu parády.
 
 ![](/images/posts/engines/unity-2dkit.PNG)
 
