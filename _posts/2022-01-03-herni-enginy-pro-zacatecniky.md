@@ -2,7 +2,7 @@
 title: "Dostupné herní enginy pro začátečníky i pokročilé"
 author: "Leni Krsova"
 categories: portfolio
-featured_image: images/posts/tellmewhy-3.jpg
+featured_image: /images/posts/engines/godot.png
 tags: [video games, PhD]
 ---
 
