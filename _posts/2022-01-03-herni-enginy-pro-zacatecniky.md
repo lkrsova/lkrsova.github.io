@@ -6,12 +6,12 @@ featured_image: images/posts/tellmewhy-3.jpg
 tags: [video games, PhD]
 ---
 
-Herní design je velmi přístupná disciplína, i přes zvláštní auru, která ho obklopuje a často říká opak. Následující seznam herních editorů, kitů a enginů sdílím pro ty, kteří by si chtěli zkusit vytvořit hru a neví kde začít.
+Herní design je velmi přístupná disciplína, i přes zvláštní auru, která ji obklopuje a často říká opak. Následující seznam herních editorů, kitů a enginů sdílím pro ty, kteří by si chtěli zkusit vytvořit hru a buď neumí programovat nebo neví kde začít.
 
-Byť se to zdá navenek složitější, než je, herní design je především o aplikování teorie do praxe, kdy získáváte zkušenosti ne tím, že hry hrajete, ale že je navrhujete, prototypujete a (na ostatních) zkoušíte, jestli fungují. Samozřejmě, že s hraním získáte povědomí o mechanikách a Ale kolikrát ani nemusíte znát té teorie moc, abyste mohli vytvořit jednoduchou hru, u které dokážete sami říct, jestli je zábavná nebo ne. 
+Byť se to zdá navenek složitější, než je, herní design je především o aplikování teorie do praxe, kdy získáváte zkušenosti ne až tolik tím, že hry hrajete, ale že je navrhujete, prototypujete a (na ostatních) zkoušíte, jestli fungují. Kolikrát tak ani nemusíte znát té teorie moc, abyste mohli vytvořit jednoduchou hru, u které dokážete sami říct, jestli je zábavná nebo ne. 
 
 ### Editory map
-Ještě teď mám v živé paměti, jak jsme doma jako prckové tvořili v nativním editoru Heroes of Might & Magic III mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio CD Projekt Red, který stojí za sérií The Witcher 1 - 3 a Cyberpunk 2077, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
+Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru Heroes of Might & Magic III herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio CD Projekt Red, který stojí za sérií The Witcher 1 - 3 a Cyberpunk 2077, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
 
 #### Inkarnate
 **Inkarnate** je jedním z oblíbených mapových editorů, kde si vyzkoušíte spoustu muziky za málo peněz. Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Aplikujte na to herní mechaniky a jste už jen kousek od navrhování her jako takových. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
@@ -42,8 +42,9 @@ Construct má i vlastní asset store, sekci plnou tutoriálu a celkem fajn komun
 
 Unity je jedním z nejběžněji používaným herním enginem hned vedle Unreal Enginu. Má kolem sebe platformu Learn Unity, kde se dá vyzkoušet nespočet tutoriálů se sety assetů zdarma.  
 
-#### Unity Creator Kit
+#### Unity Creator Kit: RPG
 
+<a href="https://learn.unity.com/project/creator-kit-rpg">Creator Kit: RPG</a>
 
 ![](/images/posts/engines/unity-creator-kit.PNG)
 
