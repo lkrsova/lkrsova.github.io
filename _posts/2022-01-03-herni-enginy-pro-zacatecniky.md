@@ -13,15 +13,15 @@ Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním edi
 
 #### Inkarnate a další
 
-**Inkarnate** je jedním z oblíbených mapových editorů, který zvládá spoustu muziky za málo peněz. Vytvořit můžete jak plánky interiérů, battle mapy, tak i mapy světů se popisky, různými druhy terénů a prostředí v HD rozlišení.
+**Inkarnate** je jedním z oblíbených mapových editorů, který zvládá spoustu muziky za málo peněz. Vytvořit můžete jak plánky interiérů, battle mapy, tak i mapy světů s popisky, různými druhy terénů a prostředí v HD rozlišení.
 
-Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
+Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Ostatně, část komunity <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons">Dungeon & Dragons</a> a <a href="https://cs.wikipedia.org/wiki/Dra%C4%8D%C3%AD_doup%C4%9B">českého Dračáku</a> mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
 
 ![](/images/posts/engines/inkarnate.PNG)
 
-Další šikovné mapové editory jsou třeba <a href="https://alternativeto.net/software/wonderdraft/about/">Wonderdraft</a>, <a href="https://alternativeto.net/software/campaign-cartographer/about/">Campaing Cartographer</a>, <a href="https://alternativeto.net/software/mipui/about/">Mipui</a> a <a href="https://alternativeto.net/software/inkarnate/?p=2">další</a>. 
+Další šikovné mapové online editory jsou třeba <a href="https://alternativeto.net/software/wonderdraft/about/">Wonderdraft</a>, <a href="https://alternativeto.net/software/campaign-cartographer/about/">Campaing Cartographer</a>, <a href="https://alternativeto.net/software/mipui/about/">Mipui</a> a <a href="https://alternativeto.net/software/inkarnate/?p=2">další</a>. 
 
-### Editory v prohlížeči
+### Editory běžící v prohlížeči
 
 #### Twine & Inklewriter
 Možná máte ještě v blahé paměti tzv. <a href="https://en.wikipedia.org/wiki/Gamebook">gamebooky</a>. Knížky, kde jste si do určité míry určovali, co se bude vašemu hrdinovi dít, jsou jedním ze základních formátů interaktivních her. Ostatně jedny z prvních dungeonů, <a href="https://en.wikipedia.org/wiki/MUD">tzv. MUD</a>, kdy hráč psal vstupní požadavky na 8bitových obrazovkách v 70. letech, jsou pradědečkem oblíbených moderních RPGček.
@@ -40,7 +40,7 @@ Construct má i vlastní asset store, sekci plnou tutoriálů[^1] a celkem fajn 
 
 ![](/images/posts/engines/construct.jpg)
 
-### Unity kits & další enginy
+### Unity kits & a desktop enginy
 
 Unity je jedním z nejběžněji používaných herních enginů hned vedle Unreal Enginu. Má k sobě ještě platformu <a href="https://learn.unity.com/">Unity Learn</a>, kde se dá vyzkoušet nespočet tutoriálů. A pokud máte školní/univerzitní e-mail, celou platformu můžete využívat zdarma v rámci <a href="https://unity.com/products/unity-student">plánu Unity Student</a>. 
 
@@ -61,7 +61,7 @@ Unity 2D kit je další z balíčků assetů, mechanik, systémů a funkcí, kde
 
 Co by byla Unity bez 3D her. 3D kit stejně jako ten 2D nabízí možnost si vyzkoušet, jaké to je stavět levely, vymýšlet gameplay hry a její prostředí, aniž byste museli umět programovat. Celý balík obsahuje předvyrobené assety s přednastavenými funkcemi.
 
-<a href="https://learn.unity.com/project/3d-game-kit">Tutoriál dostupný zadarmo na Unity Learn</a>, pomůže s navigací v kitu a odměnou na konci vám bude malá hra, kterou můžete dát vyzkoušet kamarádům.
+<a href="https://learn.unity.com/project/3d-game-kit">Tutoriál dostupný zadarmo na Unity Learn</a>, pomůže s navigací v prostředí kitu a odměnou na konci vám bude malá hra, kterou můžete dát vyzkoušet kamarádům.
 
 ![](/images/posts/engines/unity-3dkit.PNG)
 
