@@ -36,7 +36,7 @@ S <a href="https://bitsy.org/#0,0">Bitsy</a> mám omezenou osobní zkušenost, a
 #### Construct
 Pokud jste fandové 2D či top-down her nebo platformerů a **neumíte programovat, Construct je ideální** varianta pro vás. Má jednoduché rozhraní, velmi intuitivní ovládání stylem *drag & drop* a spoustu přednastavených funkcí a proměnných, které při navrhování hry můžete potřebovat.
 
-Construct má i vlastní asset store, sekci plnou tutoriálů a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
+Construct má i vlastní asset store, sekci plnou tutoriálů[^1] a celkem fajn komunitu, která pomůže, pokud jste v úzkých. Editor běží v prohlížeči a projekt, který v něm tvoříte, se dá synchronizovat s Google Drive.
 
 ![](/images/posts/engines/construct.jpg)
 
@@ -51,19 +51,23 @@ S tímhle kitem v Unity si můžete postavit jednoduchou RPG top-down (pohled z 
 
 #### Unity 2D kit
 
-2D Platformery jsou jedny z těch her, na kterých se naučíte spoustu věcí, ale zároveň to není úplně raketová věda je vymýšlet. Pár plošinek, nepřátel a věcí ke sbírání a uděláte s tím spoustu parády.
+2D platformery jsou jedny z těch her, na kterých se naučíte spoustu věcí, ale zároveň to není úplně raketová věda je vymýšlet. Pár plošinek, nepřátel a věcí ke sbírání a uděláte s tím spoustu parády.
+
+Unity 2D kit je další z balíčků assetů, mechanik, systémů a funkcí, kde nemusíte umět programovat, ale postavíte s jejich pomocí díky <a href="https://learn.unity.com/project/2d-game-kit">tutoriálu</a> hezky vypadající plošinovku.
 
 ![](/images/posts/engines/unity-2dkit.PNG)
 
 #### Unity 3D kit
 
-Co by byla Unity bez 3D her. 3D kit nabízí možnost si vyzkoušet, jaké to je stavět levely, vymýšlet gameplay hry a její prostředí, aniž byste museli umět programovat. Celý balík obsahuje předvyrobené assety s přednastavenými funkcemi.
+Co by byla Unity bez 3D her. 3D kit stejně jako ten 2D nabízí možnost si vyzkoušet, jaké to je stavět levely, vymýšlet gameplay hry a její prostředí, aniž byste museli umět programovat. Celý balík obsahuje předvyrobené assety s přednastavenými funkcemi.
 
-Tutoriál, který je zadarmo na Unity Learn, pomůže s navigací v kitu a odměnou na konci vám bude malá hra, kterou můžete dát vyzkoušet kamarádům.
+<a href="https://learn.unity.com/project/3d-game-kit">Tutoriál dostupný zadarmo na Unity Learn</a>, pomůže s navigací v kitu a odměnou na konci vám bude malá hra, kterou můžete dát vyzkoušet kamarádům.
 
 ![](/images/posts/engines/unity-3dkit.PNG)
 
 ### Godot
+
+<a href="https://godotengine.org/features#design">Godot je open source engine</a> z MIT a funguje jako lehčí protiváha ke všem robustním herním enginům. Je velmi přátelský k začátečníkům a neprofi herním vývojařům. Obsahuje spoustu funkcí, které vám ulehčí život, ať už budete dávat dohromady pixel art, 3D, top down hry, a to bez toho, aniž byste museli krotit bestie jako je Unity nebo Unreal.
 
 ![](/images/posts/engines/godot.png)
 
