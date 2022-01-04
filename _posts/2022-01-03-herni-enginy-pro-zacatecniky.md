@@ -6,9 +6,7 @@ featured_image: /images/posts/engines/godot.png
 tags: [video games, PhD]
 ---
 
-Herní design je velmi přístupná disciplína, i přes zvláštní auru, která ji obklopuje a často říká opak. Následující seznam herních editorů, kitů a enginů sdílím pro ty, kteří by si chtěli zkusit vytvořit hru a buď neumí programovat nebo neví kde začít.
-
-Byť se to zdá navenek složitější, než je, herní design je především o aplikování teorie do praxe, kdy získáváte zkušenosti ne až tolik tím, že hry hrajete, ale že je navrhujete, prototypujete a (na ostatních) zkoušíte, jestli fungují. Kolikrát tak ani nemusíte znát té teorie moc, abyste mohli vytvořit jednoduchou hru, u které dokážete sami říct, jestli je zábavná nebo ne. 
+Herní design je velmi přístupná disciplína, i přes zvláštní auru, která ho obklopuje a často říká opak. Následující seznam herních editorů, kitů a enginů sdílím pro ty, kteří by si chtěli zkusit vytvořit hru a buď neumí programovat nebo neví kde začít.
 
 ### Editory map
 Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru Heroes of Might & Magic III herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio CD Projekt Red, který stojí za sérií The Witcher 1 - 3 a Cyberpunk 2077, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
@@ -62,8 +60,11 @@ Tutoriál, který je zadarmo na Unity Learn, pomůže s navigací v kitu a odmě
 ### Godot
 ![](/images/posts/engines/godot.png)
 
-#### Poznámka na konec:
-Tenhle seznam rozhodně není vyčerpávající. Existuje velká řada editorů, kitů a enginů, které jsem nevyzkoušela a nebo o nich neslyšela. Výše zmíněné můžu doporučit z vlastní zkušenosti.
+#### Poznámka na konec
+
+Byť se to zdá navenek složitější, než je, herní design je především o aplikování teorie do praxe, kdy získáváte zkušenosti ne až tolik tím, že hry hrajete, ale že je navrhujete, prototypujete a (na ostatních) zkoušíte, jestli fungují. Kolikrát tak ani nemusíte znát té teorie moc, abyste mohli vytvořit jednoduchou hru, u které dokážete sami říct, jestli je zábavná nebo ne. 
+
+Tenhle seznam rozhodně není vyčerpávající. Existuje velká řada editorů, kitů a enginů, které jsem nevyzkoušela a nebo o nich neslyšela. Výše zmíněné můžu ale doporučit z vlastní zkušenosti.
 
 #### Zdroje:
 [^1]: https://gg.deals/dlc/basic-platformer-game-engine-for-construct-2-and-3/
