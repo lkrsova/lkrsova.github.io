@@ -11,11 +11,13 @@ Herní design je velmi přístupná disciplína, i přes zvláštní auru, kter�
 Byť se to zdá navenek složitější, než je, herní design je především disciplína, ve které se vylepšujete aplikováním teorie v praxi a zkušenosti získáváte s čím víc her za sebou máte. Ale kolikrát ani nemusíte znát té teorie moc, abyste mohli vytvořit jednoduchou hru, u které dokážete sami říct, jestli je zábavná nebo ne. 
 
 ### Editory map
-Ještě teď mám v živé paměti, jak jsme doma jako prckové tvořili v nativním editoru mapy pro Heroes of Might & Magic III. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Pokud to nevíte, CD Projekt Red je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
+Ještě teď mám v živé paměti, jak jsme doma jako prckové tvořili v nativním editoru Heroes of Might & Magic III mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio CD Projekt Red, který stojí za Zaklínačem a Cyberpunk 2077, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
 
 #### Inkarnate
-Inkarnate je jedním z oblíbených mapových editorů. Mapy jsou dobré pískoviště pro worldbuilding a vymýšlení koncepcí prostředí, ve kterém se hra bude odehrávat. Což už je už jen kousek do navrhování her jako takových. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy využívá denně a jakou parádu s tím nadělají.
+**Inkarnate** je jedním z oblíbených mapových editorů, kde si vyzkoušíte spoustu muziky za málo peněz. Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Aplikujte na to herní mechaniky a jste už jen kousek od navrhování her jako takových. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a pdoobné editory využívá denně a jakou parádu s tím nadělají.
 ![](/images/posts/engines/inkarnate.PNG)
+
+Další mapové editory: 
 
 ### Editory v prohlížeči
 
