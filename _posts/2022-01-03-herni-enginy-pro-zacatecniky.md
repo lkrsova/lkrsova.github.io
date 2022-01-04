@@ -12,13 +12,14 @@ Herní design je velmi přístupná disciplína, i přes zvláštní auru, kter�
 Ještě teď mám v živé paměti, jak jsme doma kdysi tvořili v nativním editoru **Heroes of Might & Magic III** herní mapy. Doba to je už dávná, ale moddovací nástroje jsou stále nedílnou součástí tvorby her a jejich vylepšování. Například studio <a href="https://en.cdprojektred.com/">CD Projekt Red</a>, který stojí za sérií <a href="https://witcher.fandom.com/wiki/CD_Projekt%27s_The_Witcher_franchise">The Witcher 1 - 3</a> a <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a>, je vyloženě známé tím, že do studia nabírá lidi z moddovací komunity, a nejsou jediní.
 
 #### Inkarnate
-**Inkarnate** je jedním z oblíbených mapových editorů, kde je spousta muziky za málo peněz. Vytvořit můžete jak plánky interiérů, tak i mapy světů se popisky, různými druhy terénů a prostředí.
+
+**Inkarnate** je jedním z oblíbených mapových editorů, který zvládá spoustu muziky za málo peněz. Vytvořit můžete jak plánky interiérů, battle mapy, tak i mapy světů se popisky, různými druhy terénů a prostředí v HD rozlišení.
 
 Mapy jsou obecně dobrý startovací bod pro tvoření světů, tzv. worldbuilding, a vymýšlení koncepcí prostředí, ve kterém se vaše hra bude odehrávat. Ostatně, část komunity Dungeon & Dragons a českého Dračáku mapy a podobné editory využívá denně a jakou parádu s tím nadělají.
 
 ![](/images/posts/engines/inkarnate.PNG)
 
-Další mapové editory: 
+Další šikovné mapové editory jsou třeba <a href="https://alternativeto.net/software/wonderdraft/about/">Wonderdraft</a>, <a href="https://alternativeto.net/software/campaign-cartographer/about/">Campaing Cartographer</a>, <a href="https://alternativeto.net/software/mipui/about/">Mipui</a> a <a href="https://alternativeto.net/software/inkarnate/?p=2">další</a>. 
 
 ### Editory v prohlížeči
 
