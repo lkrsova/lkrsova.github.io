@@ -56,7 +56,7 @@ Tutoriál, který je zadarmo na Unity Learn, pomůže s navigací v kitu a odmě
 ![](/images/posts/engines/unity-3dkit.PNG)
 
 ### Godot
-![](/images/posts/engines/godot.PNG)
+![](/images/posts/engines/godot.png)
 
 #### Poznámka na konec:
 Tenhle seznam rozhodně není vyčerpávající. Existuje velká řada editorů, kitů a enginů, které jsem nevyzkoušela a nebo o nich neslyšela. Výše zmíněné můžu doporučit z vlastní zkušenosti.
