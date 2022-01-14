@@ -70,6 +70,5 @@ Coincidentally, the same spike showed up for *Wild at Heart* quest. It is not th
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"wandering in the dark witcher","geo":"","time":"today 5-y"},{"keyword":"wild at heart witcher","geo":"","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&q=wandering%20in%20the%20dark%20witcher,wild%20at%20heart%20witcher","guestPath":"https://trends.google.com:443/trends/embed/"});
 </script>
 
-
-### References
+#### References
 [^1]: https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
