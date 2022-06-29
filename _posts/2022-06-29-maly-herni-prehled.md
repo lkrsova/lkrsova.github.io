@@ -15,7 +15,7 @@ Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 207
 ![](/images/posts/transistor-gameplay.jpg)
 Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou.
 
-**Proč se mi to líbí:** vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory 
+**Proč se mi to líbí:** vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a melancholično
 
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
