@@ -10,24 +10,23 @@ Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale �
 
 Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 2077, tak Kingdom Come: Deliverance, zatímco skáču po menších, kratších a na kognitivní schopnosti méně náročných hrách. (Prací a vedry ošoupaný mozek se neptá...) Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
 
-#### Transistor
+#### Transistor (Supergiant Games)
 
 ![](/images/posts/transistor-gameplay.jpg)
 Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou.
 
 **Proč se mi to líbí:** vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory 
 
-#### Death's Door
+#### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
 
-#### Gamedec
+#### Gamedec (Anshar Studios)
 
 ![](/images/posts/gamedecintro.jpg)
 
-#### Impostor Factory
+#### Impostor Factory (Freebird Games)
 
-#### Graveyard Keeper
+#### Graveyard Keeper (Lazy Bear Games)
 
-
-#### A Way Out
+#### A Way Out (Hazelight Studios)
 
