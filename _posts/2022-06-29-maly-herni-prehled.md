@@ -1,5 +1,5 @@
 ---
-title: "Malý herní přehled"
+title: "6 her na ty chvíle, kdy není čas"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/posts/transistor-supergiantgames.jpg
@@ -24,6 +24,7 @@ Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 207
 #### Impostor Factory
 
 #### Graveyard Keeper
+
 
 #### A Way Out
 
