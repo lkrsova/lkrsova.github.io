@@ -11,7 +11,7 @@ Znáte ten mem o tom, že když jsme byli malí, měli jste spoustu času, ale �
 
 #### Transistor
 
-![](/images/posts/engines/transistor-supergiantgames.jpg)
+![](/images/posts/transistor-supergiantgames.jpg)
 
 #### Death's Door
 
