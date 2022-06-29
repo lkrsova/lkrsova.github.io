@@ -1,5 +1,5 @@
 ---
-title: "6 her na ty chvíle, kdy není čas"
+title: "6 her na chvíle, kdy není čas"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/posts/transistor-supergiantgames.jpg
@@ -13,6 +13,9 @@ Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 207
 #### Transistor
 
 ![](/images/posts/transistor-supergiantgames.jpg)
+Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou.
+
+Proč se mi to líbí: vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory 
 
 #### Death's Door
 ![](/images/posts/deathdoor.jpg)
