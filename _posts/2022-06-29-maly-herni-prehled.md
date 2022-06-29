@@ -1,4 +1,3 @@
-
 ---
 title: "Malý herní přehled"
 author: "Leni Krsova"
