@@ -2,7 +2,7 @@
 title: "Malý herní přehled"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/engines/godot.png
+featured_image: /images/posts/transistor-supergiantgames.jpg
 tags: [video games, PhD]
 ---
 
