@@ -29,7 +29,7 @@ Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během 
 
 #### Gamedec (Anshar Studios)
 
-![](/images/posts/gamedecintro.jpg)
+![](/images/posts/gamedegame.jpg)
 
 #### Impostor Factory (Freebird Games)
 
