@@ -14,7 +14,7 @@ Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co m
 
 #### Transistor (Supergiant Games)
 
-Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou. Stejně jako ony se jedná o isometrickou akční RPG hru, tentokrát ale s tématikou sci-fi, konkrétně cyberpunku s vizuálním podkresem secese[^1].
+Říká vám něco <a href="https://store.steampowered.com/app/107100/Bastion/" target="_blank">Bastion</a> nebo <a href="https://store.steampowered.com/app/1145360/Hades/" target="_blank">Hades</a> od Supergiant Games? Transistor je prostřední herní sourozenec obou. Stejně jako ony se jedná o isometrickou akční RPG hru, tentokrát ale s tématikou sci-fi, konkrétně cyberpunku s vizuálním podkresem secese[^1].
 
 V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process, zorganizovaný skupinou Camerata, která se snaží o ovládnutí města Cloudbank, kde si Red budovala zářnou kariéru. Během útoku Red přijde o hlas, na druhou stranu ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do ní se vtělené duše a hlasu neznámého zachránce, který ji přiskočil na pomoc v pravou chvíli, byť se ztrátou vlastního života. S touhle dvojkou pak procházíte městem Cloudbank, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě, proč je zrovna na vašich zádech terč a jak se ho zbavit. 
 
