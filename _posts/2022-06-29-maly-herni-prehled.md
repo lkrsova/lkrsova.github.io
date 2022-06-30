@@ -40,4 +40,4 @@ Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích, kdy si
 #### A Way Out (Hazelight Studios)
 
 
-[^1] Vše ručně malované Jen Zee.
+[^1]: Vše ručně malované Jen Zee.
