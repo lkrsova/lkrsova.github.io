@@ -16,18 +16,14 @@ Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co m
 
 Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou. Stejně jako ony se jedná o isometrickou akční RPG hru, tentokrát ale s tématikou sci-fi, konkrétně cyberpunku s vizuálním podkresem secese[^1].
 
-V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process organizovaný skupinou Camerata, které ovládají město Cloudbank, kde měla Red zářnou kariéru. Během útoku Red přijde o hlas, ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do ní se vtělené duše a hlasu jejího neznámého zachránce, které přiskočil na pomoc v pravou chvíli, byť se ztrátou vlastního života. S touhle dvojkou pak procházíte městem Cloudbank, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě a proč je zrovna na vašich zádech terč. 
+V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process, zorganizovaný skupinou Camerata, která se snaží o ovládnutí města Cloudbank, kde si Red budovala zářnou kariéru. Během útoku Red přijde o hlas, na druhou stranu ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do ní se vtělené duše a hlasu neznámého zachránce, který ji přiskočil na pomoc v pravou chvíli, byť se ztrátou vlastního života. S touhle dvojkou pak procházíte městem Cloudbank, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě, proč je zrovna na vašich zádech terč a jak se ho zbavit. 
 
 ![](/images/posts/transistor-gameplay.jpg)
 
-Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličných typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat, takže vznikají hodně zajímavé způsoby melee i range útoku
+Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během něj, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličným typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat a aktivovat, čímž vznikají hodně zajímavé a i vizuálně působivé (particles, everywhere!) způsoby melee i range útoku. Na své si tak přijdou jak button smashers, tak i více přemýšliví plánovači. 
 
 **Proč se mi to líbí:**
-- vizuál propojující cyberpunk & secesi;
-- zajímavé kombinace buffů;
-- možnost hrát na tahy;
-- nenáročnost;
-- lovestory a melancholično
+- vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a atmosférické vyprávění s nádechem melancholična
 
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
