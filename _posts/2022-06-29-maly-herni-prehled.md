@@ -12,10 +12,11 @@ Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 207
 
 #### Transistor (Supergiant Games)
 
-![](/images/posts/transistor-gameplay.jpg)
 Říká vám něco Bastion nebo Hades od Supergiant Games? Transistor je prostřední herní sourozenec obou. Stejně jako ony se jedná o isometrickou akční RPG hru, tentokrát ale s tématikou sci-fi, konkrétně cyberpunku s vizuálním podkresem secese[^1].
 
 V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process organizovaný skupinou Camerata, které ovládají město Cloudbank, kde měla Red zářnou kariéru. Během útoku Red přijde o hlas, ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do ní se vtělené duše a hlasu jejího neznámého zachránce, které přiskočil na pomoc v pravou chvíli, byť se ztrátou vlastního života. S touhle dvojkou pak procházíte městem Cloudbank, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě a proč je zrovna na vašich zádech terč. 
+
+![](/images/posts/transistor-gameplay.jpg)
 
 Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličných typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat, takže vznikají hodně zajímavé způsoby melee i range útoku
 
