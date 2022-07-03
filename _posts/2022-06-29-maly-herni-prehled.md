@@ -24,14 +24,15 @@ V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Pro
 
 Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během něj, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličným typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat a aktivovat, čímž vznikají hodně zajímavé a i vizuálně působivé (particles, everywhere!) způsoby melee i range útoku. Na své si tak přijdou jak button smashers, tak i více přemýšliví plánovači. 
 
-**Proč se mi to líbí:** vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a atmosférické vyprávění s nádechem melancholična; soundtrack.
+**Proč se mi to líbí:**
+Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a atmosférické vyprávění s nádechem melancholična; soundtrack.
 
 ----
 
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
 
-Jednomu to zkazí den, když 
+Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou musíte odbavit na druhý břeh. Tohle je veskrze zápletka další isometrické akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky. Vše s cílem 
 
 ----
 
