@@ -54,4 +54,6 @@ Vizuální styl hry; nenáročnost; cyberpunk tématika; volby ovlivňující v�
 #### Malé developerské P.S. nakonec
 Pokud vás zajímá, jak se vyrábí podobné hry, mrkněte na <a href="https://youtu.be/SL2Pk2jP_6s">dokument o Transistoru od NoClip</a>, kde celý tým mapuje různé nápady a verze, které předcházely finální hře. O tom, jak pracují Supergiant Games, pak zkoukněte ještě <a href="https://www.youtube.com/watch?v=JzyE9hi912c&list=PL-THgg8QnvU4JEVov1tMlFThNYS92F8uC">šestidílnou sérii dokumentů</a> (taky od NoClip), kterou věnovali vývoji hry Hades.
 
+Pokud vás zaujal Death's Door, i o ní kluci z NoClip natočili <a href="">dokument s jeho tvůrcem nejen o jeho herní filozofii, ale i o designu celé hry</a>.
+
 [^1]: Vše ručně malované Jen Zee.
