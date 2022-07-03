@@ -29,11 +29,11 @@ Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost 
 
 #### Death's Door (Acid Nerve)
 
-Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě tu jednu ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají, kosíte (kos, vrána...get it?) různé typy nepřátel a hlavních bossů.
+Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG <a href="https://store.steampowered.com/app/894020/Deaths_Door/">Death's Door</a>, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě tu jednu ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají, kosíte (vrána, kos...get it?) různé typy nepřátel a hlavních bossů.
 
 ![](/images/posts/deathdoor.jpg)
 
-Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu. Hra vám toho hodně neodpustí, stačí pár chybiček a spawnujete se odznova u nejbližších dveřích, ťapete si to zpátky do arény, a to klidně i hned několikrát po sobě. Odměny za to ale stojí.
+Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu (v roztomilejším kabátku...). Hra vám toho hodně neodpustí, stačí pár chybiček a spawnujete se odznova u nejbližších dveřích, ťapete si to zpátky do arény, a to klidně i hned několikrát po sobě. Odměny za to ale stojí.
 
 **Proč se mi to líbí:**
 Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip dialogů; puzzle; level design.
