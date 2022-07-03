@@ -31,11 +31,11 @@ Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost 
 
 #### Death's Door (Acid Nerve)
 
-Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají.
+Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě tu jednu ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají, kosíte (kos, vrána...get it?) různé typy nepřátel a hlavních bossů.
 
 ![](/images/posts/deathdoor.jpg)
 
-Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu. Ne všechno se vám odpustí, a stačí pár chybiček a jdete odznova a to hned několikrát. Odměny za to ale stojí.
+Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu. Hra vám toho hodně neodpustí, stačí pár chybiček a spawnujete se odznova u nejbližších dveřích, ťapete si to zpátky do arény, a to klidně i hned několikrát po sobě. Odměny za to ale stojí.
 
 **Proč se mi to líbí:**
 Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip dialogů; puzzle; level design.
@@ -44,8 +44,14 @@ Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip d
 
 #### Gamedec (Anshar Studios)
 
+Asi nemusím moc dlouze vysvětlovat, že kyberpunk je jeden z mých nejoblíbenějších estetických, ale i kulturních fenoménů. Ať už je to The Matrix, Blade Runner, knížky od polských spisovatelů, nebo novější věci jako Altered Carbon, styl, dystopie a lidské příběhy úzce spjaté s technologií mě prostě nepřestanou nikdy fascinovat. A Gamedec, další isometrická hra, je právě z tohohle ranku.
+
 ![](/images/posts/gamedecgame.jpg)
 
+V Gamedec ztvárňujete roli detektiva, který vyšetřuje zločiny, které se odehrávají uvnitř her. Představte si třeba holodeck ze Star Treku a zločin, co se stane v jednom z jeho virtuálních scénářů, a sebe jako detektiva, který se skrz dialogy, průzkum indicií a vlastní dedukce rozhodne, kdo za tím stojí. To je Gamedec v kostce. 
+
+**Proč se mi to líbí:**
+Vizuální styl hry; 
 ----
 
 #### Impostor Factory (Freebird Games)
