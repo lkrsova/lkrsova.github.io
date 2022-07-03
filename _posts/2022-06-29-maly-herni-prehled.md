@@ -2,7 +2,7 @@
 title: "Malý herní přehled #1: Nenáročné isometrické RPG"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/transistor-supergiantgames.jpg
+featured_image: /images/posts/prehlediso.PNG
 tags: [video games, PhD]
 ---
 
