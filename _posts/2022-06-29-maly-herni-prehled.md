@@ -1,5 +1,5 @@
 ---
-title: "6 her na chvíle, kdy není čas"
+title: "6 her pro chvíle, kdy není čas"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/posts/transistor-supergiantgames.jpg
@@ -11,6 +11,8 @@ Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale �
 Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 2077, tak Kingdom Come: Deliverance, zatímco skáču po menších, kratších a na kognitivní schopnosti méně náročných hrách. (Prací a vedry ošoupaný mozek se neptá...).
 
 Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
+
+---
 
 #### Transistor (Supergiant Games)
 
@@ -26,6 +28,8 @@ Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během 
 
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
+
+
 
 #### Gamedec (Anshar Studios)
 
