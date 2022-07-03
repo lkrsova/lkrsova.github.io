@@ -26,19 +26,27 @@ Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během 
 
 **Proč se mi to líbí:** vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a atmosférické vyprávění s nádechem melancholična; soundtrack.
 
+----
+
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
 
+Jednomu to zkazí den, když 
 
+----
 
 #### Gamedec (Anshar Studios)
 
 ![](/images/posts/gamedegame.jpg)
 
+----
+
 #### Impostor Factory (Freebird Games)
 
+----
 #### Graveyard Keeper (Lazy Bear Games)
 
+----
 #### A Way Out (Hazelight Studios)
 
 
