@@ -12,7 +12,7 @@ Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 207
 
 Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
 
----
+----
 
 #### Transistor (Supergiant Games)
 
