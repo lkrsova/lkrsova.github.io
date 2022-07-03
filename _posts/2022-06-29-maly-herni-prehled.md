@@ -41,7 +41,7 @@ Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip d
 
 #### Gamedec (Anshar Studios)
 
-![](/images/posts/gamedegame.jpg)
+![](/images/posts/gamedecgame.jpg)
 
 ----
 
