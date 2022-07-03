@@ -8,7 +8,7 @@ tags: [video games, PhD]
 
 Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale žádné peníze na hraní videoher, zatímco v dospělosti máme konečně peníze, ale už ne ten čas na hraní? Bolí, co? Poslední dobou cítím, že se z tohohle memu stala reflexe mých všedních dnů -- na hraní výpravných AAA her s gameplay přes 80h nemám čas. 
 
-Na digitální poličce na mě tak zklamaně zírá jak rozehraný Cyberpunk 2077, tak Kingdom Come: Deliverance, zatímco skáču po menších, kratších a na kognitivní schopnosti méně náročných hrách. (Prací a vedry ošoupaný mozek se neptá...).
+Na digitální poličce na mě tak zklamaně zírá jak z 90% dohraný Cyberpunk 2077, tak Kingdom Come: Deliverance, zatímco skáču po menších, kratších a na kognitivní schopnosti méně náročných hrách. (Prací a vedry ošoupaný mozek se neptá...).
 
 Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
 
@@ -18,7 +18,7 @@ Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co m
 
 Říká vám něco <a href="https://store.steampowered.com/app/107100/Bastion/" target="_blank">Bastion</a> nebo <a href="https://store.steampowered.com/app/1145360/Hades/" target="_blank">Hades</a> od Supergiant Games? Transistor je prostřední herní sourozenec obou. Stejně jako ony se jedná o isometrickou akční RPG hru, tentokrát ale s tématikou sci-fi, konkrétně cyberpunku s vizuálním podkresem secese[^1].
 
-V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process, zorganizovaný skupinou Camerata, která se snaží o ovládnutí města Cloudbank, kde si Red budovala zářnou kariéru. Během útoku Red přijde o hlas, na druhou stranu ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do ní se vtělené duše a hlasu neznámého zachránce, který ji přiskočil na pomoc v pravou chvíli, byť se ztrátou vlastního života. S touhle dvojkou pak procházíte městem Cloudbank, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě, proč je zrovna na vašich zádech terč a jak se ho zbavit. 
+V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Process, zorganizovaný skupinou Camerata, která se snaží o ovládnutí města Cloudbank, kde si Red budovala zářnou kariéru. Během útoku Red přijde o hlas, na druhou stranu ale získá zbraň připomínající kombinaci meče a tranzistoru, včetně do něj se vtělené duše a hlasu neznámého zachránce, který ji přiskočil na pomoc v pravou chvíli. S touhle dvojkou pak procházíte městem, dozvídáte se informace jak o Red, tak o lokálních obyvatelích, světě, proč je zrovna na vašich zádech terč a jak se ho zbavit. 
 
 ![](/images/posts/transistor-gameplay.jpg)
 
@@ -32,7 +32,7 @@ Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost 
 #### Death's Door (Acid Nerve)
 ![](/images/posts/deathdoor.jpg)
 
-Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou musíte odbavit na druhý břeh. Tohle je veskrze zápletka další isometrické akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky. Vše s cílem 
+Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou musíte odbavit na druhý břeh. V herním vesmíru to je ale jednoduchá zápletka isometrické akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky. Vše s cílem
 
 ----
 
