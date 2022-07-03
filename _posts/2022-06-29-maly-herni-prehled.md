@@ -1,14 +1,14 @@
 ---
-title: "Malý herní přehled: Jen si tak isometricky odpočívat"
+title: "Malý herní přehled #1: Nenáročné isometrické RPG"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/posts/transistor-supergiantgames.jpg
 tags: [video games, PhD]
 ---
 
-Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale žádné peníze na hraní videoher, zatímco v dospělosti máme konečně peníze, ale už ne ten čas na hraní? Já k tomu přidávám ještě dimenzi únavy hlavy, kdy jste po dlouhém dni v práci tak vyšťavení, že na rozsáhlé, příběhově komplikované a na mozek náročné hry nemáte ani pomyšlení.
+Znáte ten mem, co říká, že když jsme byli malí, měli jsme spoustu času, ale žádné peníze na hraní videoher, zatímco v dospělosti máme konečně peníze, ale už ne ten čas na hraní? Já k tomu přidávám ještě další dimenzi: pokud máte peníze i čas, většinou vám chybí mozková kapacita, neb jste po dlouhém dni v práci tak vyšťavení, že na rozsáhlé, příběhově komplikované a na mozek jinak náročné hry nemáte ani pomyšlení.
 
-Byť na mě z digitální Steam police uraženě kouká rozehraný <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a> a <a href="https://www.kingdomcomerpg.com/">Kingdom Come: Deliverance</a>, skáču teď dlouhodobě po menších, kratších a na kognitivní schopnosti méně náročných hrách. Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
+Mně se tohle teď děje častěji než dřív. Z digitální Steam police na mě uraženě kouká rozehraný <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a> a <a href="https://www.kingdomcomerpg.com/">Kingdom Come: Deliverance</a>, zatímco skáču po menších, kratších a na kognitivní schopnosti mnohem méně náročných hrách. Vím, že nejsem sama, tak se vám třeba těhlech pár her, co mě za poslední dobu zaujaly, bude hodit.
 
 ----
 
