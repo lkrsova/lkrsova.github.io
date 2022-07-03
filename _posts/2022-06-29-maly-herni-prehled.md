@@ -30,9 +30,12 @@ Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost 
 ----
 
 #### Death's Door (Acid Nerve)
+
+Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají.
+
 ![](/images/posts/deathdoor.jpg)
 
-Jednomu to zkazí den, když jste smrtka a uteče vám duše, kterou jste měli odbavit na druhý břeh. Touhle zápletku začíná další isometrická akční RPG Death's Door, kde se v podobě roztomilé vrány procházíte skrz podsvětí, bojujete a řešíte hádanky s cílem nalézt právě ztracenou duši. Kromě jiného se během průzkumu podsvětí postupně dozvídáte o světě jako takovém, jeho obyvatelích a záhadách, které se v tam skrývají. Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu. Ne všechno se vám odpustí, a stačí pár chybiček a jdete odznova a to hned několikrát. Odměny za to ale stojí.
+Vím, že to bude znít trochu zvláštně, ale boj mi v Death's Door občas připomíná trochu boss battles v Elden Ringu. Ne všechno se vám odpustí, a stačí pár chybiček a jdete odznova a to hned několikrát. Odměny za to ale stojí.
 
 **Proč se mi to líbí:**
 Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip dialogů; puzzle; level design.
