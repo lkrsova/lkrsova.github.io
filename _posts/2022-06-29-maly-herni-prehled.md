@@ -44,14 +44,14 @@ Low-poly grafika; atmosférický sound design; roztomilý hlavní hrdina; vtip d
 
 #### Gamedec (Anshar Studios)
 
-Asi nemusím moc dlouze vysvětlovat, že kyberpunk je jeden z mých nejoblíbenějších estetických, ale i kulturních fenoménů. Ať už je to The Matrix, Blade Runner, knížky od polských spisovatelů, nebo novější věci jako Altered Carbon, styl, dystopie a lidské příběhy úzce spjaté s technologií mě prostě nepřestanou nikdy fascinovat. A Gamedec, další isometrická hra, je právě z tohohle ranku.
+Asi nemusím moc dlouze vysvětlovat, že kyberpunk je jeden z mých nejoblíbenějších estetických, ale i kulturních fenoménů. Ať už je to The Matrix, Blade Runner, knížky od polských spisovatelů, nebo novější věci jako Altered Carbon, styl, dystopie a lidské příběhy úzce spjaté s technologií mě prostě nepřestanou nikdy fascinovat. A Gamedec, isometrická RPG point & click adventura, je právě z tohohle ranku.
 
 ![](/images/posts/gamedecgame.jpg)
 
-V Gamedec ztvárňujete roli detektiva, který vyšetřuje zločiny, které se odehrávají uvnitř her. Představte si třeba holodeck ze Star Treku a zločin, co se stane v jednom z jeho virtuálních scénářů, a sebe jako detektiva, který se skrz dialogy, průzkum indicií a vlastní dedukce rozhodne, kdo za tím stojí. To je Gamedec v kostce. 
+V Gamedec ztvárňujete roli detektiva, který vyšetřuje zločiny, které se odehrávají uvnitř her. Představte si třeba holodeck ze Star Treku a zločin, co se stane v jednom z jeho virtuálních scénářů, a sebe jako detektiva, který se skrz dialogy, průzkum indicií a vlastní dedukce rozhodne, kdo za tím stojí. To je Gamedec v kostce. Gameplay je občas trochu repepetitivní (tj. větší počet questů errand boy typu), ale není to nějak nadmíru na škodu. Pokud jste měli rádi Disco Elysium, a smíříte se s tím, že Gamedec se zasekl někde na půl cesty k dokonalosti, ale přisypal notnou dávku sci-fi, Gamedec se vám bude zamlouvat.
 
 **Proč se mi to líbí:**
-Vizuální styl hry; 
+Vizuální styl hry; nenáročnost; cyberpunk tématika; volby ovlivňující výsledek hry; 
 ----
 
 #### Impostor Factory (Freebird Games)
