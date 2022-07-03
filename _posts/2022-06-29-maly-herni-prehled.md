@@ -20,7 +20,7 @@ V Transistor hrajete za zpěvačku Red, která přežije útok robotů, tzv. Pro
 
 ![](/images/posts/transistor-gameplay.jpg)
 
-Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během něj, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličným typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat a aktivovat, čímž vznikají hodně zajímavé a i vizuálně působivé (particles, everywhere!) způsoby melee i range útoku. Na své si tak přijdou jak button smashers, tak i více přemýšliví plánovači. 
+Gameplay spočívá jak v real-time combatu, tak i v turn-based fázích během něj, kdy si můžete naplánovat a provést jednotlivé kroky útoku proti rozličným typům nepřátel. Procházením městem sbíráte různá vylepšení pro svůj "meč", které se dají libovolně kombinovat a aktivovat, čímž vznikají hodně zajímavé a i vizuálně působivé (particles, everywhere!) způsoby melee i range útoku. Na své si tak přijdou jak button smashers, tak i více přemýšliví plánovači.
 
 **Proč se mi to líbí:**
 Vizuál propojující cyberpunk & secesi; zajímavé kombinace buffů; možnost hrát na tahy; nenáročnost; lovestory a atmosférické vyprávění s nádechem melancholična; soundtrack.
@@ -51,5 +51,7 @@ V Gamedec ztvárňujete roli detektiva, který vyšetřuje zločiny, které se o
 **Proč se mi to líbí:**
 Vizuální styl hry; nenáročnost; cyberpunk tématika; volby ovlivňující výsledek hry; 
 
+#### Malé developerské P.S. nakonec
+Pokud vás zajímá, jak se vyrábí podobné hry, mrkněte na <a href="https://youtu.be/SL2Pk2jP_6s">dokument o Transistoru od NoClip</a>, kde celý tým mapuje různé nápady a verze, které předcházely finální hře. O tom, jak pracují Supergiant Games, pak zkoukněte ještě <a href="https://www.youtube.com/watch?v=JzyE9hi912c&list=PL-THgg8QnvU4JEVov1tMlFThNYS92F8uC">šestidílnou sérii dokumentů</a> (taky od NoClip), kterou věnovali vývoji hry Hades.
 
 [^1]: Vše ručně malované Jen Zee.
