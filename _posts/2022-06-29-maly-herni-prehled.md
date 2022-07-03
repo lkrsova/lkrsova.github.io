@@ -1,16 +1,14 @@
 ---
-title: "6 her pro chvíle, kdy není čas"
+title: "Malý herní přehled: Isometricky si odpočívat"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/posts/transistor-supergiantgames.jpg
 tags: [video games, PhD]
 ---
 
-Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale žádné peníze na hraní videoher, zatímco v dospělosti máme konečně peníze, ale už ne ten čas na hraní? Bolí, co? Poslední dobou cítím, že se z tohohle memu stala reflexe mých všedních dnů -- na hraní výpravných AAA her s gameplay přes 80h nemám čas. 
+Znáte ten mem o tom, že když jsme byli malí, měli jsme spoustu času, ale žádné peníze na hraní videoher, zatímco v dospělosti máme konečně peníze, ale už ne ten čas na hraní? Já k tomu přidávám ještě dimenzi únavy hlavy, kdy jste po dlouhém dni v práci tak vyšťavení, že na rozsáhlé, příběhově komplikované a na mozek náročné hry nemáte ani pomyšlení.
 
-Na digitální poličce na mě tak zklamaně zírá jak z 90% dohraný Cyberpunk 2077, tak Kingdom Come: Deliverance, zatímco skáču po menších, kratších a na kognitivní schopnosti méně náročných hrách. (Prací a vedry ošoupaný mozek se neptá...).
-
-Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
+Byť na mě z digitální Steam police uraženě kouká rozehraný <a href="https://www.cyberpunk.net/cz/en/">Cyberpunk 2077</a> a <a href="https://www.kingdomcomerpg.com/">Kingdom Come: Deliverance</a>, skáču teď dlouhodobě po menších, kratších a na kognitivní schopnosti méně náročných hrách. Vím, že nejsem sama, tak se vám třeba tenhle seznam nenáročných her, co mě za poslední dobu zaujaly, bude hodit.
 
 ----
 
@@ -52,15 +50,6 @@ V Gamedec ztvárňujete roli detektiva, který vyšetřuje zločiny, které se o
 
 **Proč se mi to líbí:**
 Vizuální styl hry; nenáročnost; cyberpunk tématika; volby ovlivňující výsledek hry; 
-----
-
-#### Impostor Factory (Freebird Games)
-
-----
-#### Graveyard Keeper (Lazy Bear Games)
-
-----
-#### A Way Out (Hazelight Studios)
 
 
 [^1]: Vše ručně malované Jen Zee.
