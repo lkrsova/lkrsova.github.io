@@ -9,6 +9,8 @@ tags: [video games, PhD]
 Disclaimer: This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations. In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
 
 ### Press play
+
+#### A little personal story first
 The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.
 
 Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am basically artistically dumb. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
