@@ -147,7 +147,7 @@ Also, each of the tools is supported by communities and tutorials on every aspec
 #### Blockout tools
 Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one.
 
-I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets. What often happened was that instead of building a level I ended up decorating it. Teach your brain to think in basic shapes and use them to create a space you want, details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
+I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets I can buy. What often happened was that instead of building a level I ended up decorating it. Teach your brain to think in basic shapes and use them to create a space you want, details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
