@@ -50,81 +50,81 @@ A mix of non-fiction and academic but accessible books. Most of them talk about 
 ##### Design
 Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I also included books about the topic. Some color theory is also handy to know about.
 
-Donald Norman: The Design of Everyday Things
-Donald Norman: Emotional Design: Why We Love (or Hate) Everyday Things
-Eli Woolery: Design Thinking Handbook
-Indi Young: Mental Models: Aligning Design Strategy with Human Behavior
-Peter Gould: Mental Maps
-Steve Krug: Don’t Make Me Think
-Susan Weinschenk: 100 Things Every Designer Needs to Know About People
-A. & J. Eckstut: The Secret Language of Color
+- Donald Norman: The Design of Everyday Things
+- Donald Norman: Emotional Design: Why We Love (or Hate) Everyday Things
+- Eli Woolery: Design Thinking Handbook
+- Indi Young: Mental Models: Aligning Design Strategy with Human Behavior
+- Peter Gould: Mental Maps
+- Steve Krug: Don’t Make Me Think
+- Susan Weinschenk: 100 Things Every Designer Needs to Know About People
+- A. & J. Eckstut: The Secret Language of Color
 
 ##### UX Research & Psychology
 Building levels is basically all about being cognizant of various principles of human psychology and being able to leverage them. Celia Hodent’s books are essential to understand gamer’s psychology and how the mind drives their perception and behavior.
 
-Celia Hodent: The Psychology of Video Games
-Celia Hodent: The Gamer’s Brain: How Neuroscience and UX Can Impact Video Game Design
-Celia Hodent: What UX is Really About
-Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
-Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
-Anders Drachen: Game User Research
+- Celia Hodent: The Psychology of Video Games
+- Celia Hodent: The Gamer’s Brain: How Neuroscience and UX Can Impact Video Game Design
+- Celia Hodent: What UX is Really About
+- Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
+- Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
+- Anders Drachen: Game User Research
 
 ##### Architecture & Urbanism & Level Design
 Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it. (101 Things I Learned series was recommend to me by MT)
 
-Alison Gazzard: Mazes in Videogames: Meaning, Metaphor, and Design
-Christopher W. Totten: Architectural Approach to Level Design
-Von Borries: Space Time Play: Computer Games, Architecture and Urbanism: The Next Level
-Matthew Frederick: 101 Things I Learned in Architecture School
-Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School
+- Alison Gazzard: Mazes in Videogames: Meaning, Metaphor, and Design
+- Christopher W. Totten: Architectural Approach to Level Design
+- Von Borries: Space Time Play: Computer Games, Architecture and Urbanism: The Next Level
+- Matthew Frederick: 101 Things I Learned in Architecture School
+- Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School
 
 ##### Ethical game design & Representation
 Designing anything comes with a great responsibility. I’m not joking. Designers implement values in what they create automatically, quite often without thinking about it. Knowing that games have embedded values and how to design with them in mind is important, so is knowing about representation in video games.
 
-Karen Schrier: Ethics and Game Design: Teaching Values Through Play
-Flanagan & Nissenbaum: Values at Play in Digital Games
-Mike Monteiro: Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It
-Shaw: Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture
-Chess: Ready Player Two: Women Players and Designed Identity
-Mike Monteiro: The Designer’s Code of Ethics
+- Karen Schrier: Ethics and Game Design: Teaching Values Through Play
+- Flanagan & Nissenbaum: Values at Play in Digital Games
+- Mike Monteiro: Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It
+- Adrienne Shaw: Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture
+- Shira Chess: Ready Player Two: Women Players and Designed Identity
+- Mike Monteiro: The Designer’s Code of Ethics
 
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
 
-Max Pears [website] https://www.maxpears.com/ 
-Clement Melendez: Push and Pull [website] https://www.clement-melendez.com/portfolio/essays 
-Tommy Norberg: Level Design tips [Twitter] - https://twitter.com/the_Norberg
-Matthew Bradley: Matt Does Design [website]- https://www.mattdoesdesign.com/ 
-Alex Galuzin [website] - https://www.worldofleveldesign.com/categories/cat-level-design.php * I barely use this website, but there’s a ton of useful resources
-80.lv - https://80.lv/articles/level-design/ 
+- Max Pears [website] https://www.maxpears.com/ 
+- Clement Melendez: Push and Pull [website] https://www.clement-melendez.com/portfolio/essays 
+- Tommy Norberg: Level Design tips [Twitter] - https://twitter.com/the_Norberg
+- Matthew Bradley: Matt Does Design [website]- https://www.mattdoesdesign.com/ 
+- Alex Galuzin [website] - https://www.worldofleveldesign.com/categories/cat-level-design.php * I barely use this website, but there’s a ton of useful resources
+- 80.lv - https://80.lv/articles/level-design/ 
 
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
 
-Jason Schreier: Blood, Sweat, and Pixels
-Jason Schreier: Press Reset
-Walt Williams: Significant Zero
+- Jason Schreier: Blood, Sweat, and Pixels
+- Jason Schreier: Press Reset
+- Walt Williams: Significant Zero
 
 #### Podcasts
-Level Design podcast
-The Game Design Roundtable
-Play Watch Listen
-The Psychology of Video Games
-Designer Notes
-Level Design Lobby
+- Level Design podcast
+- The Game Design Roundtable
+- Play Watch Listen
+- The Psychology of Video Games
+- Designer Notes
+- Level Design Lobby
 
 #### YouTube & Twitch channels
 All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracies…). Most of these resources talk about game design, some specifically focus on level design.
 
-AI in Games (Tommy Thompson) https://www.youtube.com/c/AIGamesSeries 
-Game Maker’s Toolkit (Mark Brown) https://www.youtube.com/c/MarkBrownGMT 
-Steve Lee https://www.youtube.com/c/SteveLee2 
-NoClip crew https://www.youtube.com/c/NoclipCrewVideo 
-GRUX SIG https://www.youtube.com/c/GRUXSIG 
-GDC - https://www.youtube.com/c/Gdconf 
+- AI in Games (Tommy Thompson) https://www.youtube.com/c/AIGamesSeries 
+- Game Maker’s Toolkit (Mark Brown) https://www.youtube.com/c/MarkBrownGMT 
+- Steve Lee https://www.youtube.com/c/SteveLee2 
+- NoClip crew https://www.youtube.com/c/NoclipCrewVideo 
+- GRUX SIG https://www.youtube.com/c/GRUXSIG 
+- GDC - https://www.youtube.com/c/Gdconf 
 
-Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
-Pawel Sasko https://www.twitch.tv/pawesasko 
+- Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
+- Pawel Sasko https://www.twitch.tv/pawesasko 
 
 ### Tools & workflow
 As I said before, everyone’s path is different and so will be tools and your workflow. I have no idea if there’s one workflow that should be a golden standard, but I sincerely doubt it. Below, I describe some 
