@@ -2,7 +2,7 @@
 title: "Leveling up in level design: Resources, recommendations, personal tips"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/prehlediso.PNG
+featured_image: /images/posts/voila.PNG
 tags: [video games, level design]
 ---
 
