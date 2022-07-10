@@ -11,7 +11,7 @@ This is not at all a guide on how to break into the game industry or how to beco
 
 Where you go and what you learn in the process is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too! 🎮
 
-### Press play
+#### Press play
 The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.
 
 Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am basically artistically dumb. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
@@ -22,9 +22,7 @@ Three months later from the first picture, I am a bit further on my journey. Des
 
 I’ve built a database of resources, discovered awesome communities and built a network of people that have helped me, both directly and indirectly, with becoming a (baby) level designer. As I said, this post is all about appreciating those connections and sharing all the resources with others. 
 
-
-
-Theory
+#### Theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere. You don’t have to master each of the fields, nor do you have to read academic papers produced by scholars. However, your willingness to learn about even the basic concepts from different sources will pay off.
@@ -32,8 +30,10 @@ Game design as a field is backed up by a substantial body of theories coming fro
 In general, any literature discussing design and psychology, including but not limited to cognitive processes (memory, learning, motivation), how people react to shapes (gestalt theory) and colors (color theory) will be immensely helpful when building levels and navigating players through them in a satisfying way.
 
 Here’s a list what I recommend to read, listen to or watch:
-Books & Articles
-Game design & Level design
+
+##### Books & Articles
+
+###### Game design & Level design
 A mix of non-fiction and academic but accessible books. Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
 
 Jesse Schell: The Art of Game Design: A Book of Lenses
