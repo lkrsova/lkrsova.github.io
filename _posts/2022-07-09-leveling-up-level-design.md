@@ -44,7 +44,6 @@ Most of them talk about why people play, what games are and how people design th
 - Jesper Juul: The Art of Failure
 - Mia Consalvo: Cheating: Gaining Advantage in Videogames
 - Brian Upton: The Aesthetic of Play
-
 - Rudolf Kremens: Level Design: Concept, Theory, and Practice
 - Christopher W. Totten: Level Design: Processes and Experiences
 
