@@ -32,9 +32,10 @@ In general, any literature discussing design and psychology, including but not l
 Here’s a list what I recommend to read, listen to or watch:
 
 #### Books & Articles
+The myriad of sources available these days about game design can feel indimidating. Since I am originally an academic, I bledn both research-based books and practice-oriented books to learn. All of the below books are accesible and highly enjoyable. Choose your poison!
 
 ##### Game design & Level design
-A mix of non-fiction and academic but accessible books. Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
+Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
 
 - Jesse Schell: The Art of Game Design: A Book of Lenses
 - Salen & Zimmerman: The Rules of Play
