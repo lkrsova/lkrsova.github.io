@@ -6,11 +6,11 @@ featured_image: /images/posts/voila.PNG
 tags: [video games, level design]
 ---
 
-Disclaimer: This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations.
-
-In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
+Disclaimer: This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations. In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
 
 Where you go and what you learn in the process is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
+
+<!--more-->
 
 ### Press play
 The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.
