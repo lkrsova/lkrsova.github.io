@@ -143,7 +143,8 @@ Also, research shows that writing or sketching on a paper helps your creativity 
 Choose your weap…engine wisely. Before I started working in Unreal Engine 5 because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly learning how to script in it but for whatever reason Unity just wasn’t working for me building level-wise. It was too cumbersome. Switching to Unreal has made all the difference. You might be a Unity person, maybe you prefer Unreal, or Godot will work better for you. If you’re into 2D, there are options like Construct. Try a couple of them and you’ll see which one is the best for you. It’s also totally okay if you stick with building paper models…
 
 Also, each of the tools is supported by communities and tutorials on every aspect of working with one of the engines can be easily found either via their product’s official websites or on YouTube, Udemy or Coursera.
-Blockout tools
+
+#### Blockout tools
 Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one.
 
 I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets. What often happened was that instead of building a level I ended up decorating it. Teach your brain to think in basic shapes and use them to create a space you want, details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
