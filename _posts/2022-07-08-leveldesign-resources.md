@@ -18,6 +18,7 @@ As simple as that, my level design journey started. I’ve become a sponge, abso
 Three months later from, I am a bit further on my journey. Despite landing a game design internship at Warhorse Studios, I still have so, so much to learn, and am barely bridging the gaping gap of being a total noob to becoming a junior level designer. But I’ve been told I am good at it, so I’ll keep leveling up.
 
 ![](/images/posts/beforelater.png)
+
 *The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
 
 I’ve built a database of resources, discovered awesome communities and built a network of people that have helped me, both directly and indirectly, with becoming a (baby) level designer. As I said, this post is all about appreciating those connections and sharing all the resources with others. 
