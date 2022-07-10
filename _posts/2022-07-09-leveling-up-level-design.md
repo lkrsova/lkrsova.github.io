@@ -124,7 +124,6 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - NoClip crew https://www.youtube.com/c/NoclipCrewVideo 
 - GRUX SIG https://www.youtube.com/c/GRUXSIG 
 - GDC - https://www.youtube.com/c/Gdconf 
-
 - Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
 - Pawel Sasko https://www.twitch.tv/pawesasko 
 
@@ -151,7 +150,8 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
 ### Find your community
-> “None of us should wander alone, you least of all.”  - Boromir, The Lord of The Rings
+> “None of us should wander alone, you least of all.” 
+- Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
