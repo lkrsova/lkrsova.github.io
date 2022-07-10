@@ -36,16 +36,16 @@ Here’s a list what I recommend to read, listen to or watch:
 ##### Game design & Level design
 A mix of non-fiction and academic but accessible books. Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
 
-Jesse Schell: The Art of Game Design: A Book of Lenses
-Salen & Zimmerman: The Rules of Play
-Katherine Isbister: How Game Move Us: Emotion By Design
-Pete Echells: Lost in a Good Game: Why We Play Video Games and What They Can Do for Us
-Jesper Juul: The Art of Failure
-Mia Consalvo: Cheating: Gaining Advantage in Videogames
-Brian Upton: The Aesthetic of Play
+- Jesse Schell: The Art of Game Design: A Book of Lenses
+- Salen & Zimmerman: The Rules of Play
+- Katherine Isbister: How Game Move Us: Emotion By Design
+- Pete Echells: Lost in a Good Game: Why We Play Video Games and What They Can Do for Us
+- Jesper Juul: The Art of Failure
+- Mia Consalvo: Cheating: Gaining Advantage in Videogames
+- Brian Upton: The Aesthetic of Play
 
-Rudolf Kremens: Level Design: Concept, Theory, and Practice
-Christopher W. Totten: Level Design: Processes and Experiences
+- Rudolf Kremens: Level Design: Concept, Theory, and Practice
+- Christopher W. Totten: Level Design: Processes and Experiences
 
 ##### Design
 Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I also included books about the topic. Some color theory is also handy to know about.
@@ -149,7 +149,7 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
 ### Find your community
-“None of us should wander alone, you least of all.”  - Boromir, The Lord of The Rings
+> “None of us should wander alone, you least of all.”  - Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
