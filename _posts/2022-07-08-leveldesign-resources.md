@@ -15,7 +15,7 @@ Back in April, I was adamantly convinced that I don’t have a speck of design t
 
 As simple as that, my level design journey started. I’ve become a sponge, absorbing anything and everything you possibly can throw at me about telegraphing, signposting, level design, game design and UX principles applicable to building spaces for players to play in.
 
-Three months later from, I am a bit further on my journey. Despite landing a game design internship at Warhorse Studios, I still have so, so much to learn, and am barely bridging the gaping gap of being a total noob to becoming a junior level designer. But I’ve been told I am good at it, so I’ll keep leveling up.
+Three months later from, I am a bit further on my journey. I've landed a game design internship at Warhorse Studios, but I still have so, so much to learn. As we speak I'm barely bridging the gaping gap of being a total noob to becoming a junior level designer. But I’ve been told I am good at it, so I’ll keep leveling up.
 
 Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. As I said, **this post is all about appreciating those connections and sharing all the resources with others**.
 
