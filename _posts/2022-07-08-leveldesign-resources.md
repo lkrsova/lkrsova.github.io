@@ -117,7 +117,7 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 - Level Design Lobby
 
 #### YouTube & Twitch channels
-All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracies…). Most of these resources talk about game design, some specifically focus on level design.
+All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I also added channels of Game User Research Special Interst Group (GRUX SIG) because they often share their findings about players. 
 
 - AI in Games (Tommy Thompson) https://www.youtube.com/c/AIGamesSeries 
 - Game Maker’s Toolkit (Mark Brown) https://www.youtube.com/c/MarkBrownGMT 
