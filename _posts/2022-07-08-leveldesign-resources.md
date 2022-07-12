@@ -126,14 +126,6 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 
 ### Streamers & Content Creators
 
-#### Podcasts
-- Level Design podcast
-- The Game Design Roundtable
-- Play Watch Listen
-- The Psychology of Video Games
-- Designer Notes
-- Level Design Lobby
-
 #### YouTube & Twitch channels
 All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I also added channels of Game User Research Special Interst Group (GRUX SIG) because they often share their findings about players. 
 
@@ -145,6 +137,14 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - GDC - https://www.youtube.com/c/Gdconf 
 - Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
 - Pawel Sasko https://www.twitch.tv/pawesasko 
+
+#### Podcasts
+- Level Design podcast
+- The Game Design Roundtable
+- Play Watch Listen
+- The Psychology of Video Games
+- Designer Notes
+- Level Design Lobby
 
 ## > Tools & workflow
 As I said before, everyone’s path is different and so will be tools and your workflow. I have no idea if there’s one workflow that should be a golden standard, but I sincerely doubt it. Below, I describe some 
