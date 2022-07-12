@@ -34,7 +34,6 @@ In general, any literature discussing design and psychology, including but not l
 
 Here’s a list what I recommend to read, listen to or watch.
 
-![](/images/posts/banner.PNG)
 
 #### Books & Articles
 The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of it. I also understand that not everyone is a fan of research books, as approachable as they tendto be lately. All of the below books are accesible and highly enjoyable, so...choose your poison!
