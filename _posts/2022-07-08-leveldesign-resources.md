@@ -23,7 +23,7 @@ You will find everything below. Enjoy!
 
 *The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
 
-## Level design theory
+## > Level design theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere. You don’t have to master each of the fields, nor do you have to read academic papers produced by scholars. However, your willingness to learn about even the basic concepts from different sources will pay off.
@@ -32,6 +32,7 @@ In general, any literature discussing design and psychology, including but not l
 
 Here’s a list what I recommend to read, listen to or watch.
 
+![](/images/posts/books.png)
 
 ### Books & Articles
 The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of it. I also understand that not everyone is a fan of research books, as approachable as they tendto be lately. All of the below books are accesible and highly enjoyable, so...choose your poison!
@@ -145,7 +146,7 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
 - Pawel Sasko https://www.twitch.tv/pawesasko 
 
-### Tools & workflow
+## > Tools & workflow
 As I said before, everyone’s path is different and so will be tools and your workflow. I have no idea if there’s one workflow that should be a golden standard, but I sincerely doubt it. Below, I describe some 
 
 #### Pen & paper
@@ -154,7 +155,6 @@ Planning to do a 3D level? Start with sketching. As soon as you have an idea, tr
 Also, research shows that writing or sketching on a paper helps your creativity flows and arrange your thoughts.
 
 #### Moodboard
-
 
 #### Engine
 Choose your weap…engine wisely. Before I started working in Unreal Engine 5 because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly learning how to script in it but for whatever reason Unity just wasn’t working for me building level-wise. It was too cumbersome. Switching to Unreal has made all the difference. You might be a Unity person, maybe you prefer Unreal, or Godot will work better for you. If you’re into 2D, there are options like Construct. Try a couple of them and you’ll see which one is the best for you. It’s also totally okay if you stick with building paper models…
@@ -168,7 +168,7 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
-### Find your community
+## > Find your community
 > “None of us should wander alone, you least of all.” 
 - Boromir, The Lord of The Rings
 
@@ -185,9 +185,9 @@ r/LevelDesign - https://www.reddit.com/r/leveldesign/
 The Design Den Discord - https://t.co/51xNJsI0Ak
 GameDev.Tv Discord - https://discord.gg/gamedevtv 
 
-### Create, create, create
+## > Create, create, create
 
-### Get yourself a mentor
+## > Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
 
 ### Before we part our ways
