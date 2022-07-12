@@ -124,6 +124,7 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 - Jason Schreier: Press Reset
 - Walt Williams: Significant Zero
 
+![](/images/posts/stream-yt.png)
 
 #### Podcasts
 - Level Design podcast
