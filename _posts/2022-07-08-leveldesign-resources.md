@@ -23,7 +23,7 @@ You will find everything below. Enjoy!
 
 *The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
 
-## > Level design theory
+<p align="center">### Level design theory</p>
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere. You don’t have to master each of the fields, nor do you have to read academic papers produced by scholars. However, your willingness to learn about even the basic concepts from different sources will pay off.
