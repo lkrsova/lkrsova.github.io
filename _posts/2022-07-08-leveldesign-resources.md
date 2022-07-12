@@ -34,11 +34,10 @@ In general, any literature discussing design and psychology, including but not l
 
 Here’s a list what I recommend to read, listen to or watch:
 
+![](/images/posts/banner.PNG)
 
 #### Books & Articles
 The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of it. I also understand that not everyone is a fan of research books, as approachable as they tendto be lately. All of the below books are accesible and highly enjoyable, so...choose your poison!
-
-![](/images/posts/banner.PNG)
 
 ##### Game design & Level design
 Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
@@ -53,6 +52,8 @@ Most of them talk about why people play, what games are and how people design th
 - Rudolf Kremens: Level Design: Concept, Theory, and Practice
 - Christopher W. Totten: Level Design: Processes and Experiences
 
+---
+
 ##### Design
 Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I also included books about the topic. Some color theory is also handy to know about.
 
@@ -64,6 +65,8 @@ Some of these books are a design canon and explain what design and design thinki
 - Steve Krug: Don’t Make Me Think
 - Susan Weinschenk: 100 Things Every Designer Needs to Know About People
 - A. & J. Eckstut: The Secret Language of Color
+
+---
 
 ##### UX Research & Psychology
 Building levels is basically all about being cognizant of various principles of human psychology and being able to leverage them. Celia Hodent’s books are essential to understand gamer’s psychology and how the mind drives their perception and behavior.
