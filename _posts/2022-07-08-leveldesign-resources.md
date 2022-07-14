@@ -6,7 +6,9 @@ featured_image: /images/posts/voila.PNG
 tags: [video games, PhD]
 ---
 
-**Disclaimer:** This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations. In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
+**Disclaimer:** This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations.
+
+In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
 
 ### A little personal story first
 Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
@@ -35,12 +37,12 @@ Here’s a list what I recommend to read, listen to or watch.
 ![](/images/posts/books.png)
 
 ### Books & Articles
-The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of it. I also understand that not everyone is a fan of research books, as approachable as they tendto be lately. All of the below books are accesible and highly enjoyable, so...choose your poison!
+The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of what I read. I also understand that not everyone is a fan of research books, as approachable as they tend to be lately. Don't worry, all of the below books are accesible and highly enjoyable, so...choose your proverbial poison!
 
 ---
 
 ##### Game design & Level design
-Most of them talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it.
+Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game design.
 
 - Jesse Schell: The Art of Game Design: A Book of Lenses
 - Salen & Zimmerman: The Rules of Play
@@ -55,7 +57,7 @@ Most of them talk about why people play, what games are and how people design th
 ---
 
 ##### Design
-Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I also included books about the topic. Some color theory is also handy to know about.
+Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I've also included books about the topic. Some color theory is also handy to know about.
 
 - Donald Norman: The Design of Everyday Things
 - Donald Norman: Emotional Design: Why We Love (or Hate) Everyday Things
@@ -127,7 +129,7 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 ### Streamers & Content Creators
 
 #### YouTube & Twitch channels
-All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I also added channels of Game User Research Special Interst Group (GRUX SIG) because they often share their findings about players. 
+All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their findings about players which are essential to know about when designing. 
 
 - AI in Games (Tommy Thompson) https://www.youtube.com/c/AIGamesSeries 
 - Game Maker’s Toolkit (Mark Brown) https://www.youtube.com/c/MarkBrownGMT 
