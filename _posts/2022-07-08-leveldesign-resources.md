@@ -44,7 +44,7 @@ The myriad of resources available these days about game design can feel indimida
 ##### Game design & Level design
 Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game design.
 
-- Jesse Schell: The Art of Game Design: A Book of Lenses
+- Jesse Schell: <a href="_">The Art of Game Design: A Book of Lenses</a>
 - Salen & Zimmerman: The Rules of Play
 - Katherine Isbister: How Game Move Us: Emotion By Design
 - Pete Echells: Lost in a Good Game: Why We Play Video Games and What They Can Do for Us
