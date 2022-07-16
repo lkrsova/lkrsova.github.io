@@ -161,11 +161,13 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
-## > Find your community
+## > People skills
 “None of us should wander alone, you least of all.” 
 Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
+
+#### Find a community
 
 All this time is enough for your mind to start doubting. At some point, there will be the imposter syndrome lurking, and telling you you suck and should give up. Your brain will come up with doubts about your abilities, creativity and if it’s all worth it. You will inevitably try to compare your beginner work with others, while forgetting that you’ve barely started, whereas their careers span over decades. Having a friend or a couple of them will be your fail-safe during the times you want to give up or when everything becomes a little too heavy.
 
@@ -178,11 +180,7 @@ r/LevelDesign - https://www.reddit.com/r/leveldesign/
 The Design Den Discord - https://t.co/51xNJsI0Ak
 GameDev.Tv Discord - https://discord.gg/gamedevtv 
 
-## > Create, create, create
-
-
-
-## > Get yourself a mentor
+#### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
 
 ### A personal note before we part our ways
