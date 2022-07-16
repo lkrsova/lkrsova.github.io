@@ -149,12 +149,12 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - Level Design Lobby
 
 ## > Tools & workflow
-As I said before, everyone’s path is different and so will be tools and your workflow. I have no idea if there’s one workflow that should be a golden standard, but I sincerely doubt it. Below, I describe some 
+As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it. It might or might not  
+
+![](/images/posts/tools.png)
 
 #### Pen & paper
 Planning to do a 3D level? Start with sketching. As soon as you have an idea, try to put it on paper. It doesn’t have to be perfect (look at my rough sketch below, a three year old could make a better one) but it should give you an idea what you’re working towards. You’ll get a general idea about dimensions, division of space, where you want your objectives or enemies to be placed, etc. 100% you will move away from the original draft, but the first sketch will help to ground you.
-
-Also, research shows that writing or sketching on a paper helps your creativity flows and arrange your thoughts.
 
 #### Moodboard
 
