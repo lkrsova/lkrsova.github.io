@@ -137,6 +137,8 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - Designer Notes
 - Level Design Lobby
 
+---
+
 ### > Tools & workflow
 As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it. It might or might not  
 
@@ -158,6 +160,8 @@ Blockout is the process of using basic objects (“blockmeshes”) provided by t
 I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets I can buy. What often happened was that instead of building a level I ended up decorating it. Teach your brain to think in basic shapes and use them to create a space you want, details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
+
+---
 
 ### > People skills
 
