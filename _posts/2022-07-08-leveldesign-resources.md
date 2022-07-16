@@ -166,6 +166,8 @@ Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
+![](/images/posts/friends.png)
+
 #### Find a community
 
 All this time is enough for your mind to start doubting. At some point, there will be the imposter syndrome lurking, and telling you you suck and should give up. Your brain will come up with doubts about your abilities, creativity and if it’s all worth it. You will inevitably try to compare your beginner work with others, while forgetting that you’ve barely started, whereas their careers span over decades. Having a friend or a couple of them will be your fail-safe during the times you want to give up or when everything becomes a little too heavy.
