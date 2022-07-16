@@ -70,13 +70,13 @@ Building levels is basically all about being cognizant of various principles of 
 ---
 
 ##### Architecture & Urbanism & Level Design
-Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it. (101 Things I Learned series was recommend to me by MT)
+Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it.
 
 - Alison Gazzard: Mazes in Videogames: Meaning, Metaphor, and Design
 - Christopher W. Totten: Architectural Approach to Level Design
 - Von Borries: Space Time Play: Computer Games, Architecture and Urbanism: The Next Level
-- Matthew Frederick: 101 Things I Learned in Architecture School
-- Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School
+- Matthew Frederick: 101 Things I Learned in Architecture School*
+- Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School*
 
 ---
 
@@ -194,3 +194,5 @@ Where you go and what you learn in the process of level design is up to you, you
 ![](/images/posts/beforelater.png)
 
 *The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
+
+* Both books were referred to me by a level design veteran from the industry
