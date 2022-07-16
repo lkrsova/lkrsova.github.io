@@ -14,6 +14,8 @@ _This is not at all a guide on how to break into the game industry_ or how to be
 
 Enjoy!
 
+---
+
 ### > Level design theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
@@ -55,7 +57,6 @@ Some of these books are considered to be the design canon and explain what desig
 - Susan Weinschenk: 100 Things Every Designer Needs to Know About People
 - A. & J. Eckstut: The Secret Language of Color
 
----
 
 ##### UX Research & Psychology
 Building levels is basically all about being cognizant of various principles of human psychology and being able to leverage them. Celia Hodent’s books are essential to understand gamer’s psychology and how the mind drives their perception and behavior.
@@ -67,7 +68,6 @@ Building levels is basically all about being cognizant of various principles of 
 - Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
 - Anders Drachen: Game User Research
 
----
 
 ##### Architecture & Urbanism & Level Design
 Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it.
@@ -78,7 +78,6 @@ Level design means you’re inevitably signing up for learning bits about archit
 - Matthew Frederick: 101 Things I Learned in Architecture School*
 - Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School*
 
----
 
 ##### Ethical game design & Representation
 Designing anything comes with a great responsibility. I’m not joking. Designers implement values in what they create automatically, quite often without thinking about it. Knowing that games have embedded values and how to design with them in mind is important, so is knowing about representation in video games.
@@ -90,7 +89,6 @@ Designing anything comes with a great responsibility. I’m not joking. Designer
 - Shira Chess: Ready Player Two: Women Players and Designed Identity
 - Mike Monteiro: The Designer’s Code of Ethics
 
----
 
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
@@ -102,7 +100,6 @@ These days a lot of level designers share their knowledge online either via webs
 - Alex Galuzin [website] - https://www.worldofleveldesign.com/categories/cat-level-design.php * I barely use this website, but there’s a ton of useful resources
 - 80.lv - https://80.lv/articles/level-design/ 
 
----
 
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
