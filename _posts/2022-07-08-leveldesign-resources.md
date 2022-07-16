@@ -19,9 +19,7 @@ I’ve noticed that what makes a level designer stand out is not only years of p
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere. You don’t have to master each of the fields, nor do you have to read academic papers produced by scholars. However, your willingness to learn about even the basic concepts from different sources will pay off.
 
-In general, any literature discussing design and psychology, including but not limited to cognitive processes (memory, learning, motivation), how people react to shapes (gestalt theory) and colors (color theory) will be immensely helpful when building levels and navigating players through them in a satisfying way.
-
-Here’s a list what I recommend to read, listen to or watch.
+Here’s a list of what I recommend to read, listen to or watch.
 
 ![](/images/posts/books.png)
 
