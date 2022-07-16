@@ -28,7 +28,6 @@ Here’s a list of what I recommend to read, listen to or watch.
 ### Books & Articles
 The myriad of resources available these days about game design can feel indimidating. My origins are in academia, so I tend to blend both research-based books and practice-oriented ones to get the maximum out of what I read. I also understand that not everyone is a fan of research books, as approachable as they tend to be lately. Don't worry, all of the below books are accesible and highly enjoyable, so...choose your proverbial poison!
 
----
 
 ##### Game design & Level design
 Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game or level design specifically.
@@ -43,7 +42,6 @@ Most of the game design books talk about why people play, what games are and how
 - Rudolf Kremens: Level Design: Concept, Theory, and Practice
 - Christopher W. Totten: Level Design: Processes and Experiences
 
----
 
 ##### Design
 Some of these books are considered to be the design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces (among other things), I've also included books about the topic. Some color theory is also handy to know about.
