@@ -29,7 +29,7 @@ The myriad of resources available these days about game design can feel indimida
 ---
 
 ##### Game design & Level design
-Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game design.
+Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game or level design specifically.
 
 - Jesse Schell: <a href="_">The Art of Game Design: A Book of Lenses</a>
 - Salen & Zimmerman: The Rules of Play
@@ -44,7 +44,7 @@ Most of the game design books talk about why people play, what games are and how
 ---
 
 ##### Design
-Some of these books are a design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces, I've also included books about the topic. Some color theory is also handy to know about.
+Some of these books are considered to be the design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces (among other things), I've also included books about the topic. Some color theory is also handy to know about.
 
 - Donald Norman: The Design of Everyday Things
 - Donald Norman: Emotional Design: Why We Love (or Hate) Everyday Things
