@@ -108,19 +108,17 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 
 ![](/images/posts/stream-yt.png)
 
-### Streamers & Content Creators
-
 #### YouTube & Twitch channels
 All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their findings about players which are essential to know about when designing. 
 
-- AI in Games (Tommy Thompson) https://www.youtube.com/c/AIGamesSeries 
-- Game Maker’s Toolkit (Mark Brown) https://www.youtube.com/c/MarkBrownGMT 
-- Steve Lee https://www.youtube.com/c/SteveLee2 
-- NoClip crew https://www.youtube.com/c/NoclipCrewVideo 
-- GRUX SIG https://www.youtube.com/c/GRUXSIG 
-- GDC - https://www.youtube.com/c/Gdconf 
-- Tostspender (Miles Tost) Twitch https://www.twitch.tv/tostspender - YouTube VOD repository https://www.youtube.com/channel/UCHSwIrXpP-C6CJ_K-XldQ1g 
-- Pawel Sasko https://www.twitch.tv/pawesasko 
+- AI in Games (Tommy Thompson) [<a href="https://www.youtube.com/c/AIGamesSeries" target="_blank">YouTube channel</a>]  
+- Game Maker’s Toolkit (Mark Brown) [<a href="https://www.youtube.com/c/MarkBrownGMT">YouTube channel</a>] 
+- Talking About Level Design (Steve Lee) [<a href="https://www.youtube.com/c/SteveLee2" target="_blank">YouTube channel</a>]
+- NoClip crew' Video Game Documentaries [<a href="https://www.youtube.com/c/NoclipCrewVideo" target="_blank">YouTube channel</a>]  
+- Tostspender (Miles Tost, CDPR) [<a href="https://www.twitch.tv/tostspender" target="_blank">Twitch</a>]   
+- PaweSasko (Pawel Sasko, CDPR) [<a href="https://www.twitch.tv/pawesasko" target="_blank">Twitch</a>]
+- Game User Research SIG [<a href="https://www.youtube.com/c/GRUXSIG" target="_blank">YouTube channel</a>]  
+- Game Developer Conference [<a href="https://www.youtube.com/c/Gdconf" target="_blank">YouTube channel</a>]
 
 #### Podcasts
 - Level Design podcast
