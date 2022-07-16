@@ -10,11 +10,9 @@ Back in April 2022, I was adamantly convinced that I don’t have a speck of des
 
 Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. **This post is all about appreciating those connections and sharing all the resources with others**.
 
-**Disclaimer:** This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. All materials listed here, as well as my personal notes, should serve as a repository of sources and recommendations.
+**Disclaimer:** This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. In the best possible scenario, this post will give you an idea of where to go next. I put it all together because I wish I had something like this when I started my own journey.
 
-In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
-
-You will find everything below. Enjoy!
+Enjoy!
 
 ## > Level design theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
