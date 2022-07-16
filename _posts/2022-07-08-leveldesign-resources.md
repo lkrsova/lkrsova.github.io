@@ -89,17 +89,15 @@ Designing anything comes with a great responsibility. I’m not joking. Designer
 - Shira Chess: Ready Player Two: Women Players and Designed Identity
 - Mike Monteiro: The Designer’s Code of Ethics
 
-
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
 
-- Max Pears [website] https://www.maxpears.com/ 
-- Clement Melendez: Push and Pull [website] https://www.clement-melendez.com/portfolio/essays 
-- Tommy Norberg: Level Design tips [Twitter] - https://twitter.com/the_Norberg
-- Matthew Bradley: Matt Does Design [website]- https://www.mattdoesdesign.com/ 
-- Alex Galuzin [website] - https://www.worldofleveldesign.com/categories/cat-level-design.php * I barely use this website, but there’s a ton of useful resources
-- 80.lv - https://80.lv/articles/level-design/ 
-
+- Max Pears [<a href="https://www.maxpears.com/" target="_blank">website</a>]  
+- Clement Melendez: Push and Pull [<a href="https://www.clement-melendez.com/portfolio/essays" target="_blank">website</a>]  
+- Tommy Norberg: Level Design tips [<a href="https://twitter.com/the_Norberg" target="_blank">Twitter</a>]
+- Matthew Bradley: Matt Does Design [<a href="https://www.mattdoesdesign.com/" target="_blank">website</a>] 
+- Alex Galuzin [<a href="https://www.worldofleveldesign.com/categories/cat-level-design.php" target="_blank">website</a>] *I barely use this website, but there’s a ton of useful resources*
+- 80.lv [<a href="https://80.lv/articles/level-design/" target="_blank">website</a>] 
 
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
