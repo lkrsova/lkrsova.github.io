@@ -172,9 +172,9 @@ I personally found my level design online home and like-minded people within a T
 All jokes aside, Tostserver is a small but vibrant community of people from all around the world who either want to become game devs, and are relentlessly working towards the goal, or are interested in video games in general. If you're ever in need of a positive and supporting, sometimes a tiny bit chaotic community, come and join us! We have cats and potatoes…
 
 Some other communities worth being part of:
-r/LevelDesign - https://www.reddit.com/r/leveldesign/
-The Design Den Discord - https://t.co/51xNJsI0Ak
-GameDev.Tv Discord - https://discord.gg/gamedevtv 
+[r/LevelDesign](https://www.reddit.com/r/leveldesign/)
+[The Design Den Discord](https://t.co/51xNJsI0Ak)
+[GameDev.Tv Discord](https://discord.gg/gamedevtv) 
 
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
