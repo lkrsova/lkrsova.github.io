@@ -14,7 +14,7 @@ _This is not at all a guide on how to break into the game industry_ or how to be
 
 Enjoy!
 
-## > Level design theory
+### > Level design theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere. You don’t have to master each of the fields, nor do you have to read academic papers produced by scholars. However, your willingness to learn about even the basic concepts from different sources will pay off.
@@ -137,7 +137,7 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - Designer Notes
 - Level Design Lobby
 
-## > Tools & workflow
+### > Tools & workflow
 As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it. It might or might not  
 
 ![](/images/posts/tools.png)
@@ -159,7 +159,7 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
-## > People skills
+### > People skills
 
 ![](/images/posts/friends.png)
 
@@ -183,6 +183,8 @@ GameDev.Tv Discord - https://discord.gg/gamedevtv
 
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
+
+---
 
 ##### A small personal note before we part our ways
 Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
