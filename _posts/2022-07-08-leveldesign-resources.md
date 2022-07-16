@@ -10,15 +10,6 @@ tags: [video games, PhD]
 
 In the best possible scenario, this post will give you an idea of where to go next and what's ahead in the domain of level design. I put it all together because I wish I had something like this when I started my own journey.
 
-### A little personal story first
-Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
-
-As simple as that, my level design journey started. I’ve become a sponge, absorbing anything and everything you possibly can throw at me about telegraphing, signposting, level design, game design and UX principles applicable to building spaces for players to play in.
-
-Three months later from, I am a bit further on my journey. I've landed a game design internship at Warhorse Studios, but I still have so, so much to learn. As we speak I'm barely bridging the gaping gap of being a total noob to becoming a junior level designer. But I’ve been told I am good at it, so I’ll keep leveling up.
-
-Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. As I said, **this post is all about appreciating those connections and sharing all the resources with others**.
-
 You will find everything below. Enjoy!
 
 ![](/images/posts/beforelater.png)
@@ -192,5 +183,13 @@ GameDev.Tv Discord - https://discord.gg/gamedevtv
 ## > Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
 
-### Before we part our ways
+### A personal note before we part our ways
+Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
+
+As simple as that, my level design journey started. I’ve become a sponge, absorbing anything and everything you possibly can throw at me about telegraphing, signposting, level design, game design and UX principles applicable to building spaces for players to play in.
+
+Three months later from, I am a bit further on my journey. I've landed a game design internship at Warhorse Studios, but I still have so, so much to learn. As we speak I'm barely bridging the gaping gap of being a total noob to becoming a junior level designer. But I’ve been told I am good at it, so I’ll keep leveling up.
+
+Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. As I said, **this post is all about appreciating those connections and sharing all the resources with others**.
+
 Where you go and what you learn in the process of level design is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
