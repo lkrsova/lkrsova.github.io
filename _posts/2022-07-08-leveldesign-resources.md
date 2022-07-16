@@ -183,6 +183,9 @@ GameDev.Tv Discord - https://discord.gg/gamedevtv
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
 
+#### Hone your soft skills
+
+
 ---
 
 ##### A small personal note before we part our ways
