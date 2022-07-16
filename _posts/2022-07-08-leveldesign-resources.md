@@ -6,9 +6,7 @@ featured_image: /images/posts/voila.PNG
 tags: [video games, PhD]
 ---
 
-Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games.
-
-Three months later, I am a bit further on my journey. I've landed a game design internship at <a href="https://warhorsestudios.cz/career/" target="_blank">Warhorse Studios</a> (we're hiring!), and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
+Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games. Three months later, I am a bit further on my journey. I've landed a game design internship at <a href="https://warhorsestudios.cz/career/" target="_blank">Warhorse Studios</a> (we're hiring!), and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
 
 Along the way, I’ve built a **database of resources, discovered awesome communities, and surrounded myself with a network of people that have helped me**, both directly and indirectly, with becoming a level designer. **This post is all about appreciating those connections and sharing all the resources with others**.
 
