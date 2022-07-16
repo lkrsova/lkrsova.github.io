@@ -96,8 +96,8 @@ These days a lot of level designers share their knowledge online either via webs
 - Clement Melendez: Push and Pull [website](https://www.clement-melendez.com/portfolio/essays)
 - Tommy Norberg: Level Design tips [website](https://twitter.com/the_Norberg")
 - Matthew Bradley: Matt Does Design [website](https://www.mattdoesdesign.com)
-- Alex Galuzin [<a href="https://www.worldofleveldesign.com/categories/cat-level-design.php" target="_blank">website</a>] *I barely use this website, but there’s a ton of useful resources*
-- 80.lv [<a href="https://80.lv/articles/level-design/" target="_blank">website</a>] 
+- Alex Galuzin [website](https://www.worldofleveldesign.com/categories/cat-level-design.php) *I barely use this website, but there’s a ton of useful resources*
+- 80.lv [website](https://80.lv/articles/level-design/) 
 
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
@@ -111,22 +111,22 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 #### YouTube & Twitch channels
 All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their findings about players which are essential to know about when designing. 
 
-- AI in Games (Tommy Thompson) [<a href="https://www.youtube.com/c/AIGamesSeries" target="_blank">YouTube channel</a>]  
-- Game Maker’s Toolkit (Mark Brown) [<a href="https://www.youtube.com/c/MarkBrownGMT">YouTube channel</a>] 
-- Talking About Level Design (Steve Lee) [<a href="https://www.youtube.com/c/SteveLee2" target="_blank">YouTube channel</a>]
-- NoClip crew' Video Game Documentaries [<a href="https://www.youtube.com/c/NoclipCrewVideo" target="_blank">YouTube channel</a>]  
-- Tostspender (Miles Tost, CDPR) [<a href="https://www.twitch.tv/tostspender" target="_blank">Twitch</a>]   
-- PaweSasko (Pawel Sasko, CDPR) [<a href="https://www.twitch.tv/pawesasko" target="_blank">Twitch</a>]
-- Game User Research SIG [<a href="https://www.youtube.com/c/GRUXSIG" target="_blank">YouTube channel</a>]  
-- Game Developer Conference [<a href="https://www.youtube.com/c/Gdconf" target="_blank">YouTube channel</a>]
+- AI in Games (Tommy Thompson) [website](https://www.youtube.com/c/AIGamesSeries)  
+- Game Maker’s Toolkit (Mark Brown) [website](https://www.youtube.com/c/MarkBrownGMT) 
+- Talking About Level Design (Steve Lee) [website](https://www.youtube.com/c/SteveLee2)
+- NoClip crew' Video Game Documentaries [website](https://www.youtube.com/c/NoclipCrewVideo)  
+- Tostspender (Miles Tost, CDPR) [website](https://www.twitch.tv/tostspender)   
+- PaweSasko (Pawel Sasko, CDPR) [website](https://www.twitch.tv/pawesasko)
+- Game User Research SIG [website](https://www.youtube.com/c/GRUXSIG)  
+- Game Developer Conference [website](https://www.youtube.com/c/Gdconf)
 
 #### Podcasts
-- Level Design podcast
-- The Game Design Roundtable
-- Play Watch Listen
-- The Psychology of Video Games
-- Designer Notes
-- Level Design Lobby
+- [Level Design podcast](https://open.spotify.com/show/4MX8DBjufpY3Vqk9HURyDo?si=c7db184ae5c14de8)
+- [The Game Design Roundtable](https://open.spotify.com/show/0XsCttgj7G5QnFbOguwPrl?si=cc8c0c89fd5640b3)
+- [Play Watch Listen](https://open.spotify.com/show/1sJ57gJyGSZ1VAfSskd0FD?si=916334336c1e4287)
+- [The Psychology of Video Games](https://open.spotify.com/show/6XyddCZRrSTePvqIeIB8Ch?si=2612098117034519)
+- [Designer Notes](https://open.spotify.com/show/6olSupiE8sNmVfBdVFvVr6?si=0bc531a17b2f463b)
+- [Level Design Lobby](https://open.spotify.com/show/03OTDRAPsAiocSLCTEiXBn?si=82a805432c994eae)
 
 ---
 
