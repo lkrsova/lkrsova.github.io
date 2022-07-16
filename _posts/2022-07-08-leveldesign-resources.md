@@ -6,7 +6,7 @@ featured_image: /images/posts/voila.PNG
 tags: [video games, PhD]
 ---
 
-Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games. Three months later, I am a bit further on my journey. I've landed a game design internship at Warhorse Studios, and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
+Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games. Three months later, I am a bit further on my journey. I've landed a game design internship at <a href="https://warhorsestudios.cz/career/" target="_blank">Warhorse Studios</a> (we're hiring!), and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
 
 Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. **This post is all about appreciating those connections and sharing all the resources with others**.
 
@@ -161,14 +161,15 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
 ## > People skills
-_“None of us should wander alone, you least of all.” _
-Boromir, The Lord of The Rings
-
-You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
 ![](/images/posts/friends.png)
 
 #### Find a community
+
+_“None of us should wander alone, you least of all.” _
+Boromir, The Lord of The Rings
+
+You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
 All this time is enough for your mind to start doubting. At some point, there will be the imposter syndrome lurking, and telling you you suck and should give up. Your brain will come up with doubts about your abilities, creativity and if it’s all worth it. You will inevitably try to compare your beginner work with others, while forgetting that you’ve barely started, whereas their careers span over decades. Having a friend or a couple of them will be your fail-safe during the times you want to give up or when everything becomes a little too heavy.
 
@@ -184,7 +185,7 @@ GameDev.Tv Discord - https://discord.gg/gamedevtv
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
 
-### A personal note before we part our ways
+##### A small personal note before we part our ways
 Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
 
 As simple as that, my level design journey started. I’ve become a sponge, absorbing anything and everything you possibly can throw at me about telegraphing, signposting, level design, game design and UX principles applicable to building spaces for players to play in.
