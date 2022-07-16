@@ -12,10 +12,6 @@ In the best possible scenario, this post will give you an idea of where to go ne
 
 You will find everything below. Enjoy!
 
-![](/images/posts/beforelater.png)
-
-*The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
-
 ## > Level design theory
 I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
@@ -193,3 +189,7 @@ Three months later from, I am a bit further on my journey. I've landed a game de
 Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. As I said, **this post is all about appreciating those connections and sharing all the resources with others**.
 
 Where you go and what you learn in the process of level design is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
+
+![](/images/posts/beforelater.png)
+
+*The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
