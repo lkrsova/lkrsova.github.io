@@ -10,8 +10,7 @@ Back in April 2022, I was adamantly convinced that I don’t have a speck of des
 
 Along the way, I’ve built a **database of resources, discovered awesome communities and built a network of people that have helped me**, both directly and indirectly, with becoming a (baby) level designer. **This post is all about appreciating those connections and sharing all the resources with others**.
 
-##### Disclaimer:
-This is not at all a guide on how to break into the game industry or how to become a stellar level designer in a short period of time. In the best possible scenario, this post will give you an idea of where to go next. I put it all together because I wish I had something like this when I started my own journey.
+_This is not at all a guide on how to break into the game industry_ or how to become a stellar level designer in a short period of time. In the best possible scenario, this post will give you an idea of where to go next. I put it all together because I wish I had something like this when I started my own journey.
 
 Enjoy!
 
