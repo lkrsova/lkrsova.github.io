@@ -150,9 +150,9 @@ Planning to do a 3D level? Start with sketching. As soon as you have an idea, tr
 #### Engine
 Choose your weap…engine wisely. Before I started working in Unreal Engine 5, mainly because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly using it for learning how to script but for whatever reason Unity just wasn’t working for me level building-wise. It was too cumbersome. Switching to Unreal has made all the difference.
 
-You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engine](https://www.unrealengine.com/), or even [Godot](https://godotengine.org/) will work better for you. If you’re into 2D, there are options like [Construct](https://www.construct.net/en). Try a couple of them and you’ll see which one is the best for you. It’s also totally okay if you stick with building paper models…
+You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engine](https://www.unrealengine.com/), or even [Godot](https://godotengine.org/) will work better for you. If you’re into 2D, there are options like [Construct](https://www.construct.net/en). Try a couple of them and you’ll see which one feels the best. It’s also totally okay if you stick with building paper models and making games this way…
 
-Also, each of the tools is supported by communities and tutorials on every aspect of working with one of the engines can be easily found either via their product’s official websites or on YouTube, Udemy or Coursera.
+Also, if you ponder how to  each tool is supported by communities and tutorials on every aspect of working with one of the engines can be easily found either via their product’s official websites or on YouTube, Udemy or Coursera.
 
 #### Blockout tools
 Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one.
