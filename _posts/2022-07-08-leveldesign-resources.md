@@ -43,6 +43,7 @@ Most of the game design books talk about why people play, what games are and how
 - Brian Upton: The Aesthetic of Play
 - Rudolf Kremens: Level Design: Concept, Theory, and Practice
 - Christopher W. Totten: Level Design: Processes and Experiences
+- The Level Design Book [online project](https://book.leveldesignbook.com/)
 
 
 ##### Design
@@ -97,7 +98,9 @@ These days a lot of level designers share their knowledge online either via webs
 - Tommy Norberg: Level Design tips [website](https://twitter.com/the_Norberg")
 - Matthew Bradley: Matt Does Design [website](https://www.mattdoesdesign.com)
 - Alex Galuzin [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
-- 80.lv [website](https://80.lv/articles/level-design/) 
+- Iuliu-Cosmin Oniscu [website](https://iuliu-cosmin-oniscu.medium.com/)
+- 80.lv [website](https://80.lv/articles/level-design/)
+ 
 
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
@@ -154,7 +157,9 @@ Blockout is the process of using basic objects (“blockmeshes”) provided by t
 
 ![](/images/posts/blockout.png)
 
-I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets I can buy. What often happened was that instead of building a level I ended up decorating it. Teach your brain to think in basic shapes and use them to create a space you want, details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
+I learned the hard way that in blockout, less is always more. Initially, I thought I should use all the intricate and detailed 3D assets I can find and even buy. What often happened was that instead of building a level I ended up decorating it.
+
+Instead, teach your brain to think in basic shapes and use them to create a space you want, some details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
 
 Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
