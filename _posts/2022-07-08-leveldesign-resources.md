@@ -161,7 +161,7 @@ I learned the hard way that in blockout, less is always more. Initially, I thoug
 
 Instead, teach your brain to think in basic shapes and use them to create a space you want, some details included. Don’t have a table? Use a rectangle of the same length and height. Don’t have bar stools? Use cones. Rinse. Repeat. The main goal of blocking out is to convey information in the cleanest way possible. You can always add the rest later.
 
-Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag #Blocktober and a Twitter handle @BlocktoberLD. Every year during October, level designers from around the world participate in this challenge and showcase their work.
+Also if you’re interested to see how detailed or abstract a blockout can be, I recommend following hashtag [#Blocktober](https://twitter.com/hashtag/Blocktober?src=hashtag_click) and a Twitter handle [@BlocktoberLD](https://twitter.com/BlocktoberLD). Every year during October, level designers from around the world participate in this challenge and showcase their work.
 
 ---
 
