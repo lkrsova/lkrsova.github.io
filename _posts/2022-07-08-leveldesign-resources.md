@@ -84,10 +84,10 @@ Designing anything comes with a great responsibility. I’m not joking. Designer
 
 - Karen Schrier: Ethics and Game Design: Teaching Values Through Play
 - Flanagan & Nissenbaum: Values at Play in Digital Games
-- Mike Monteiro: Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It
 - Adrienne Shaw: Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture
 - Shira Chess: Ready Player Two: Women Players and Designed Identity
 - Mike Monteiro: The Designer’s Code of Ethics
+- Mike Monteiro: Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It
 
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
