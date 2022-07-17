@@ -64,9 +64,9 @@ Building levels is basically all about being cognizant of various principles of 
 - Celia Hodent: The Psychology of Video Games
 - Celia Hodent: The Gamer’s Brain: How Neuroscience and UX Can Impact Video Game Design
 - Celia Hodent: What UX is Really About
-- Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
 - Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
 - Anders Drachen: Game User Research
+- - Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
 
 
 ##### Architecture & Urbanism & Level Design
@@ -96,7 +96,7 @@ These days a lot of level designers share their knowledge online either via webs
 - Clement Melendez: Push and Pull [website](https://www.clement-melendez.com/portfolio/essays)
 - Tommy Norberg: Level Design tips [website](https://twitter.com/the_Norberg")
 - Matthew Bradley: Matt Does Design [website](https://www.mattdoesdesign.com)
-- Alex Galuzin [website](https://www.worldofleveldesign.com/categories/cat-level-design.php) *I barely use this website, but there’s a ton of useful resources*
+- Alex Galuzin [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
 - 80.lv [website](https://80.lv/articles/level-design/) 
 
 ##### Other
