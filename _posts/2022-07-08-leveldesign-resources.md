@@ -67,7 +67,7 @@ Building levels is basically all about being cognizant of various principles of 
 - Celia Hodent: What UX is Really About
 - Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
 - Anders Drachen: Game User Research
-- - Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
+- Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
 
 
 ##### Architecture & Urbanism & Level Design
