@@ -173,9 +173,9 @@ If you want to work in the gamedev so you can work with technology and escape ta
 #### Hone your soft skills
 As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, gameplay designer, environment artist, scripter, producer, QA tester all working together. And all of them need to be on the same page throughout the process. 
 
-As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not a people person. In the gamedev industry there's not much room to worry about sharing your ideas and opinions. This includes, in a respectful way telling people you don't 100% agree with their idea and you think it needs a different solution. 
+As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not a natural people person. You will have to communicate with people and you will have to do it often.
 
-Communicating your ideas in clear and decisive way is also the must. Developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
+In the gamedev industry there's not much room to worry about sharing your ideas and opinions. This includes, in a respectful way, telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Communicating your ideas in clear and decisive way is also the must. Developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
 
 ![](/images/posts/friends.png)
 
