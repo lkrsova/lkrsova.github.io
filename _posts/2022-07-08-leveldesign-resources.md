@@ -168,6 +168,7 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 ---
 
 ### > People skills
+If you want to work in the gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
 
 ![](/images/posts/friends.png)
 
