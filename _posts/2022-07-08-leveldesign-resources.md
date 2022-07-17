@@ -95,15 +95,14 @@ These days a lot of level designers share their knowledge online either via webs
 
 - Max Pears \| [website](https://www.maxpears.com/)  
 - Clement Melendez: Push and Pull \| [website](https://www.clement-melendez.com/portfolio/essays)
-- Tommy Norberg: Level Design tips | [website](https://twitter.com/the_Norberg")
-- Matthew Bradley: Matt Does Design | [website](https://www.mattdoesdesign.com)
-- Alex Galuzin | [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
-- Iuliu-Cosmin Oniscu | [website](https://iuliu-cosmin-oniscu.medium.com/)
-- Andrew Yoder | [website](https://andrewyoderdesign.blog/)
-- Bobby Ross | [website](http://bobbyross.com/blog)
-- 80.lv | [website](https://80.lv/articles/level-design/)
+- Tommy Norberg: Level Design tips \| [website](https://twitter.com/the_Norberg")
+- Matthew Bradley: Matt Does Design \| [website](https://www.mattdoesdesign.com)
+- Alex Galuzin \| [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
+- Iuliu-Cosmin Oniscu \| [website](https://iuliu-cosmin-oniscu.medium.com/)
+- Andrew Yoder \| [website](https://andrewyoderdesign.blog/)
+- Bobby Ross \| [website](http://bobbyross.com/blog)
+- 80.lv \| [website](https://80.lv/articles/level-design/)
  
-
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
 
@@ -116,14 +115,14 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 #### YouTube & Twitch channels
 All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their findings about players which are essential to know about when designing. 
 
-- AI in Games (Tommy Thompson) | [website](https://www.youtube.com/c/AIGamesSeries)  
-- Game Maker’s Toolkit (Mark Brown) | [website](https://www.youtube.com/c/MarkBrownGMT) 
-- Talking About Level Design (Steve Lee) | [website](https://www.youtube.com/c/SteveLee2)
-- NoClip crew' Video Game Documentaries | [website](https://www.youtube.com/c/NoclipCrewVideo)  
-- Tostspender (Miles Tost, CDPR) | [website](https://www.twitch.tv/tostspender)   
-- PaweSasko (Pawel Sasko, CDPR) | [website](https://www.twitch.tv/pawesasko)
-- Game User Research SIG | [website](https://www.youtube.com/c/GRUXSIG)  
-- Game Developer Conference | [website](https://www.youtube.com/c/Gdconf)
+- AI in Games (Tommy Thompson) \| [website](https://www.youtube.com/c/AIGamesSeries)  
+- Game Maker’s Toolkit (Mark Brown) \| [website](https://www.youtube.com/c/MarkBrownGMT) 
+- Talking About Level Design (Steve Lee) \| [website](https://www.youtube.com/c/SteveLee2)
+- NoClip crew' Video Game Documentaries \| [website](https://www.youtube.com/c/NoclipCrewVideo)  
+- Tostspender (Miles Tost, CDPR) \| [website](https://www.twitch.tv/tostspender)   
+- PaweSasko (Pawel Sasko, CDPR) \| [website](https://www.twitch.tv/pawesasko)
+- Game User Research SIG \| [website](https://www.youtube.com/c/GRUXSIG)  
+- Game Developer Conference \| [website](https://www.youtube.com/c/Gdconf)
 
 #### Podcasts
 - [Level Design podcast](https://open.spotify.com/show/4MX8DBjufpY3Vqk9HURyDo?si=c7db184ae5c14de8)
