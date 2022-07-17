@@ -155,7 +155,7 @@ You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engi
 Also, if you ponder how to with each tool, look for the communities and tutorials supporting them, either via the product’s official website or on YouTube, [Udemy](https://www.udemy.com/) or [Coursera](https://www.coursera.org/).
 
 #### Blockout tools
-Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one.
+Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one:
 
 ![](/images/posts/blockout.png)
 
@@ -173,7 +173,7 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 
 #### Find a community
 
-_“None of us should wander alone, you least of all.” _
+*“None of us should wander alone, you least of all.” *
 Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
