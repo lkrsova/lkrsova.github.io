@@ -171,7 +171,9 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 If you want to work in the gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
 
 #### Hone your soft skills
-As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of working on the location, you'll have a quest designer, level designer, 3D modeller, environment artist, scripter, producer, QA tester involved.
+As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, 3D modeller, environment artist, scripter, producer, QA tester working together. And all of them need to be on the same page throughout the process. 
+
+As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not a people person. Communicating your ideas in clear and decisive way is helpful, developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
 
 ![](/images/posts/friends.png)
 
