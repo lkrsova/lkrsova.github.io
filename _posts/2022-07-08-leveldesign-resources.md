@@ -140,6 +140,8 @@ Planning to do a 3D level? Start with sketching. As soon as you have an idea, tr
 
 #### Moodboard
 
+![](/images/posts/moodboard.PNG)
+
 #### Engine
 Choose your weap…engine wisely. Before I started working in Unreal Engine 5 because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly learning how to script in it but for whatever reason Unity just wasn’t working for me building level-wise. It was too cumbersome. Switching to Unreal has made all the difference. You might be a Unity person, maybe you prefer Unreal, or Godot will work better for you. If you’re into 2D, there are options like Construct. Try a couple of them and you’ll see which one is the best for you. It’s also totally okay if you stick with building paper models…
 
