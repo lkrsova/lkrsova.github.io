@@ -205,14 +205,10 @@ You have all the tools, you figured out your workflow, you’re creating levels 
 ---
 
 ##### A small personal note before we part our ways
-Back in April, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. I thought using tools such as Unreal Engine 5 was beyond my scope and learning abilities. I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
+Back in April, I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
 
-As simple as that, my level design journey started. I’ve become a sponge, absorbing anything and everything you possibly can throw at me about telegraphing, signposting, level design, game design and UX principles applicable to building spaces for players to play in.
+As simple as that, my level design journey started. How you start, where you go, and what you learn in the process of becoming a level designer is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. 
 
-Where you go and what you learn in the process of level design is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
-
-![](/images/posts/beforelater.png)
-
-*The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
+So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
 
 \* Both books were referred to me by a level design veteran from the industry
