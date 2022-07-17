@@ -93,8 +93,8 @@ Designing anything comes with a great responsibility. I’m not joking. Designer
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
 
-- Max Pears | [website](https://www.maxpears.com/)  
-- Clement Melendez: Push and Pull | [website](https://www.clement-melendez.com/portfolio/essays)
+- Max Pears \| [website](https://www.maxpears.com/)  
+- Clement Melendez: Push and Pull \| [website](https://www.clement-melendez.com/portfolio/essays)
 - Tommy Norberg: Level Design tips | [website](https://twitter.com/the_Norberg")
 - Matthew Bradley: Matt Does Design | [website](https://www.mattdoesdesign.com)
 - Alex Galuzin | [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
