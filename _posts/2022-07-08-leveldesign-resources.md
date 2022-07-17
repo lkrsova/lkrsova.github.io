@@ -181,7 +181,7 @@ Communicating your ideas in clear and decisive way is also the must. Developing 
 
 ![](/images/posts/friends.png)
 
-#### Find a community
+#### Find your community
 
 *“None of us should wander alone, you least of all.” *
 Boromir, The Lord of The Rings
