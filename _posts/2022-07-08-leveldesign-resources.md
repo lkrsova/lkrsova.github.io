@@ -208,4 +208,4 @@ Where you go and what you learn in the process of level design is up to you, you
 
 *The difference between these two pictures is 3 months. The first one is my first 5 hours long and lousy effort to build a centerpiece with a fountain in Unreal Engine 4 in April 2022. The second picture shows a stealth level I built in UE5 during a level design challenge happening in June, using my own design, gameplay scenario and basic encounter design.*
 
-* Both books were referred to me by a level design veteran from the industry
+\* Both books were referred to me by a level design veteran from the industry
