@@ -99,6 +99,8 @@ These days a lot of level designers share their knowledge online either via webs
 - Matthew Bradley: Matt Does Design [website](https://www.mattdoesdesign.com)
 - Alex Galuzin [website](https://www.worldofleveldesign.com/categories/cat-level-design.php)
 - Iuliu-Cosmin Oniscu [website](https://iuliu-cosmin-oniscu.medium.com/)
+- Andrew Yoder [website](https://andrewyoderdesign.blog/)
+- Bobby Ross [website](http://bobbyross.com/blog)
 - 80.lv [website](https://80.lv/articles/level-design/)
  
 
