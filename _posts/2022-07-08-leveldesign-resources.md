@@ -170,6 +170,9 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 ### > People skills
 If you want to work in the gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
 
+#### Hone your soft skills
+As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of working on the location, you'll have a quest designer, level designer, 3D modeller, environment artist, scripter, producer, QA tester involved.
+
 ![](/images/posts/friends.png)
 
 #### Find a community
@@ -192,9 +195,6 @@ Some other communities worth being part of:
 
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all? One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
-
-#### Hone your soft skills
-
 
 ---
 
