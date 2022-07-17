@@ -152,7 +152,7 @@ Choose your weap…engine wisely. Before I started working in Unreal Engine 5, m
 
 You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engine](https://www.unrealengine.com/), or even [Godot](https://godotengine.org/) will work better for you. If you’re into 2D, there are options like [Construct](https://www.construct.net/en). Try a couple of them and you’ll see which one feels the best. It’s also totally okay if you stick with building paper models and making games that way.
 
-Also, if you ponder how to with each tool, look for the communities and tutorials supporting them, either via the product’s official website or on YouTube, Udemy or Coursera.
+Also, if you ponder how to with each tool, look for the communities and tutorials supporting them, either via the product’s official website or on YouTube, [Udemy](https://www.udemy.com/) or [Coursera](https://www.coursera.org/).
 
 #### Blockout tools
 Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one.
@@ -178,9 +178,9 @@ Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
 
-All this time is enough for your mind to start doubting. At some point, there will be the imposter syndrome lurking, and telling you you suck and should give up. Your brain will come up with doubts about your abilities, creativity and if it’s all worth it. You will inevitably try to compare your beginner work with others, while forgetting that you’ve barely started, whereas their careers span over decades. Having a friend or a couple of them will be your fail-safe during the times you want to give up or when everything becomes a little too heavy.
+At some point, there will be the [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) lurking, and telling you you suck and should give up. Your brain will come up with doubts about your abilities, creativity, and if it’s all worth it. You will inevitably try to compare your beginner work with others, while forgetting that you’ve barely started, whereas their careers span over decades. Having a friend or a couple of them will be your fail-safe during the times you want to give up or when everything becomes a little too heavy.
 
-I personally found my level design online home and like-minded people within a Tostserver, a Discord server run by Miles Tost who is a senior level designer at CD Projekt Red. You might have heard of the studio; I believe they made somewhat popular games like The Witcher 3: Wild Hunt and Cyberpunk 2077…
+I personally found my level design online home and like-minded people within a [Tostserver, a Discord server](https://discord.gg/AzUYYBww) run by one of the senior level designers at CD Projekt Red. You might have heard of the studio; I believe they made somewhat popular games like The Witcher 3: Wild Hunt and Cyberpunk 2077…
 
 All jokes aside, Tostserver is a small but vibrant community of people from all around the world who either want to become game devs, and are relentlessly working towards the goal, or are interested in video games in general. If you're ever in need of a positive and supporting, sometimes a tiny bit chaotic community, come and join us! We have cats and potatoes…
 
