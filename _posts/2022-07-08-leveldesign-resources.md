@@ -175,7 +175,9 @@ As I've learned recently, the usual set up of a team working on a game location 
 
 As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not naturally a people person. You will have to communicate with people and you will have to do it often.
 
-In the gamedev industry there's not room to be worried or scared about sharing your ideas and opinions. This includes, in a respectful way, telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Communicating your ideas in clear and decisive way is also the must. Developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
+In the gamedev industry there's no room for attitudes or being worried or scared about sharing your ideas and opinions. This includes telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Keeping your ego checked all the time is a must, so is being okay with people being upset by hurting theirs. As long as you are constructive and respectful, it should be okay.
+
+Communicating your ideas in clear and decisive way is also the must. Developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
 
 ![](/images/posts/friends.png)
 
