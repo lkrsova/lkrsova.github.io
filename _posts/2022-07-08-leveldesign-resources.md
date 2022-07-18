@@ -89,7 +89,7 @@ Designing anything comes with a great responsibility. I’m not joking. Designer
 - Mike Monteiro: [Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World/dp/1090532083)
 
 ##### Websites of level designers
-These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
+These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing your own searching  to find those designers whose work you're interested in.
 
 - Max Pears \| [website](https://www.maxpears.com/)  
 - Clement Melendez: Push and Pull \| [website](https://www.clement-melendez.com/portfolio/essays)
@@ -102,7 +102,7 @@ These days a lot of level designers share their knowledge online either via webs
 - 80.lv \| [website](https://80.lv/articles/level-design/)
  
 ##### Other
-Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
+Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in. These books give a good glimpse into the behind the scenes of ups & downs in game development.
 
 - Jason Schreier: [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
 - Jason Schreier: [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
@@ -111,7 +111,7 @@ Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced 
 ![](/images/posts/stream-yt.png)
 
 #### YouTube & Twitch channels
-All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most of the resources I watch talk about game design, AI in video games, and some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their findings about players which are essential to know about when designing. 
+All hail YouTube, the place where people explain everything in a fun way! (Unless you end up in a rabbit hole of conspiracy theories…). Most channels I'm subscribed to discuss game design, AI in video games, while some specifically focus on level design. I've also added channels of Game User Research Special Interest Group (GRUX SIG) because they often share their research findings that can be often generalized on a variety of games. 
 
 - AI in Games (Tommy Thompson) \| [website](https://www.youtube.com/c/AIGamesSeries)  
 - Game Maker’s Toolkit (Mark Brown) \| [website](https://www.youtube.com/c/MarkBrownGMT) 
@@ -133,18 +133,21 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 ---
 
 ### > Tools & workflow
-As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it when designing a level -- I work with Unreal Engine 5 and my focus is 3D levels without a specific game genre.
+Everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will be common to everyone. Below is the rough description of how I approach it when designing a level -- I work with Unreal Engine 5 and my focus is 3D levels without a specific game genre in mind. As I'm still learning, take these recommendations with a grain of salt. They work for me, might not work for you.
 
 ![](/images/posts/tools.png)
 
 #### Pen & paper
-Planning to do a 3D level? Start with sketching with a pen and paper. As soon as you have an idea, try to write it down on a piece of paper. It doesn’t have to be perfect (look at my rough sketch below, a three year old could make a better one) but it should give you an idea what you’re working towards. You’ll get a general idea about dimensions, division of space, where you want your objectives or enemies to be placed, etc. 100% you will move away from the original draft, but the first sketch will help to ground you.
+Planning to do a 3D level? As soon as you have an idea, sketch it on a piece of paper. It doesn’t have to be perfect (look at my rough sketch below, a three year old could have made a better one) but your sketch should give you an idea what you’re working towards. You’ll get a general notion about dimensions, division of space, where you want your objectives or enemies to be placed, etc. Be 100% sure you will move away from the original draft but the first sketch will help to ground you.
 
 ![](/images/posts/sketch.png)
 
 #### Moodboard
+Surprisngly, moodboard are not just for concept artists and environment designers. You will benefit greatly from using references and moodboards to capture the essence about the style, details, and even functional decorations of your level. When designing a high-society restaurant the other day, I put together a moodboard of references as one of the first steps. The pictures guided me in how open the space will be and why, what's the usual disposition and style of the area, etc. 
 
 ![](/images/posts/moodboard.PNG)
+
+I usually use [Milanote](https://milanote.com/) (it's pretty, yet functional!), [Miro](https://miro.com/) will do too and some studios use it as a standard for sharing creative ideas within a team. If you're looking for a desposit of references beyond Google, I encourage you to exploit the recommendation algorithms of [Pinterest](https://pinterest.com/). You'll find a lot there!  
 
 #### Engine
 Choose your weap…engine wisely. Before I started working in Unreal Engine 5, mainly because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly using it for learning how to script but for whatever reason Unity just wasn’t working for me level building-wise. Switching to Unreal has made all the difference.
