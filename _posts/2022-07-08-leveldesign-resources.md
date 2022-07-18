@@ -34,29 +34,29 @@ The myriad of resources available these days about game design can feel indimida
 ##### Game design & Level design
 Most of the game design books talk about why people play, what games are and how people design them; what is the general mentality of players, what they expect, and what keeps them in the loop despite failing. Level design books talk specifically about what level design is, how to approach it, formalize it and get better at it. These are one of my favorites and also seminal works for understanding what we mean when we say game or level design specifically.
 
-- Jesse Schell: <a href="_">The Art of Game Design: A Book of Lenses</a>
-- Salen & Zimmerman: The Rules of Play
-- Katherine Isbister: How Game Move Us: Emotion By Design
-- Pete Echells: Lost in a Good Game: Why We Play Video Games and What They Can Do for Us
-- Jesper Juul: The Art of Failure
-- Mia Consalvo: Cheating: Gaining Advantage in Videogames
-- Brian Upton: The Aesthetic of Play
-- Rudolf Kremens: Level Design: Concept, Theory, and Practice
-- Christopher W. Totten: Level Design: Processes and Experiences
+- Jesse Schell: [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058/)
+- Salen & Zimmerman: [The Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459)
+- Katherine Isbister: [How Game Move Us: Emotion By Design]https://www.amazon.com/How-Games-Move-Playful-Thinking/dp/0262534452
+- Pete Echells: [Lost in a Good Game: Why We Play Video Games and What They Can Do for Us](https://www.amazon.com/Lost-Good-Game-video-games-ebook/dp/B07L484RFN)
+- Jesper Juul: [The Art of Failure](https://www.amazon.com/Art-Failure-Playing-Playful-Thinking/dp/0262529955)
+- Mia Consalvo: [Cheating: Gaining Advantage in Videogames](https://www.amazon.com/Cheating-Gaining-Advantage-Videogames-Press/dp/0262513285)
+- Brian Upton: [The Aesthetic of Play](https://www.amazon.com/Aesthetic-Play-Brian-Upton/dp/0262542633)
+- Rudolf Kremens: [Level Design: Concept, Theory, and Practice](https://www.amazon.com/Level-Design-Concept-Theory-Practice/dp/1568813384)
+- Christopher W. Totten: [Level Design: Processes and Experiences](https://www.amazon.com/Architectural-Approach-Level-Design-Second/dp/081536136X)
 - The Level Design Book [online project](https://book.leveldesignbook.com/)
 
 
 ##### Design
 Some of these books are considered to be the design canon and explain what design and design thinking is. Since players use mental models and maps to orient themselves in gamespaces (among other things), I've also included books about the topic. Some color theory is also handy to know about.
 
-- Donald Norman: The Design of Everyday Things
-- Donald Norman: Emotional Design: Why We Love (or Hate) Everyday Things
-- Eli Woolery: Design Thinking Handbook
-- Indi Young: Mental Models: Aligning Design Strategy with Human Behavior
-- Peter Gould: Mental Maps
-- Steve Krug: Don’t Make Me Think
-- Susan Weinschenk: 100 Things Every Designer Needs to Know About People
-- A. & J. Eckstut: The Secret Language of Color
+- Donald Norman: [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- Donald Norman: [Emotional Design: Why We Love (or Hate) Everyday Things](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
+- Eli Woolery: [Design Thinking Handbook](https://www.amazon.com/Design-Thinking-Handbook/dp/B07Z5HDS8N)
+- Indi Young: [Mental Models: Aligning Design Strategy with Human Behavior](https://www.amazon.com/Mental-Models-Aligning-Strategy-Behavior/dp/1933820063)
+- Peter Gould: [Mental Maps](https://www.amazon.com/Mental-Maps-Peter-Gould-1986-05-01/dp/B01JXS9MUI)
+- Steve Krug: [Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- Susan Weinschenk: [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/013674691)
+- A. & J. Eckstut: [The Secret Language of Color](https://www.amazon.com/Secret-Language-Color-Science-History/dp/1579129498)
 
 
 ##### UX Research & Psychology
