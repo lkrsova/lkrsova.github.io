@@ -180,7 +180,7 @@ Also, in the game industry, there's no room for attitudes, being worried or even
 
 #### Find your community
 
-*“None of us should wander alone, you least of all.” *
+*“None of us should wander alone, you least of all.”*
 Boromir, The Lord of The Rings
 
 You don’t necessarily need to be a fantasy book character to know that everything is better with the right companion. Learning level or game design can become a lonely activity -- it’s up to you and your way around the tools to create something from scratch. It takes hours, even days and weeks to master software tools, compose your ideas and iterate on them. During this process, one can become quite lonely.
