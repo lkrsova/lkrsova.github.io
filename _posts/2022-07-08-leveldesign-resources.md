@@ -167,16 +167,16 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 ---
 
 ### > People skills
-If you want to work in the gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
+If you want to work in gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
 
 #### Hone your soft skills
-As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, gameplay designer, environment artist, scripter, producer, QA tester all working together. And all of them need to be on the same page throughout the process. 
+As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, gameplay designer, environment artist, scripter, producer, QA tester all working together. And all of them need to be on the same page throughout the process. Communication really is the key.
 
-As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not naturally a people person. You will have to communicate with people and you will have to do it often.
+As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not naturally a people person. You will have to communicate with people and you will have to do it often. Communicating your ideas in clear and decisive way is really important because time is money.
 
-In the gamedev industry there's no room for attitudes or being worried or scared about sharing your ideas and opinions. This includes telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Keeping your ego checked all the time is a must, so is being okay with people being upset by hurting theirs. As long as you are constructive and respectful, it should be okay.
+Also, in the game industry, there's no room for attitudes, being worried or even scared about sharing your ideas and opinions. This includes telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Keeping your ego checked all the time is a must, so is being okay with people being upset by you hurting theirs. As long as you are constructive and respectful, it should be okay.
 
-Communicating your ideas in clear and decisive way is also the must. Developing friendships with people within and outside your team too. Being genuinely interested in others work and ideas takes you halfway.
+One last protip if you're not good at small talks - be genuinely interested in other people's work and ideas, and ask them about it. Not only you'll learn about what their work entails if not sure, but you might develop a deeper colleagueship or friendships along the way by learning what people care about by showing you care.
 
 ![](/images/posts/friends.png)
 
