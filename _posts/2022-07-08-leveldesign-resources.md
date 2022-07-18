@@ -42,7 +42,7 @@ Most of the game design books talk about why people play, what games are and how
 - Mia Consalvo: [Cheating: Gaining Advantage in Videogames](https://www.amazon.com/Cheating-Gaining-Advantage-Videogames-Press/dp/0262513285)
 - Brian Upton: [The Aesthetic of Play](https://www.amazon.com/Aesthetic-Play-Brian-Upton/dp/0262542633)
 - Rudolf Kremens: [Level Design: Concept, Theory, and Practice](https://www.amazon.com/Level-Design-Concept-Theory-Practice/dp/1568813384)
-- Christopher W. Totten: [Level Design: Processes and Experiences](https://www.amazon.com/Architectural-Approach-Level-Design-Second/dp/081536136X)
+- Christopher W. Totten: [Level Design: Processes and Experiences](https://www.amazon.com/Level-Design-Experiences-Christopher-Totten/dp/1032276711)
 - The Level Design Book [online project](https://book.leveldesignbook.com/)
 
 
@@ -72,22 +72,21 @@ Building levels is basically all about being cognizant of various principles of 
 ##### Architecture & Urbanism & Level Design
 Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it.
 
-- Alison Gazzard: Mazes in Videogames: Meaning, Metaphor, and Design
-- Christopher W. Totten: Architectural Approach to Level Design
-- Von Borries: Space Time Play: Computer Games, Architecture and Urbanism: The Next Level
-- Matthew Frederick: 101 Things I Learned in Architecture School*
-- Matthew Frederick & Vikas Mehta: 101 Things I Learned in Urban Design School*
+- Alison Gazzard: [Mazes in Videogames: Meaning, Metaphor, and Design](https://www.amazon.com/Mazes-Videogames-Meaning-Metaphor-Design-ebook/dp/B00CC25982)
+- Christopher W. Totten: [Architectural Approach to Level Design]((https://www.amazon.com/Architectural-Approach-Level-Design-Second/dp/081536136X)
+- Von Borries: [Space Time Play: Computer Games, Architecture and Urbanism: The Next Level](https://www.amazon.com/Space-Time-Play-Friedrich-Borries/dp/376438414X)
+- Matthew Frederick: [101 Things I Learned in Architecture School](https://www.amazon.com/101-Things-Learned-Architecture-School/dp/0262062666)*
+- Matthew Frederick & Vikas Mehta: [101 Things I Learned in Urban Design School](https://www.amazon.com/Things-Learned%C2%AE-Urban-Design-School/dp/0451496698)*
 
 
 ##### Ethical game design & Representation
 Designing anything comes with a great responsibility. I’m not joking. Designers implement values in what they create automatically, quite often without thinking about it. Knowing that games have embedded values and how to design with them in mind is important, so is knowing about representation in video games.
 
-- Karen Schrier: Ethics and Game Design: Teaching Values Through Play
-- Flanagan & Nissenbaum: Values at Play in Digital Games
-- Adrienne Shaw: Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture
-- Shira Chess: Ready Player Two: Women Players and Designed Identity
-- Mike Monteiro: The Designer’s Code of Ethics
-- Mike Monteiro: Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It
+- Karen Schrier: [Ethics and Game Design: Teaching Values Through Play](https://www.amazon.com/Ethics-Game-Design-Teaching-Through/dp/1615208453)
+- Flanagan & Nissenbaum: [Values at Play in Digital Games](https://www.amazon.com/Values-at-Play-Digital-Games-ebook/dp/B08BSZF85G)
+- Adrienne Shaw: [Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture](https://www.amazon.com/Gaming-Edge-Sexuality-Margins-Culture/dp/0816693161)
+- Shira Chess: [Ready Player Two: Women Players and Designed Identity](https://www.amazon.com/Ready-Player-Two-Designed-Identity/dp/1517900697/)
+- Mike Monteiro: [Ruined By Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.amazon.com/Ruined-Design-Designers-Destroyed-World/dp/1090532083)
 
 ##### Websites of level designers
 These days a lot of level designers share their knowledge online either via websites or social media like Twitter. Below are a couple of them I follow, but I recommend doing some Googling and finding the ones you are interested in.
