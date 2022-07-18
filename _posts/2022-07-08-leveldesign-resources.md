@@ -36,7 +36,7 @@ Most of the game design books talk about why people play, what games are and how
 
 - Jesse Schell: [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Lenses-Third/dp/1138632058/)
 - Salen & Zimmerman: [The Rules of Play](https://www.amazon.com/Rules-Play-Design-Fundamentals-Press/dp/0262240459)
-- Katherine Isbister: [How Game Move Us: Emotion By Design]https://www.amazon.com/How-Games-Move-Playful-Thinking/dp/0262534452
+- Katherine Isbister: [How Game Move Us: Emotion By Design](https://www.amazon.com/How-Games-Move-Playful-Thinking/dp/0262534452)
 - Pete Echells: [Lost in a Good Game: Why We Play Video Games and What They Can Do for Us](https://www.amazon.com/Lost-Good-Game-video-games-ebook/dp/B07L484RFN)
 - Jesper Juul: [The Art of Failure](https://www.amazon.com/Art-Failure-Playing-Playful-Thinking/dp/0262529955)
 - Mia Consalvo: [Cheating: Gaining Advantage in Videogames](https://www.amazon.com/Cheating-Gaining-Advantage-Videogames-Press/dp/0262513285)
@@ -62,13 +62,12 @@ Some of these books are considered to be the design canon and explain what desig
 ##### UX Research & Psychology
 Building levels is basically all about being cognizant of various principles of human psychology and being able to leverage them. Celia Hodent’s books are essential to understand gamer’s psychology and how the mind drives their perception and behavior.
 
-- Celia Hodent: The Psychology of Video Games
-- Celia Hodent: The Gamer’s Brain: How Neuroscience and UX Can Impact Video Game Design
-- Celia Hodent: What UX is Really About
-- Rudolf Arnheim: Art and Visual Perception: A Psychology of the Creative Eye
-- Anders Drachen: Game User Research
-- Jamie Madigan: Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them
-
+- Celia Hodent: [The Psychology of Video Games](https://www.amazon.com/Psychology-Video-Games-Everything/dp/0367493136)
+- Celia Hodent: [The Gamer’s Brain: How Neuroscience and UX Can Impact Video Game Design](https://www.amazon.com/Gamers-Brain-Neuroscience-Impact-Design/dp/1498775500)
+- Celia Hodent: [What UX is Really About](https://www.amazon.com/What-Really-About-Celia-Hodent/dp/1032104449)
+- Rudolf Arnheim: [Art and Visual Perception: A Psychology of the Creative Eye](https://www.amazon.com/Art-Visual-Perception-Psychology-Creative/dp/0520243838)
+- Anders Drachen: [Game User Research](https://www.amazon.com/Games-User-Research-Anders-Drachen/dp/0198794843)
+- Jamie Madigan: [Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them](https://www.amazon.com/Getting-Gamers-Psychology-Impact-People/dp/1538121336)
 
 ##### Architecture & Urbanism & Level Design
 Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it.
