@@ -199,9 +199,11 @@ Some other communities worth being part of:
 #### Get yourself a mentor
 You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all?
 
-One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. 
+One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. And boy, will you learn a lot about how people navigate your level. Gather their feedback, iterate on the level using it.
 
-But the best thing you can possibly do if you are serious about your craft is to find yourself a mentor.
+However, the best thing you can possibly do if you are serious about your craft is to find yourself a mentor. Ideally someone who's been working within the game industry on a position you would like to reach in the future. I don't have an official mentor, thought I've been fortunate to have an industry veteran checking my work quite regularly. Their feedback isbeyond helpful, so is the encouragement. Occasional reality check helping me stay grounded, included.
+
+But how do you find yoursel a mentor? Check online if your favorite designer has social media and write them. I recommend checking this [list o gamedevs from all around the world who are open to advising juniors who are trying to break into the industry](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml). When contacting them, tell them who you are and why you'd like them to be your mentor. Don't be upset if they tell you they cannot mentor you, though. Mentorship is a serious thing, time-consuming and if done right, it requires a lot of attention, care and hardwork from both the mentor and the mentee. Be willing to put in the work. It will pay off.
 
 ---
 
