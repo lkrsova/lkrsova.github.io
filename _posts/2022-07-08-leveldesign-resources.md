@@ -133,12 +133,14 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 ---
 
 ### > Tools & workflow
-As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it. It might or might not  
+As I said before, everyone’s path is different and so will be the tools you'll use and your workflow. There's no industry standard (as far as I know) how one goes about designing a level but some parts of the process will common to everyone. Below is the rough idea of how I approach it when designing a level -- I work with Unreal Engine 5 and my focus is 3D levels without a specific game genre.
 
 ![](/images/posts/tools.png)
 
 #### Pen & paper
-Planning to do a 3D level? Start with sketching. As soon as you have an idea, try to put it on paper. It doesn’t have to be perfect (look at my rough sketch below, a three year old could make a better one) but it should give you an idea what you’re working towards. You’ll get a general idea about dimensions, division of space, where you want your objectives or enemies to be placed, etc. 100% you will move away from the original draft, but the first sketch will help to ground you.
+Planning to do a 3D level? Start with sketching with a pen and paper. As soon as you have an idea, try to write it down on a piece of paper. It doesn’t have to be perfect (look at my rough sketch below, a three year old could make a better one) but it should give you an idea what you’re working towards. You’ll get a general idea about dimensions, division of space, where you want your objectives or enemies to be placed, etc. 100% you will move away from the original draft, but the first sketch will help to ground you.
+
+![](/images/posts/sketch.png)
 
 #### Moodboard
 
