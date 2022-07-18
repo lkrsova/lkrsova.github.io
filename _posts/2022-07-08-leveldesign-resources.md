@@ -151,7 +151,7 @@ Choose your weap…engine wisely. Before I started working in Unreal Engine 5, m
 
 You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engine](https://www.unrealengine.com/), or even [Godot](https://godotengine.org/) will work better for you. If you’re into 2D, there are options like [Construct](https://www.construct.net/en). Try a couple of them and you’ll see which one feels the best. It’s also totally okay if you stick with building paper models and making games that way.
 
-Also, if you ponder how to with each tool, look for the communities and tutorials supporting them, either via the product’s official website or on YouTube, [Udemy](https://www.udemy.com/) or [Coursera](https://www.coursera.org/).
+Also, if you ponder on "how to" with each tool, look for the communities and tutorials supporting them online, either via the product’s official website or on YouTube, [Udemy](https://www.udemy.com/) or [Coursera](https://www.coursera.org/).
 
 #### Blockout tools
 Blockout is the process of using basic objects (“blockmeshes”) provided by the engine to create a waterdown version of a level you plan to build. Think, gray boxes put together to create a space like this one:
