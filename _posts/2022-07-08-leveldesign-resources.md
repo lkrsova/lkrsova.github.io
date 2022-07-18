@@ -104,9 +104,9 @@ These days a lot of level designers share their knowledge online either via webs
 ##### Other
 Game industry is not just unicorns & rainbows, so to speak. It’s a fast-paced environment that requires a mindset combining creativity, commitment and acceptance of frequent changes. It can be a lot to take in, and these books give a good glimpse into the behind the scenes of game development.
 
-- Jason Schreier: Blood, Sweat, and Pixels
-- Jason Schreier: Press Reset
-- Walt Williams: Significant Zero
+- Jason Schreier: [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234)
+- Jason Schreier: [Press Reset](https://www.amazon.com/Press-Reset-Recovery-Video-Industry/dp/1538735490)
+- Walt Williams: [Significant Zero](https://www.amazon.com/Significant-Zero-Heroes-Villains-Fight/dp/1501129961)
 
 ![](/images/posts/stream-yt.png)
 
