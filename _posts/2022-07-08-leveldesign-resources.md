@@ -17,7 +17,7 @@ Enjoy!
 ---
 
 ### > Level design theory
-I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciouslz analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
+I’ve noticed that what makes a level designer stand out is not only years of practice and games they’ve played (and sub/conciously analyzed along the way) but also the theoretical background they’ve obtained in game design or fields related to it. It does make a big difference when you know your “whys”. Which sources are worth engaging with, though?
 
 Game design as a field is backed up by a substantial body of theories coming from psychology, architecture, sociology, information technology, and other domains. Game design pretty much borrows something from everywhere.
 
