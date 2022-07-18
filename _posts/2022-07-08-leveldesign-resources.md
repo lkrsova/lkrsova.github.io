@@ -6,7 +6,7 @@ featured_image: /images/posts/voila.PNG
 tags: [video games, PhD]
 ---
 
-Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games. Three months later, I am a bit further on my journey. I've landed a game design internship at [Warhorse Studios](https://warhorsestudios.cz/career) (we're hiring!), and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
+Back in April 2022, I was adamantly convinced that I don’t have a speck of design thinking in me and am artistically dumb as clay. But I wanted to learn how to build levels in video games. Three months later, I've landed a game design internship at [Warhorse Studios](https://warhorsestudios.cz/career) (we're hiring!), and as we speak I'm bridging the gaping gap of being a total noob to becoming a junior level designer. I still have so, so much to learn about level design but I’ve been told I am good at it, so I’ll keep leveling up.
 
 Along the way, I’ve built a **database of resources, discovered awesome communities, and surrounded myself with a network of people that have helped me**, both directly and indirectly, with becoming a level designer. **This post is all about appreciating those connections and sharing all the resources with others**.
 
@@ -143,14 +143,14 @@ Planning to do a 3D level? As soon as you have an idea, sketch it on a piece of 
 ![](/images/posts/sketch.png)
 
 #### Moodboard
-Surprisngly, moodboard are not just for concept artists and environment designers. You will benefit greatly from using references and moodboards to capture the essence about the style, details, and even functional decorations of your level. When designing a high-society restaurant the other day, I put together a moodboard of references as one of the first steps. The pictures guided me in how open the space will be and why, what's the usual disposition and style of the area, etc. 
+Surprisngly, moodboards are not just for concept artists and environment designers. You will benefit greatly from using references and moodboards to capture the essence of the style, details, and even functional decorations of your level. When designing a high-society restaurant the other day, I put together a moodboard of references as one of the first steps. The pictures guided me in how open the space should be, what's the disposition and style of the area, etc. 
 
 ![](/images/posts/moodboard.PNG)
 
 I usually use [Milanote](https://milanote.com/) (it's pretty, yet functional!), [Miro](https://miro.com/) will do too and some studios use it as a standard for sharing creative ideas within a team. If you're looking for a desposit of references beyond Google, I encourage you to exploit the recommendation algorithms of [Pinterest](https://pinterest.com/). You'll find a lot there!  
 
 #### Engine
-Choose your weap…engine wisely. Before I started working in Unreal Engine 5, mainly because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly using it for learning how to script but for whatever reason Unity just wasn’t working for me level building-wise. Switching to Unreal has made all the difference.
+Before I started working in Unreal Engine 5, mainly because of its rising prevalence in the industry, my weapon of choice was Unity. I was mostly using it for learning how to script but for whatever reason Unity just wasn’t working for me level building-wise. Switching to Unreal has made all the difference.
 
 You might be a [Unity](https://unity.com/) person, maybe you prefer [Unreal Engine](https://www.unrealengine.com/), or even [Godot](https://godotengine.org/) will work better for you. If you’re into 2D, there are options like [Construct](https://www.construct.net/en). Try a couple of them and you’ll see which one feels the best. It’s also totally okay if you stick with building paper models and making games that way.
 
@@ -170,14 +170,14 @@ Also if you’re interested to see how detailed or abstract a blockout can be, I
 ---
 
 ### > People skills
-If you want to work in gamedev so you can work with technology and escape talking to people, I have some bad news for you. Communication and so called soft skills are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
+If you want to work in gamedev so you can make games and escape talking to people, I have some bad news for you. Communication and so called "soft skills" are essential for thriving in this environment and succesfully working with your own team members or colleagues across the studio.
 
 #### Hone your soft skills
-As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, gameplay designer, environment artist, scripter, producer, QA tester all working together. And all of them need to be on the same page throughout the process. [Communication really is the key skill, in gamedev especially](https://www.gamedev.net/tutorials/business/production-and-management/communication-is-a-game-development-skill-r3800/).
+As I've learned recently, the usual set up of a team working on a game location consists of people from different teams. Let's say you have a task to figure out a stealth mission in an industry compound. In different stages of developing and iterating on the location, you'll have a quest designer, level designer, gameplay designer, environment artist, scripter, producer, QA tester all working together. And all of them need to be on the same page throughout the process. [Communication really is the key skill here, in gamedev especially](https://www.gamedev.net/tutorials/business/production-and-management/communication-is-a-game-development-skill-r3800/).
 
-As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not naturally a people person. You will have to communicate with people and you will have to do it often. Communicating your ideas in clear and decisive way is really important because time is money and there's no room for confusions. If you're not good at small talks -- be genuinely interested in other people's work and ideas, and ask them about it. Not only you'll learn about what their work entails if not sure, but you might develop a deeper colleagueship or friendships along the way by learning what people care about by showing you care.
+As a somewhat shy, usually awkward and mostly introverted person, I recommend step-by-step pushing yourself out of the comfort zone if you're not naturally a people person. You will have to communicate with people and you will have to do it often. Communicating your ideas in clear and decisive way is really important because time is money and there's no room for confusions. If you're not good at small talks but want to connect with people, be genuinely interested in their work and ideas, and ask them about it. Not only will you learn about what their work entails, but you might develop some longlasting colleagueships or friendships along the way by being the person who cares.
 
-Also, in the game industry, there's no room for attitudes, being worried or even scared about sharing your ideas and opinions. This includes telling people you don't 100% agree with their idea and you think it needs a different solution. Rinse. Repeat. Keeping your ego checked all the time is a must, so is being okay with people being upset by you hurting theirs. As long as you are constructive and respectful, it should be okay.
+Also, in the game industry, there's no room for diva attitudes, being worried or even scared about sharing your ideas and opinions. This includes telling people you don't 100% agree with their ideas and you think something needs a different solution. Lastly, keeping your ego checked all the time is a must, so is being okay with people being upset by you hurting theirs. But as long as you are constructive and respectful, it should be okay.
 
 ![](/images/posts/friends.png)
 
@@ -200,21 +200,21 @@ Some other communities worth being part of:
 - [GameDev.Tv Discord](https://discord.gg/gamedevtv) 
 
 #### Get yourself a mentor
-You have all the tools, you figured out your workflow, you’re creating levels but how do you know that you’re improving or if your creations make sense at all?
+You have all the tools, you've figured out your workflow, you’re creating levels but how do you know that you’re improving or if that your creations make sense?
 
-One way you can go about it is by letting people playtest what you put together. Be it family, friends or complete strangers, you can upload your game files on itch.io and share a link. And boy, will you learn a lot about how people navigate your level. Gather their feedback, iterate on the level using it.
+One way you can go about it is by letting people playtest what you've put together. Be it family, friends or complete strangers, you can upload your game files on [itch.io](https://itch.io/) and share a link with people. And boy, will you learn a lot about how people navigate your level and what you didn't do properly. Gather the feedback, iterate on the level using it. Rinse. Repeat.
 
-However, the best thing you can possibly do if you are serious about your craft is to find yourself a mentor. Ideally someone who's been working within the game industry on a position you would like to reach in the future. I don't have an official mentor, though I've been fortunate to have an industry veteran checking my work quite regularly. Their feedback is beyond helpful, so is the encouragement. Occasional reality checks helping me stay grounded, too.
+However, the best thing you can possibly do if you are serious about improving your craft is finding yourself a mentor. Ideally someone who's been working within the game industry on a position you would like to reach in the future. I don't have an official mentor, though I've been fortunate enough to have an industry veteran checking my work quite regularly. Their feedback is beyond helpful, so is the encouragement. And occasional reality checks helping me stay grounded, too. :tostcool:
 
-But how do you find yourself a mentor? Check online if your favorite designer has social media and write them. I recommend checking this [list o gamedevs who are open to advising juniors](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml). When contacting them, disclose who you are and why you'd like them to be your mentor. Don't be upset if they refuse mentoring you, though! Mentorship is a serious thing, time-consuming and if done right, it requires a lot of attention, care and hardwork from both the mentor and the mentee. If you get yourself a mentor, be willing to put in the work and commit to it. It will pay off by you improving fast!
+But how do you find yourself a mentor? Check online if your favorite designer has social media and just write them. I also recommend checking this [list of gamedevs who are open to advising juniors](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml). When contacting gamedev seniors, disclose who you are and why you'd like them to be your mentor. Don't be upset if they refuse mentoring you, though! Mentorship is a serious commitment, time-consuming and if done right, it requires a lot of attention, care and hardwork from both the mentor and the mentee. If you get yourself a mentor, congrats & be willing to put in the work and commit to it. It will pay off by your fast improvement!
 
 ---
 
 ##### A small personal note before we part our ways
-Back in April, I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design. I wanted to build those levels, too.
+Back in April, I vividly remember telling a couple of game devs at GDC 2022 that I know nothing about gamedev, and the only skills I possess is reading academic books about game design. But I wanted to learn how game worlds are built. I wanted to learn about level design and I wanted to build those levels, too.
 
-As simple as that, my level design journey started. How you start, where you go, and what you learn in the process of becoming a level designer is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, and I sincerely hope yours is as joyful and exciting as mine has been. 
+As simple as that, my level design journey started. I've met amazing people along the way, my work trajectory has changed, and I can say I have never been happier and felt more professionally fulfilled. It's been a joy!
 
-So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too!
+How you start, where you go, and what you learn in the process of becoming a level designer is up to you, your own efforts, commitment and hard work. Mind you, everyone's path is different, there will be ups and downs, some difficulties along the way, but I sincerely hope your journey is as joyful and exciting as mine has been. 
 
-\* Both books were referred to me by a level design veteran from the industry
+So, please, have fun & enjoy it! If I could pull this level design adventure off, you can too! L.
