@@ -8,12 +8,12 @@ tags: [video games, level design, theory, UX, HCI]
 
 The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques relying on visual perception to convey design intent or highlight important parts of a level. Recently released [Stray](https://store.steampowered.com/app/1332010/Stray/), where you play as a cat finding its way back home, gives a lot of good examples of them. In this post I'm adding some science behind it to help explain why it works the way it does.
 
-One thing that immediately struck me about *Stray* is how effectively their designers used light and color coding to navigate player throughout the complex, highly vertical and dense cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing, less demanding and taxing on player's cognitive capacity. 
+One thing that immediately struck me about *Stray* is how effectively their designers used light and color coding to navigate player throughout the complex, highly vertical and dense cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing, less demanding or taxing on player's cognitive capacity. 
 
 #### What do I mean?
 Right at the beginning, when you land on all four from an unexpected fall, you find yourself in a dark, dimly lit gutter. The only thing you see is both proverbial and real light in the distance, signaling you where you need to be headed next. A cutscene interrupts your contemplation, a blinking light appears over the door which abruptly opens and show you the way out.
 
-This is just one of the cases where level design of Stray uses colors and light to navigate player's intended path. Below is just a couple of examples of what I mean, expressed either via neon signs, lit spaces or other ways that relies on a cognitive bias called **perceptual salience**. (Don't worry about spoilers, I took screenshots from the early part of the game.)
+This is just one of the cases where level design of Stray uses color coding and light to navigate its players on an intended path. Below is just a couple of examples of what I mean -- notice neon signs, lit spaces and other ways that relies on a cognitive bias called **perceptual salience**. (Don't worry about spoilers, I took screenshots from the very early stage of the game.)
 
 ![](/images/posts/visual1.jpg)
 
