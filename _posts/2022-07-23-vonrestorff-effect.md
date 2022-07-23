@@ -69,8 +69,6 @@ How are these represent in video games? Let's have a look:
 
 ![](/images/posts/visual2.jpg)
 
-![](/images/posts/visual3.jpg)
-
 ![](/images/posts/visual4.jpg)
 
 ![](/images/posts/visual5.jpg)
