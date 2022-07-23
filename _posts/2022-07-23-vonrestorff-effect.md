@@ -15,12 +15,30 @@ Navigating player across a level in as non-disruptive way as possible is the goa
 
 #### Von Restorff effect
 
-Navigating with color, size, position
+#### Attentional set
+
+our brains lack the horsepower to process everything in our field of vision, they compensate by filtering out things that don’t match what we’re searching for. The result is that unexpected or odd objects may actually go unseen even if we’re looking right at them. The guy who almost hit me looked right at me, but he didn’t see me because he was looking for other cars to see if it was safe to pull out, not someone on foot. I wasn’t in what psychologists call his “attentional set.”
+
+We see color coding all the time in video games, often to aid us in navigation.
+
+Once you’ve been trained to be on the lookout for yellow doors, you’ll start to notice anything that’s yellow because your mind is latching on to a certain heuristic to help govern what visual information is ignored and what is processed.
+
+If you’re a game designer and want to put a little sparkle or shine effect on a health or ammo kit to make it noticeable, the choice of color matters. Consistency between this color and the color used to offer navigation cues will help players notice both.
+
+On the flipside, if you want to keep some secret area from being too easily discovered, use different colors and unexpected shapes.
+
+On the opposite side, when something blends in the -- players are more likely to look right at unexpected objects or environmental features without seeing them.
+
+Navigating with color, size, position 
 
 
 ### Examples from video games
 
 #### Yellow signifiers
+
+#### Don't forget about gorillas
+
+Invisible gorilla effect
 
 Many action-driven games such as Tomb Raider, Uncharted or The Last of Us use yellow or its shades to communicate to player about affordances of objects around them, their climbability or 
 
