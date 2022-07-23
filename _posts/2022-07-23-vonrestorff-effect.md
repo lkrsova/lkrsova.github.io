@@ -11,7 +11,9 @@ The primary objective of level design is to clearly communicate to players where
 One thing that immediately struck me about *Stray* is how effectively their designers used light and color coding to navigate player throughout the complex, highly vertical and dense cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing, less demanding and taxing on player's cognitive capacity. 
 
 #### What do I mean?
-Right at the beginning, when you land on all four into a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next. Below is just a couple of examples of what I mean.
+Right at the beginning, when you land on all four from an unexpected fall, you find yourself in a dark, dimly lit gutter. The only thing you see is both proverbial and real light in the distance, signaling you where you need to be headed next. A cutscene interrupts your contemplation, a blinking light appears over the door which abruptly opens and show you the way out.
+
+This is just one of the cases where level design of Stray uses colors and light to navigate player's intended path. Below is just a couple of examples of what I mean expressed either via neon signs and lit entrances. Don't worry about spoilers, I took screenshots from the early part of the game.
 
 ![](/images/posts/visual1.jpg)
 
