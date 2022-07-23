@@ -6,9 +6,7 @@ featured_image: /images/posts/visual3.jpg
 tags: [video games, level design, theory, UX, HCI]
 ---
 
-The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques relying on visual perception to convey design intent or highlight important parts of a level.
-
-You have most likely encountered cases of such techniques. Recently released [Stray](https://store.steampowered.com/app/1332010/Stray/), where you play as a cat finding its way back home, gives a lot of good examples of them. In this post I'm adding some science behind it to help explain why it works the way it does.
+The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques relying on visual perception to convey design intent or highlight important parts of a level. Recently released [Stray](https://store.steampowered.com/app/1332010/Stray/), where you play as a cat finding its way back home, gives a lot of good examples of them. In this post I'm adding some science behind it to help explain why it works the way it does.
 
 One thing that immediately struck me about *Stray* is how effectively their designers used light and color coding to navigate player throughout the complex, highly vertical and dense cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing, less demanding and taxing on player's cognitive capacity. 
 
