@@ -47,6 +47,8 @@ In most games you find things like climbable surfaces are all highlighted using 
 
 Lighting
 
+God Rays
+
 ### Examples from video games
 
 #### Yellow signifiers
