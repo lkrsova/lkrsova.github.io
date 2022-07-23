@@ -2,7 +2,7 @@
 title: "Where should I go next? Perceptual salience in level design"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/stray-lol.png
+featured_image: /images/posts/visual3.jpg
 tags: [video games, level design, theory, UX, HCI]
 ---
 
@@ -35,8 +35,6 @@ Size. Object size and proportion to surrounding elements creates visual hierarch
 Position. An object's orientation or spatial arrangement in relation to the surrounding objects creates differentiation to invite action.
 
 How are these represent in video games? Let's have a look:
-
-![](/images/posts/straysign.jpg)
 
 ![](/images/posts/visual1.jpg)
 
