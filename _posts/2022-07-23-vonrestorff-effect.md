@@ -10,11 +10,9 @@ The primary objective of level design is to clearly communicate to players where
 
 One thing that immediately struck me about Stray is how effectively their designers used light and color coding to navigate player throughout the complex, highly vertical and dense cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing and less demanding and taxing on player's cognitive capacity. 
 
-Right at the beginning, where you landed on all four in a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
-
 ![](/images/posts/visual1.jpg)
 
-
+Right at the beginning, when you land on all four in a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
 
 ### The theory behind 
 
