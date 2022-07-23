@@ -6,7 +6,7 @@ featured_image: /images/posts/visual3.jpg
 tags: [video games, level design, theory, UX, HCI]
 ---
 
-The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques using visual cues to convey design intent or highlight important parts of a level. You have most likely encountered cases of such techniques. Recently published Stray (Annapurna Interactive) gives a lot of good examples. In this post I'm adding some science behind it to help explain why it works the way it does.
+The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques using visual cues to convey design intent or highlight important parts of a level. You have most likely encountered cases of such techniques. Recently published Stray (Annapurna Interactive) gives a lot of good examples of them. In this post I'm adding some science behind it to help explain why it works the way it does.
 
 
 
