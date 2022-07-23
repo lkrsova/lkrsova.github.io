@@ -19,7 +19,7 @@ This is just one of the cases where level design of Stray uses colors and light 
 
 ![](/images/posts/visual5.jpg)
 
-![](/images/posts/visual2.jpg)
+![](/images/posts/visual3.jpg)
 
 ### The theory behind it all
 
