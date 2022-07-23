@@ -8,12 +8,21 @@ tags: [video games, level design, theory, UX, HCI]
 
 The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques using visual cues to convey design intent or highlight important parts of a level. You have most likely encountered cases of such techniques. Recently published Stray (Annapurna Interactive) gives a lot of good examples of them. In this post I'm adding some science behind it to help explain why it works the way it does.
 
+One thing that immediately struck me about Stray is how they used light and color coding to navigate player throughout the cyberpunk city. True, oftentimes it's a bit too much on the nose but it also makes the game rather relaxing and less demanding for cognitive capacity. 
+
+Right at the beginning, where you landed on all four in a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
+
+![](/images/posts/visual1.jpg)
+
+
 
 ### The theory behind 
 
-#### Perceptual salience
+
 
 #### Von Restorff effect
+
+#### Perceptual salience
 
 #### Attentional set
 
@@ -59,7 +68,7 @@ Position. An object's orientation or spatial arrangement in relation to the surr
 
 How are these represent in video games? Let's have a look:
 
-![](/images/posts/visual1.jpg)
+
 
 ![](/images/posts/visual2.jpg)
 
