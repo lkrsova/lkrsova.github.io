@@ -68,6 +68,8 @@ Building levels is basically all about being cognizant of various principles of 
 - Rudolf Arnheim: [Art and Visual Perception: A Psychology of the Creative Eye](https://www.amazon.com/Art-Visual-Perception-Psychology-Creative/dp/0520243838)
 - Anders Drachen: [Game User Research](https://www.amazon.com/Games-User-Research-Anders-Drachen/dp/0198794843)
 - Jamie Madigan: [Getting Gamers: The Psychology of Video Games and Their Impact on the People who Play Them](https://www.amazon.com/Getting-Gamers-Psychology-Impact-People/dp/1538121336)
+- Daniel Kahneman: [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+- Dan Ariely: [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248)
 
 ##### Architecture & Urbanism & Level Design
 Level design means you’re inevitably signing up for learning bits about architecture, interior design and urbanism. These books should help with it.
