@@ -12,7 +12,7 @@ One thing that immediately struck me about Stray is how effectively their design
 
 ![](/images/posts/visual1.jpg)
 
-Right at the beginning, when you land on all four in a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
+Right at the beginning, when you land on all four into a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
 
 ### The theory behind 
 
