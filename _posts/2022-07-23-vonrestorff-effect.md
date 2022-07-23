@@ -14,7 +14,7 @@ One thing that immediately struck me about Stray is how effectively their design
 
 Right at the beginning, when you land on all four into a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
 
-### The theory behind 
+### The theory behind it all
 
 #### Perceptual salience
 In neuroscience and adjacent fields, salience is a property or a quality of something standing out from the rest. Saliency usually arises from the difference between an item an its neighbors, caused by a different color coding, values, lighting or 
