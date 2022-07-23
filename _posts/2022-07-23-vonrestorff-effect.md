@@ -37,3 +37,15 @@ Position. An object's orientation or spatial arrangement in relation to the surr
 How are these represent in video games? Let's have a look:
 
 ![](/images/posts/straysign.jpg)
+
+![](/images/posts/visual1.jpg)
+
+![](/images/posts/visual2.jpg)
+
+![](/images/posts/visual3.jpg)
+
+![](/images/posts/visual4.jpg)
+
+![](/images/posts/visual5.jpg)
+
+![](/images/posts/visual6.jpg)
