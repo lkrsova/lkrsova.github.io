@@ -22,7 +22,7 @@ This is just one of the cases where level design of Stray uses color coding and 
 ![](/images/posts/visual3.jpg)
 
 ### The theory behind it all
-As I mentioned in my [previous post](https://lenikrsova.github.io/blog/leveldesign-resources), game and level design specifically are backed by findings from cognitive psychology and related phenomena. A lot of techniques that level designers employ intuitively, stem from research on human perception and cognition. The ones I'll talk about are: perceptual salience, Von Restorff effect, attentional set, invisible gorilla effect, and some basics of color theory.
+As I mentioned in my [previous post](https://lenikrsova.github.io/blog/leveldesign-resources), game and level design specifically are backed by findings from cognitive psychology and related phenomena. A lot of techniques that level designers employ intuitively, stem from research on human perception and cognition. The ones I'll talk about that explain how visual perception in video games work are: perceptual salience, Von Restorff effect aka Isolation paradigm, attentional set, invisible gorilla effect, and some basics of color theory.
 
 #### Perceptual salience
 In neuroscience and adjacent fields, salience is a property or a quality of something standing out from the rest. Saliency usually arises from the difference between an item an its neighbors, caused by a different color coding, values, lighting or 
