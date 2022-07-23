@@ -6,7 +6,9 @@ featured_image: /images/posts/visual3.jpg
 tags: [video games, level design, theory, UX, HCI]
 ---
 
-Navigating player across a level in as non-disruptive way as possible is the goal of all level designers. The premise stands that people's attention draws to visual salient stimuli. There's a bit of cognitive science behind this fact, so let's dive into it and see how it is represented in level design.
+In just recently published game Stray [Annapurna Interactive], you as navigate a cyberpunk-looking city and solve puzzles as a cat. Without any map or previous knowledge about the place level designers used as many techniques to get a player from point A to point B in a way that's just cognitively challenging enough to play this game as a relaxing no-brainer after a tough day at work. What's the technique and why does it work in Stray so well? Let's dive into it.
+
+
 
 
 ### The theory behind 
@@ -31,6 +33,11 @@ On the opposite side, when something blends in the -- players are more likely to
 
 Navigating with color, size, position 
 
+Color coding
+
+In most games you find things like climbable surfaces are all highlighted using a coloured texture which not only indicates that they can be climbed but it also highlights the path that the player should climb. Rime, God of War, Tomb Raider and Uncharted all do this to help guide the player forwards. 
+
+Lighting
 
 ### Examples from video games
 
