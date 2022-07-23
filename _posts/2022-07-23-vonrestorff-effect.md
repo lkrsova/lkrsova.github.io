@@ -6,8 +6,12 @@ featured_image: /images/posts/visual3.jpg
 tags: [video games, level design, theory, UX, HCI]
 ---
 
-In just recently published game Stray [Annapurna Interactive], you as navigate a cyberpunk-looking city and solve puzzles as a cat. Without any map or previous knowledge about the place level designers used as many techniques to get a player from point A to point B in a way that's just cognitively challenging enough to play this game as a relaxing no-brainer after a tough day at work. What's the technique and why does it work in Stray so well? Let's dive into it.
+The primary objective of level design is to clearly communicate to players where they have to go or what they can or cannot do within a level. Color coding and lighting are just two of some level design techniques using visual cues to convey design intent, reveal where t ogo or highlight important parts of a level. Both conciously and subconciously you have probably encountered case of such techniques across the video games you've played. Recently published videogames Stray (Annapurna Interactive) gives a lot of good examples. I'm adding some science behind it to explain why it works the way it does and how you can apply it to your own levels.
 
+
+
+
+primary objective of helping to communicate to players where they have to go or what they have to do within a level.
 
 
 
@@ -72,3 +76,6 @@ How are these represent in video games? Let's have a look:
 ![](/images/posts/visual5.jpg)
 
 ![](/images/posts/visual6.jpg)
+
+In just recently published game Stray [Annapurna Interactive], you navigate a cyberpunk-looking city as a cat. Without any map or previous knowledge about the place level designers used as many techniques to get a player from point A to point B in a way that's just cognitively challenging enough to play this game as a relaxing no-brainer after a tough day at work. What's the technique and why does it work in Stray so well? Let's dive into it.
+
