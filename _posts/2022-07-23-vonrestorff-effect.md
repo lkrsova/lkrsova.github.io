@@ -12,7 +12,12 @@ One thing that immediately struck me about *Stray* is how effectively their desi
 
 ![](/images/posts/visual1.jpg)
 
-Right at the beginning, when you land on all four into a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next.
+#### What I'm talking about
+Right at the beginning, when you land on all four into a gutter, you are presented with an effective yet simple technique with using color coding and light to attract player's attention and signal them where to go next. Below  just a couple of examples of what I mean.
+
+![](/images/posts/visual5.jpg)
+
+![](/images/posts/visual2.jpg)
 
 ### The theory behind it all
 
@@ -71,13 +76,7 @@ Position. An object's orientation or spatial arrangement in relation to the surr
 
 How are these represent in video games? Let's have a look:
 
-
-
-![](/images/posts/visual2.jpg)
-
 ![](/images/posts/visual4.jpg)
-
-![](/images/posts/visual5.jpg)
 
 ![](/images/posts/visual6.jpg)
 
