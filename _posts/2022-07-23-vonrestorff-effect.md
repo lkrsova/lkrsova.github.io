@@ -29,8 +29,7 @@ In neuroscience and adjacent fields, salience is a property or a quality of some
 
 rm is widely used in the study of perception and cognition to refer to any aspect of a stimulus that, for any of many reasons, stands out from the rest
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z0iLxUKUU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](/images/posts/visualsaliency.PNG)
 
 #### HCI principle: Von Restorff effect
 
