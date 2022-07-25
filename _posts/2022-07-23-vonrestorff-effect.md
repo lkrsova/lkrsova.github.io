@@ -43,7 +43,7 @@ This focus on something that we expect also allows for the opposite results. Une
 
 ![](/images/linr.jpg)
 
-*This scene was purposefully casted with identical twins by Wachowskis. Have you ever noticed them while watching the movie?*
+*Wawhowskis purposefully casted this scene with identical twins. Have you ever noticed them while watching the movie?*
 
 This phenomena it's called "inattentional blindness" but you might have encountered it in popular science as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo).
 
