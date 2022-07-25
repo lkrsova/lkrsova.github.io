@@ -31,8 +31,6 @@ A couple of well-known biases are featured in the picture below, taken from a st
 
 ![](/images/visual-saliency.png)
 
-*Well-known visual saliency biases, Levia et al. (2020)*
-
 ##### Why is this happening?
 Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
 
