@@ -34,10 +34,9 @@ A couple of well-known biases are featured in the picture below from a study by 
 *Well-known visual saliency biases, taken from Levia et al. (2020)*
 
 ##### Why is this happening?
-Despite people often realizing, human brain lacks one important quality -- id doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision for example. To conserve energy your brain automatically filters out things that don't match what you're searching for. This phenomena is called attentional set, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. 
+Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for. This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why good horror movies or video games set up expectations and break them at the right moment to surprise and scare its audience. To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise.
 
-
-An attentional set is formed when a subject learns that a set of rules can be applied to complex stimuli in order to differentiate relevant from irrelevant cues
+In popular science, one of the experiments confirming this phenomena is something called the invisible gorilla effect. 
 
  
 For this reason, unexpected or odd objects might go unseen even if you're looking right at them. 
