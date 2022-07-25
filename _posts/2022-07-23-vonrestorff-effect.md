@@ -27,13 +27,15 @@ As I mentioned in my [previous post](https://lenikrsova.github.io/blog/leveldesi
 #### Perceptual salience
 In neuroscience and adjacent fields, salience is a property or quality of something standing out from the rest. Saliency usually arises from the difference between an item an its neighbors, caused by a different color coding, light value, etc. In general, salience is used in the studies of human cognition and perception to refer to any aspect of a stimulus that stands out from the rest.
 
-A couple of well-known biases are features in the picture below. You might have not heard about them but you subconciously know youre eye trackes the same pattern as the heatmaps show on each of the pictures, right? 
+A couple of well-known biases are featured in the picture below. You might have not heard about them but let's be honest, you did notice that your eyes tracks the same pattern as the heatmaps show on each of the pictures, right? 
+
+![](/images/visual-saliency.png)
+*Well-known visual saliency biases, taken from Levia et al. (2020)*
 
 ##### Why is this happening?
 The problem with human brain that people often forget about is that it doesn't have the horsepower to do everything at once. It's highly selective to avoid overloading itself. When you take your field of vision, your brain automatically filters out things that don't match what you're searching for. 
 
-![](/images/visual-saliency.png)
-*Well-known visual saliency biases, taken from Levia et al. (2020)*
+
 
 #### HCI principle: Von Restorff effect
 
