@@ -33,9 +33,15 @@ A couple of well-known biases are featured in the picture below. You might have 
 *Well-known visual saliency biases, taken from Levia et al. (2020)*
 
 ##### Why is this happening?
-The problem with human brain that people often forget about is that it doesn't have the horsepower to do everything at once. It's highly selective to avoid overloading itself. When you take your field of vision, your brain automatically filters out things that don't match what you're searching for. 
+Despite people often realizing, human brain lacks one important quality -- id doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision for example. To conserve energy your brain automatically filters out things that don't match what you're searching for. This phenomena is called attentional set, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. 
 
 
+An attentional set is formed when a subject learns that a set of rules can be applied to complex stimuli in order to differentiate relevant from irrelevant cues
+
+ 
+For this reason, unexpected or odd objects might go unseen even if you're looking right at them. 
+
+That's why jump scares in movies and video games work so well whet it builds expectations but break the rules of what is going to happen. The same goes for flickering lights in the distance when suddenly out of nowhere something jumps out in the proximity of a player. The same is with color coding enemies in a particular color. In Multiplayer games this is how you don't usually shoot at your own people, because opponent's color is in your attentional set and your brain is actively looking for it, filtering other colors out. 
 
 #### HCI principle: Von Restorff effect
 
