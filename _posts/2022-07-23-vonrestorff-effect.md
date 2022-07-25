@@ -36,12 +36,12 @@ A couple of well-known biases are featured in the picture below, taken from a st
 ##### Why is this happening?
 Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
 
-This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and then break them at the right moment to surprise and scare their audience. 
+This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and when to break them to surprise and scare their audience to the maximum. 
 
 ##### Don't forget about gorillas
-This focus on something that we expect also allows for the opposite effect. Unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. It's called "inattentional blindness" but you might have encountered it in popular science as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo).
+This focus on something that we expect also allows for the opposite results. Unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. It's called "inattentional blindness" but you might have encountered it in popular science as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo).
 
-Additionally, another phenomena that 
+Additionally, not only human perception notices (or doesn't) objects that are in its purview, according to **Von Restorff effect**, the stimuli that stands out from the homogenous rest are also easily remembered. Von Restorff was a German physician and coined this term 
 
 #### Color-coded attention
 To this point, I've discussed perceptual salience in general. Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
