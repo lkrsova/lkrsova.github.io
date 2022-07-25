@@ -36,24 +36,17 @@ A couple of well-known biases are featured in the picture below from a study by 
 ##### Why is this happening?
 Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
 
-This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why good horror movies or video games set up (visual) expectations and break them at the right moment to surprise and scare their audience. 
+This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up (visual) expectations and then break them at the right moment to surprise and scare their audience. 
 
 #### Don't forget about gorillas
-For this reason, unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. We call this inattentional blindness but you might have encountered it in popular scienc as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, watch this video to see what it's about. 
+This focus on something that we expect also allows for the opposite effect. Unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. It's called "inattentional blindness" but you might have encountered it in popular science in a form of an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo). 
 
 #### Color-coded attention
-To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise, so does multiplayer games such as Halo and your selective attention to the color of your opponent's uniforms.
- For this reason, unexpected or odd objects might go unseen even if you're looking right at them. 
+To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise, so does multiplayer games such as Halo and your selective attention to the color of your opponent's uniforms. 
 
-That's why jump scares in movies and video games work so well whet it builds expectations but break the rules of what is going to happen. The same goes for flickering lights in the distance when suddenly out of nowhere something jumps out in the proximity of a player. The same is with color coding enemies in a particular color. In Multiplayer games this is how you don't usually shoot at your own people, because opponent's color is in your attentional set and your brain is actively looking for it, filtering other colors out. 
+**Von Restorff effect aka isolation paradigm**
 
-#### HCI principle: Von Restorff effect
-
-
-
-#### Attentional set
-
-our brains lack the horsepower to process everything in our field of vision, they compensate by filtering out things that don’t match what we’re searching for. The result is that unexpected or odd objects may actually go unseen even if we’re looking right at them. The guy who almost hit me looked right at me, but he didn’t see me because he was looking for other cars to see if it was safe to pull out, not someone on foot. I wasn’t in what psychologists call his “attentional set.”
+#### Application in video games
 
 We see color coding all the time in video games, often to aid us in navigation.
 
