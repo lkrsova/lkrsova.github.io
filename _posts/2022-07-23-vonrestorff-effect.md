@@ -40,7 +40,7 @@ This phenomena is called **attentional set**, and is formed when a subject learn
 
 ![](/images/linr.jpg)
 
-*This scene was filled with identical twins. Have you ever noticed them while watching the movie?*
+*This scene was purposefully casted with identical twins by Wachowskis. Have you ever noticed them while watching the movie?*
 
 ##### Don't forget about gorillas
 This focus on something that we expect also allows for the opposite results. Unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. It's called "inattentional blindness" but you might have encountered it in popular science as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo).
