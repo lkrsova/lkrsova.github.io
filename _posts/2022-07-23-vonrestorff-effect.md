@@ -39,8 +39,7 @@ Despite people often realizing, human brain lacks one important quality -- it do
 This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why good horror movies or video games set up (visual) expectations and break them at the right moment to surprise and scare their audience. 
 
 #### Don't forget about gorillas
-
-For this reason, unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. In popular science, one of the experiments confirming this phenomena is called the **invisible gorilla effect** created by Daniel Simons and Christopher Chabris. Without spoiling too much, watch this video to see what it's about. 
+For this reason, unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. We call this inattentional blindness but you might have encountered it in popular scienc as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, watch this video to see what it's about. 
 
 #### Color-coded attention
 To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise, so does multiplayer games such as Halo and your selective attention to the color of your opponent's uniforms.
