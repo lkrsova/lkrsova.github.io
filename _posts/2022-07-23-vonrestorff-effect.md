@@ -34,12 +34,17 @@ A couple of well-known biases are featured in the picture below from a study by 
 *Well-known visual saliency biases, taken from Levia et al. (2020)*
 
 ##### Why is this happening?
-Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for. This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why good horror movies or video games set up expectations and break them at the right moment to surprise and scare its audience. To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise.
+Despite people often realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective to avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
 
-In popular science, one of the experiments confirming this phenomena is something called the invisible gorilla effect. 
+This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why good horror movies or video games set up (visual) expectations and break them at the right moment to surprise and scare their audience. 
 
- 
-For this reason, unexpected or odd objects might go unseen even if you're looking right at them. 
+#### Don't forget about gorillas
+
+For this reason, unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. In popular science, one of the experiments confirming this phenomena is called the **invisible gorilla effect** created by Daniel Simons and Christopher Chabris. Without spoiling too much, watch this video to see what it's about. 
+
+#### Color-coded attention
+To some extent, the famous scene from The Matrix with the Lady in Red works on the same premise, so does multiplayer games such as Halo and your selective attention to the color of your opponent's uniforms.
+ For this reason, unexpected or odd objects might go unseen even if you're looking right at them. 
 
 That's why jump scares in movies and video games work so well whet it builds expectations but break the rules of what is going to happen. The same goes for flickering lights in the distance when suddenly out of nowhere something jumps out in the proximity of a player. The same is with color coding enemies in a particular color. In Multiplayer games this is how you don't usually shoot at your own people, because opponent's color is in your attentional set and your brain is actively looking for it, filtering other colors out. 
 
@@ -75,17 +80,14 @@ God Rays
 
 #### Yellow signifiers
 
-#### Don't forget about gorillas
 
-Invisible gorilla effect
+
 
 Many action-driven games such as Tomb Raider, Uncharted or The Last of Us use yellow or its shades to communicate to player about affordances of objects around them, their climbability or 
 
 Attention-grabbing: Since yellow is the most visible color, it is also the most attention-getting color. Yellow can be used in a small amount to draw notice, such as on traffic signs or advertisements.
 
 There's an insider joke running around the community of level designers pointing out the glaring 
-
-
 
 Hue, saturation, and value can all be used to call attention to areas or objects within an interface, and de-emphasize others.
 Size. Object size and proportion to surrounding elements creates visual hierarchy, both in interactive elements like buttons, but also within informative elements like text.
@@ -97,5 +99,4 @@ How are these represent in video games? Let's have a look:
 
 ![](/images/posts/visual6.jpg)
 
-In just recently published game Stray [Annapurna Interactive], you navigate a cyberpunk-looking city as a cat. Without any map or previous knowledge about the place level designers used as many techniques to get a player from point A to point B in a way that's just cognitively challenging enough to play this game as a relaxing no-brainer after a tough day at work. What's the technique and why does it work in Stray so well? Let's dive into it.
-
+https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667
