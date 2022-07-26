@@ -37,7 +37,7 @@ Despite people realizing, human brain lacks one important quality -- it doesn't 
 This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and when to break them to surprise and scare their audience to the maximum. 
 
 ##### Don't forget about gorillas
-This focus on something that we expect also allows for the opposite results. Unexpected or odd objecst that are out of context or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until looking for examples for this article, I didn't have a clue about and never noticed all the twins in the Woman in Red scene in The Matrix. Did you?
+This focus on something that we expect also allows for the opposite results. Unexpected or odd objects that are out of context or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until searching for examples for this article, I didn't have a clue about and never noticed all the twins in the [Woman in Red scene in The Matrix](https://www.youtube.com/watch?v=IJrjcHx9nDA). Did you?
 
 ![](/images/linr.jpg)
 
