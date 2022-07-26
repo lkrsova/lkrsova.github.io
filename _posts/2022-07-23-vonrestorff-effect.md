@@ -48,7 +48,7 @@ This phenomena is called "inattentional blindness". You might have encountered i
 #### Isolation can be good
 Additionally, how human perception notices objects that are in its purview also depends on how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
-#### Application in video games
+### Application in video games
 Let's put it all together before we talk about specific examples from video games and how color elevates some of the aforementioned phenomena and biases. 
 
 * Human brains are selective in what they look for
