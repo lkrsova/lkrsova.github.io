@@ -70,7 +70,7 @@ Yellow (or white) is used in modern games as a color code for conveying the func
 
 ![](/images/uncharted.jpg)
 
-Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set. In the case of Horizon Zero Dawn, designers also used yellow for theri UI, further supporting the sensitivity towards yellow.
+Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set. In the case of Horizon Zero Dawn, designers also used yellow for their game UI, further supporting the player's sensitivity towards yellow.
 
 ![](/images/hzd.jpg)
 
