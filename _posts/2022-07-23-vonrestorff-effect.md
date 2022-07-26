@@ -70,7 +70,9 @@ I already mentioned some examples from Stray, let's look at some more.
 
 *Description*
 
-Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
+![](/images/posts/visual6.jpg)
+
+ 
 
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who do, so...  ¯\_(ツ)_/¯
