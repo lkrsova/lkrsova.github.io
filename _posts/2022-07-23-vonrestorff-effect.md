@@ -15,7 +15,7 @@ One thing that immediately struck me about *Stray* is how effectively their desi
 
 Right at the beginning, when you land on all four from an unexpected fall, you find yourself in a dark, dimly lit gutter. The only thing you see is both real and proverbial light in the distance, signaling where you need to be headed next. As you ponder about your next steps, a cutscene interrupts your contemplation and a blinking orange light appears over the door, which abruptly opens and shows you the way out.
 
-This is just one of the cases where level design of Stray uses color coding and light to navigate its players on an intended path. Below is a couple of examples of what I mean -- notice neon signs, lit spaces, and other ways that rely on a cognitive bias called **perceptual salience**.
+But that's just one of the cases where level design of Stray uses color coding and light to navigate its players on an intended path. Below is a couple of examples of what I mean -- notice neon signs, lit spaces, and other ways that rely on a cognitive bias called **perceptual salience**.
 
 ![](/images/posts/visual5.jpg)
 
@@ -37,13 +37,13 @@ Despite people often realizing, human brain lacks one important quality -- it do
 This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and when to break them to surprise and scare their audience to the maximum. 
 
 ##### Don't forget about gorillas
-This focus on something that we expect also allows for the opposite results. Unexpected or odd objecst that are out of the context of the place or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until looking for examples for this article, I didn't have a clue about all the twins in the Woman in Red scene in The Matrix. Did you?
+This focus on something that we expect also allows for the opposite results. Unexpected or odd objecst that are out of context or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until looking for examples for this article, I didn't have a clue about and never noticed all the twins in the Woman in Red scene in The Matrix. Did you?
 
 ![](/images/linr.jpg)
 
-*Wachowskis purposefully casted this scene with identical twins. Have you ever noticed them?*
+*Wachowskis purposefully casted this sequence with identical twins. Have you ever noticed them?*
 
-This phenomena is called "inattentional blindness". You might have encountered it in popular science as an experiment called the **invisible gorilla effect**, created by psychologists Daniel Simons and Christopher Chabris. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo).
+This phenomena is called "inattentional blindness". You might have encountered it in popular science as an experiment called the **invisible gorilla effect**. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo). The experiment was created and [described in a book](https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667) by psychologists Daniel Simons and Christopher Chabris. 
 
 Additionally, how human perception notices objects that are in its purview also depends on a how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
