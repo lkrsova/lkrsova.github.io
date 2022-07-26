@@ -51,18 +51,24 @@ Additionally, how human perception notices objects that are in its purview also 
 Let's put it all together before we talk about specific examples from video games and how color elevates some of the aforementioned phenomena and biases. 
 
 * Human brains are selective in what they look for
+* If something stands out due to its size, color or shape human perception will focus on it voluntarily
 * Once a thing enters attentional set, human brain will expect and subconciously search for it
-* If something stands out due to its size, color or shape human perception will focus on it voluntarily.
-* At the same time, odd objects or those you don't look for might stay unseen.
+* At the same time, odd objects or those you don't look for might stay unseen
 
 Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
 
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who would, so...
 
-Yellow color (or white) is a color coding in modern video games usually used for conveying the functionality of an element. Oftentimes, based on the example fro mgames such as Uncharted, Tomb Raider or Horizon Zero Dawn, yellow signifiers are elements that are climbable or help a player with traversing a level.
+Yellow color (or white) is a color coding in modern video games usually used for conveying the functionality of an element. Oftentimes, based on the example from games such as [Uncharted], [Tomb Raider], [The Last of Us], or [Horizon Zero Dawn], yellow signifiers are elements that are climbable or help a player with traversing a level.
 
-We see this type of color coding all the time in video games, though there are no officially established rules about the chosen colors. Usually, yellow and white are not present in the color palette of video games, and therefore it's easier to look for them. On top of that, yellow specifically is rather harsh for the eyes to encounter constantly and it models the real world scenarios where yellow is used for example on warning signs.
+![](/images/tombraider.jpg)
+
+![](/images/tombraiderclimb.jpg)
+
+We see this type of color coding all the time in video games, though there are no officially established rules about the chosen colors. Usually, yellow and white are not present in the color palette of video games, and therefore it's easier to look for them. On top of that, yellow is a naturally attention-grabbing color. It is usually the most visible. In small amount draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
+
+As attentional set tells us,
 
 Once you’ve been trained to be on the lookout for yellow doors, you’ll start to notice anything that’s yellow because your mind is latching on to a certain heuristic to help govern what visual information is ignored and what is processed.
 
@@ -70,39 +76,16 @@ If you’re a game designer and want to put a little sparkle or shine effect on 
 
 On the flipside, if you want to keep some secret area from being too easily discovered, use different colors and unexpected shapes.
 
-On the opposite side, when something blends in the -- players are more likely to look right at unexpected objects or environmental features without seeing them.
-
-Navigating with color, size, position 
-
-Color coding
-
-In most games you find things like climbable surfaces are all highlighted using a coloured texture which not only indicates that they can be climbed but it also highlights the path that the player should climb. Rime, God of War, Tomb Raider and Uncharted all do this to help guide the player forwards. 
-
 Lighting
 
 God Rays
-
-### Examples from video games
-
-
-
-
 
 
 Many action-driven games such as Tomb Raider, Uncharted or The Last of Us use yellow or its shades to communicate to player about affordances of objects around them, their climbability or 
 
 Attention-grabbing: Since yellow is the most visible color, it is also the most attention-getting color. Yellow can be used in a small amount to draw notice, such as on traffic signs or advertisements.
 
-There's an insider joke running around the community of level designers pointing out the glaring 
-
-Hue, saturation, and value can all be used to call attention to areas or objects within an interface, and de-emphasize others.
-Size. Object size and proportion to surrounding elements creates visual hierarchy, both in interactive elements like buttons, but also within informative elements like text.
-Position. An object's orientation or spatial arrangement in relation to the surrounding objects creates differentiation to invite action.
-
-How are these represent in video games? Let's have a look:
 
 ![](/images/posts/visual4.jpg)
 
 ![](/images/posts/visual6.jpg)
-
-https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667
