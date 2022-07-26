@@ -91,4 +91,4 @@ Let's wrap it all together into a couple of important takes helpful for building
 * Color coding works as long as it's consistent
 * If you're cognizant of the aforementioned biases, you can both show and hide things from players at the same time
 
-Have fun! L.
+By the way, now that you are aware of these rules your mind will subconciously latch onto them and you will notice all these things way more. You're welcome! L.
