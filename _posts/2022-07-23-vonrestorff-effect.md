@@ -52,7 +52,7 @@ Let's put it all together before we talk about specific examples from video game
 
 * Human brains are selective in what they look for
 * Once a thing enters attentional set, human brain will expect and subconciously search for it
-* If something stands out due to its size, color, shape or spacing human perception will focus on it voluntarily.
+* If something stands out due to its size, color or shape human perception will focus on it voluntarily.
 * At the same time, odd objects or those you don't look for might stay unseen.
 
 Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
