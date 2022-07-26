@@ -32,7 +32,7 @@ A couple of well-known biases are featured in the picture below, taken from a st
 ![](/images/visual-saliency.png)
 
 ##### Why is this happening?
-Despite people realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective so it avoids overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
+Despite people realizing, human brain lacks one important quality -- it doesn't possess the horsepower to process everything at once. Human brain is highly selective so it can avoid overloading itself. Take your field of vision. In order to conserve energy your brain automatically filters out things that don't match what you're searching for.
 
 This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and when to break them to surprise and scare their audience to the maximum. 
 
