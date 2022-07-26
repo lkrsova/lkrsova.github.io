@@ -36,8 +36,8 @@ Despite people realizing, human brain lacks one important quality -- it doesn't 
 
 This phenomena is called **attentional set**, and is formed when a subject learns that a set of rules can be applied to complex stimuli to differentiate relevant from irrelevant cues [Heisler et al., 2015]. This is the very reason why really good horror movies or video games know how to set up expectations and when to break them to surprise and scare their audience to the maximum. 
 
-##### Don't forget about gorillas
-This focus on something that we expect also allows for the opposite results. Unexpected or odd objects that are out of context or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until searching for examples for this article, I didn't have a clue about and never noticed all the twins in the [Woman in Red scene in The Matrix](https://www.youtube.com/watch?v=IJrjcHx9nDA). Did you?
+#### Invisible gorillas
+This focus on something that we expect also allows for exploiting for the opposite results. Unexpected or odd objects that are out of context or are not within the attentional set, will fall through and might go unseen even if you're looking right at them. Truthfully, until searching for examples for this article, I didn't have a clue about and never noticed all the twins in the [Woman in Red scene in The Matrix](https://www.youtube.com/watch?v=IJrjcHx9nDA). Did you?
 
 ![](/images/linr.jpg)
 
@@ -45,7 +45,7 @@ This focus on something that we expect also allows for the opposite results. Une
 
 This phenomena is called "inattentional blindness". You might have encountered it in popular science as an experiment called the **invisible gorilla effect**. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo). The experiment was created and [described in a book](https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667) by psychologists Daniel Simons and Christopher Chabris. 
 
-Additionally, how human perception notices objects that are in its purview also depends on a how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
+Additionally, how human perception notices objects that are in its purview also depends on how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
 #### Color-coded attention
 To this point, I've discussed perceptual salience in general. Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
