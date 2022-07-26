@@ -53,15 +53,15 @@ I already mentioned some examples from Stray, let's look at some more now with k
 
 ![](/images/posts/visual6.jpg)
 
-*Description*
+*I don't think this one needs too much explanation. Though, if the white arrow wasn't enough or you were not looking at the TV from this specific angle, there's a light behind the door luring you in.*
 
 ![](/images/posts/straysign.jpg)
 
-*I don't think this one needs too much explanation. Though, if the white arrow wasn't enough, there's a light behind the door luring you in.*
+*At first look, this might be a little bit cluttered scene, some players might want to figure out their way up but both light on the right illuminating the robot, and the orange color attract and show the player where to go.*
 
 ![](/images/posts/visual4.jpg)
 
-*This one confused me a bit at first. My eyes were naturally drawn to the blue intercoms on the right. Only after examining them it struck me that the godrays *
+*This one confused me a bit at first. My eyes were naturally drawn to the blue intercoms on the right. Only after examining them it struck me that the godrays.*
 
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who do, so...  ¯\_(ツ)_/¯
