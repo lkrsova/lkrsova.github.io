@@ -77,15 +77,15 @@ I already mentioned some examples from Stray, let's look at some more.
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who do, so...  ¯\_(ツ)_/¯
 
-Yellow (or white) is used in modern games as a color code for conveying the functionality of an element. If you're familiar with affordances this one is a cognitive one. Oftentimes, based on the example from games such as [Uncharted](https://en.wikipedia.org/wiki/Uncharted), [Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider), [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us), or [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn), yellow signifiers are elements that are climbable or help a player with traversing a level.
-
-![](/images/hzd.jpg)
+Yellow (or white) is used in modern games as a color code for conveying the functionality of an element. Oftentimes, based on the example from games such as [Uncharted](https://en.wikipedia.org/wiki/Uncharted), [Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider), [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us), or [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn), yellow signifiers are elements that are climbable or help a player with traversing a level. If you're familiar with affordances this one is a cognitive signifier. 
 
 ![](/images/uncharted.jpg)
 
-Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set.
+Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set. In the case of Horizon Zero Dawn, designers also used yellow for theri UI, further supporting the sensitivity towards yellow.
 
-We see this type of color coding all the time in video games, though there are no officially established rules about yellow or white being the best color for signifiers. However, yellow and white have some benefits from other colors -- both are usually not present in the color palette of video games, and therefore it's easier to look for them. Yellow is also naturally attention-grabbing color and is the most visible. In small amount yellow draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
+![](/images/hzd.jpg)
+
+We see this type of color coding all the time in video games, though there are no officially established rules about yellow or white being the best color for signifiers. However, yellow and white have some benefits -- both are usually not present in the color palette of video games, and therefore it's easier to look for them. Yellow is also naturally attention-grabbing color and is the most visible. In small amount yellow draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
 #### God Rays
 A very special (and my favorite) type of, in this case, using light t onavigate player are so called **god rays**. In nature, god rays are sunbeams that appear when sun is just below the horizon, and the contrast between light and dark is very distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches to lit something of importance. [Ronny Josch](https://ronnyjosch.com/level-design-analysis/) explains them and their usage in level design way better than I do in the infographic below:
