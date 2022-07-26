@@ -62,10 +62,6 @@ There's a running joke among level designers about anything colored yellow in re
 
 Yellow color (or white) is a color coding in modern video games usually used for conveying the functionality of an element. Oftentimes, based on the example from games such as [Uncharted], [Tomb Raider], [The Last of Us], or [Horizon Zero Dawn], yellow signifiers are elements that are climbable or help a player with traversing a level.
 
-![](/images/tombraider.jpg)
-
-![](/images/tombraiderclimb.jpg)
-
 ![](/images/horizonyelllow.jpg)
 
 ![](/images/hzd.jpg)
