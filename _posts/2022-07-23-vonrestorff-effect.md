@@ -51,17 +51,17 @@ Additionally, how human perception notices objects that are in its purview also 
 ### Application in video games
 I already mentioned some examples from Stray, let's look at some more now with knowing the science behind it.
 
-![](/images/posts/visual4.jpg)
-
-*Description*
-
 ![](/images/posts/visual6.jpg)
 
 *Description*
 
 ![](/images/posts/straysign.jpg)
 
-*Description*
+*I don't think this one needs too much explanation. Though, if the white arrow wasn't enough, there's a light behind the door luring you in.*
+
+![](/images/posts/visual4.jpg)
+
+*This one confused me a bit at first. My eyes were naturally drawn to the blue intercoms on the right. Only after examining them it struck me that the godrays *
 
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who do, so...  ¯\_(ツ)_/¯
@@ -76,12 +76,7 @@ Once you’ve been trained to be on the lookout for yellow signifiers you’ll s
 
 We see this type of color coding all the time in video games, though there are no officially established rules about yellow or white being the best color for signifiers. However, yellow and white have some benefits -- both are usually not present in the color palette of video games, and therefore it's easier to look for them. Yellow is also naturally attention-grabbing color and is the most visible. In small amount yellow draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
-#### God Rays
-A very special (and my favorite) type of, in this case, using light t onavigate player are so called **god rays**. In nature, god rays are sunbeams that appear when sun is just below the horizon, and the contrast between light and dark is very distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches to lit something of importance. [Ronny Josch](https://ronnyjosch.com/level-design-analysis/) explains them and their usage in level design way better than I do in the infographic below:
-
-![](/images/godraysrosch.jpg)
-
-####
+#### Summary
 Let's wrap it all together into a couple of important takes helpful for building levels. 
 
 * Human brains are selective in what they look for
