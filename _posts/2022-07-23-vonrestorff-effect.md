@@ -66,24 +66,15 @@ Yellow color (or white) is a color coding in modern video games usually used for
 
 ![](/images/uncharted.jpg)
 
+Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set.
+
 We see this type of color coding all the time in video games, though there are no officially established rules about the chosen colors. Usually, yellow and white are not present in the color palette of video games, and therefore it's easier to look for them. On top of that, yellow is a naturally attention-grabbing color. It is usually the most visible. In small amount draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
-As attentional set tells us,
+#### God Rays
+A very special (and my favorite) type of perceptual salience are so called god rays. In nature, god rays are sunbeams that appear when sun is just below the horizon and the contrast between light and dark is distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches. John Rosch explains them way better than I do in the infographic below:
 
-Once you’ve been trained to be on the lookout for yellow doors, you’ll start to notice anything that’s yellow because your mind is latching on to a certain heuristic to help govern what visual information is ignored and what is processed.
+![](/images/godraysrosch.jpg)
 
-If you’re a game designer and want to put a little sparkle or shine effect on a health or ammo kit to make it noticeable, the choice of color matters. Consistency between this color and the color used to offer navigation cues will help players notice both.
-
-On the flipside, if you want to keep some secret area from being too easily discovered, use different colors and unexpected shapes.
-
-Lighting
-
-God Rays
-
-
-Many action-driven games such as Tomb Raider, Uncharted or The Last of Us use yellow or its shades to communicate to player about affordances of objects around them, their climbability or 
-
-Attention-grabbing: Since yellow is the most visible color, it is also the most attention-getting color. Yellow can be used in a small amount to draw notice, such as on traffic signs or advertisements.
 
 
 ![](/images/posts/visual4.jpg)
