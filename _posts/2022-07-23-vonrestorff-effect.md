@@ -58,7 +58,7 @@ Let's put it all together before we talk about specific examples from video game
 
 I already mentioned some examples from Stray, let's look at some more.
 
-![](/images/straysign.jpg)
+![](/images/posts/stray-sign2.jpg)
 
 *Description*
 
@@ -70,9 +70,9 @@ I already mentioned some examples from Stray, let's look at some more.
 
 *Description*
 
-![](/images/posts/visual6.jpg)
+![](/images/posts/straysign.jpg)
 
- 
+*Description*
 
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who do, so...  ¯\_(ツ)_/¯
