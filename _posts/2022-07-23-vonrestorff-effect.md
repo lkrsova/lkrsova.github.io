@@ -60,7 +60,7 @@ Now let's see what role does the color play in all of it and how it's applied in
 #### Yellow signifiers
 There's a running joke among level designers about anything colored yellow in real life being a sign of a good level design. Ok, maybe it's not a joke that every single level designer tells but I know a couple who would, so...
 
-Yellow color (or white) is a color coding in modern video games usually used for conveying the functionality of an element. Oftentimes, based on the example from games such as [Uncharted], [Tomb Raider], [The Last of Us], or [Horizon Zero Dawn], yellow signifiers are elements that are climbable or help a player with traversing a level.
+Yellow color (or white) is a color coding in modern video games usually used for conveying the functionality of an element. Oftentimes, based on the example from games such as [Uncharted](https://en.wikipedia.org/wiki/Uncharted), [Tomb Raider](https://en.wikipedia.org/wiki/Rise_of_the_Tomb_Raider), [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us), or [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn), yellow signifiers are elements that are climbable or help a player with traversing a level.
 
 ![](/images/horizonyelllow.jpg)
 
