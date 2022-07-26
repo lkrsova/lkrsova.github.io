@@ -70,19 +70,19 @@ Yellow (or white) is used in modern games as a color code for conveying the func
 
 ![](/images/uncharted.jpg)
 
-Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow because your mind is looking for it because it's in your attentional set. In the case of Horizon Zero Dawn, designers also used yellow for their game UI, further supporting the player's sensitivity towards yellow.
+**Once you’ve been trained to be on the lookout for yellow signifiers you’ll start to notice anything that’s yellow**. Your mind is looking for it because it's been placed in your attentional set. In the case of Horizon Zero Dawn, designers also used yellow for their game UI, further supporting the player's sensitivity towards yellow.
 
 ![](/images/hzd.jpg)
 
-We see this type of color coding all the time in video games, though there are no officially established rules about yellow or white being the best color for signifiers. However, yellow and white have some benefits -- both are usually not present in the color palette of video games, and therefore it's easier to look for them. Yellow is also naturally attention-grabbing color and is the most visible. In small amount yellow draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
+We see this type of color coding all the time in video games, though there are no officially established rules about yellow or white being the best color for signifiers. However, **yellow and white have some benefits** -- both are usually not present in the color palette of video games, and therefore it's easier to look for them. Yellow is also naturally attention-grabbing color and is the most visible. In small amount yellow draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
 #### God Rays
-A very special (and my favorite) type of, in this case, using light to navigate player are so called **god rays**. In nature, god rays are sunbeams that appear when sun is just below the horizon, and the contrast between light and dark is very distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches to lit something of importance. Ronny Josch explains them and their usage in level design way better than I do in the infographic below:
+A very special (and my favorite) type of, in this case, **using light to navigate player are so called god rays**. In nature, god rays are sunbeams that appear when sun is just below the horizon, and the contrast between light and dark is very distinctive. In video games, god rays appear often in caves or darker forests **when light peaks through crevaces and branches to lit something of importance**. [Ronny Josch](https://ronnyjosch.com/level-design-analysis/) explains them and their usage in level design way better than I do in the infographic below:
 
 ![](/images/godraysrosch.jpg)
 
 ### Summary & takeouts
-Let's wrap it all together into a couple of important takes helpful for building levels. 
+The above mentioned were just a couple of examples of perceptual salience biases in video games. Would you come up with your own examples? I bet you would. So, let's wrap it all together into a couple of important takes helpful for building levels. 
 
 * Human brains are selective in what they look for
 * If something stands out due to its size, color or shape human perception will focus on it voluntarily
