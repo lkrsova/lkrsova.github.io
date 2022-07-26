@@ -15,7 +15,7 @@ One thing that immediately struck me about *Stray* is how effectively their desi
 
 Right at the beginning, when you land on all four from an unexpected fall, you find yourself in a dark, dimly lit gutter. The only thing you see is both real and proverbial light in the distance, signaling where you need to be headed next. As you ponder about your next steps, a cutscene interrupts your contemplation and a blinking orange light appears over the door, which abruptly opens and shows you the way out.
 
-But that's just one of the cases where level design of Stray uses color coding and light to navigate its players on an intended path. Below is a couple of examples of what I mean -- notice neon signs, lit spaces, and other ways that rely on a cognitive bias called **perceptual salience**.
+But that's just one of the cases where level design of Stray uses color coding and light to navigate its players on an intended path. Below is a couple of examples of what I mean -- notice neon signs, lit spaces, and other ways that aid the player in navigation and rely on a cognitive bias called **perceptual salience**.
 
 ![](/images/posts/visual5.jpg)
 
