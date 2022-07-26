@@ -49,18 +49,7 @@ This phenomena is called "inattentional blindness". You might have encountered i
 Additionally, how human perception notices objects that are in its purview also depends on how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
 ### Application in video games
-Let's put it all together before we talk about specific examples from video games and how color elevates some of the aforementioned phenomena and biases. 
-
-* Human brains are selective in what they look for
-* If something stands out due to its size, color or shape human perception will focus on it voluntarily
-* Once a thing enters attentional set, human brain will expect and subconciously search for it
-* At the same time, odd objects or those you don't look for might stay unseen
-
-I already mentioned some examples from Stray, let's look at some more.
-
-![](/images/posts/stray-sign2.jpg)
-
-*Description*
+I already mentioned some examples from Stray, let's look at some more now with knowing the science behind it.
 
 ![](/images/posts/visual4.jpg)
 
@@ -91,3 +80,15 @@ We see this type of color coding all the time in video games, though there are n
 A very special (and my favorite) type of, in this case, using light t onavigate player are so called **god rays**. In nature, god rays are sunbeams that appear when sun is just below the horizon, and the contrast between light and dark is very distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches to lit something of importance. [Ronny Josch](https://ronnyjosch.com/level-design-analysis/) explains them and their usage in level design way better than I do in the infographic below:
 
 ![](/images/godraysrosch.jpg)
+
+####
+Let's wrap it all together into a couple of important takes helpful for building levels. 
+
+* Human brains are selective in what they look for
+* If something stands out due to its size, color or shape human perception will focus on it voluntarily
+* Once a thing enters attentional set, human brain will expect and subconciously search for it
+* At the same time, odd objects or those you don't look for might stay unseen
+* Color coding works as long as it's consistent
+* If you're cognizant of the aforementioned biases, you can both show and hide things from players at the same time
+
+Have fun! L.
