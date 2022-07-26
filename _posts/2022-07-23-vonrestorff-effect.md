@@ -92,3 +92,8 @@ The above mentioned were just a couple of examples of perceptual salience biases
 * If you're cognizant of the aforementioned biases, you can both show and hide things from players at the same time
 
 By the way, now that you are aware of these rules your mind will subconciously latch onto them and you will notice all these things way more. You're welcome! L.
+
+#### Sources
+* https://www.psychologyofgames.com/2013/09/why-do-color-coded-clues-in-level-design-work/
+* https://ronnyjosch.com/level-design-analysis/
+* http://ixd.prattsi.org/2019/02/design-critique-uncharted-4-traversal/
