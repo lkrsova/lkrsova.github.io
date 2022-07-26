@@ -57,7 +57,7 @@ I already mentioned some examples from Stray, let's look at some more now with k
 
 ![](/images/posts/straysign.jpg)
 
-*At first look, this might be a little bit cluttered scene, some players might want to figure out their way up but both light on the right illuminating the robot, and the orange color attract and show the player where to go.*
+*At first look, this might be a little bit cluttered scene, some players might want to figure out their way up but both light on the right illuminating the robot and the orange color attract and show the player where to go.*
 
 ![](/images/posts/visual4.jpg)
 
