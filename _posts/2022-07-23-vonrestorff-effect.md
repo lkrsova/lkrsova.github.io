@@ -66,8 +66,6 @@ Yellow color (or white) is a color coding in modern video games usually used for
 
 ![](/images/tombraiderclimb.jpg)
 
-![](/images/horizonyel.jpg)
-
 ![](/images/horizonyelllow.jpg)
 
 ![](/images/hzd.jpg)
