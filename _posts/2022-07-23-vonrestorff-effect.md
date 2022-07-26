@@ -66,6 +66,14 @@ Yellow color (or white) is a color coding in modern video games usually used for
 
 ![](/images/tombraiderclimb.jpg)
 
+![](/images/horizonyel.jpg)
+
+![](/images/horizonyelllow.jpg)
+
+![](/images/hzd.jpg)
+
+![](/images/uncharted.jpg)
+
 We see this type of color coding all the time in video games, though there are no officially established rules about the chosen colors. Usually, yellow and white are not present in the color palette of video games, and therefore it's easier to look for them. On top of that, yellow is a naturally attention-grabbing color. It is usually the most visible. In small amount draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
 As attentional set tells us,
