@@ -47,14 +47,17 @@ This phenomena is called "inattentional blindness". You might have encountered i
 
 Additionally, how human perception notices objects that are in its purview also depends on how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
-#### Color-coded attention
-To this point, I've discussed perceptual salience in general. Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
-
-changing the meaningfulness or physical nature of the stimulus in some way, such as in size, shape, color, spacing and underlining.
-
 #### Application in video games
+Let's put it all together before we talk about specific examples from video games and how color elevates some of the aforementioned phenomena and biases. 
 
-To some extent, the famous scene with the Lady in Red from The Matrix works on the same premise, so does multiplayer games such as Halo and your selective attention to your opponent's uniforms.
+* Human brains are selective in what they look for
+* Once a thing enters attentional set, human brain will expect and subconciously search for it
+* If something stands out due to its size, color, shape or spacing human perception will focus on it voluntarily.
+* At the same time, odd objects or those you don't look for might stay unseen.
+
+Now let's see what role does the color play in all of it and how it's applied in video games specifically. 
+
+
 
 We see color coding all the time in video games, often to aid us in navigation.
 
