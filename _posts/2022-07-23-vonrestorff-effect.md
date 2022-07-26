@@ -71,7 +71,7 @@ Once you’ve been trained to be on the lookout for yellow signifiers you’ll s
 We see this type of color coding all the time in video games, though there are no officially established rules about the chosen colors. Usually, yellow and white are not present in the color palette of video games, and therefore it's easier to look for them. On top of that, yellow is a naturally attention-grabbing color. It is usually the most visible. In small amount draws notice to itself, also because it models the real world scenarios where yellow is used for example on warning signs.
 
 #### God Rays
-A very special (and my favorite) type of perceptual salience are so called god rays. In nature, god rays are sunbeams that appear when sun is just below the horizon and the contrast between light and dark is distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches. John Rosch explains them way better than I do in the infographic below:
+A very special (and my favorite) type of perceptual salience are so called god rays. In nature, god rays are sunbeams that appear when sun is just below the horizon and the contrast between light and dark is distinctive. In video games, god rays appear often in caves or darker forests when the light peaks through crevaces and branches. [Ronny Josch](https://ronnyjosch.com/level-design-analysis/) explains them and their usage in level design way better than I do in the infographic below:
 
 ![](/images/godraysrosch.jpg)
 
