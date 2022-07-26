@@ -45,6 +45,7 @@ This focus on something that we expect also allows for exploiting for the opposi
 
 This phenomena is called "inattentional blindness". You might have encountered it in popular science as an experiment called the **invisible gorilla effect**. Without spoiling too much, [watch this video to see what it's about](https://www.youtube.com/watch?v=vJG698U2Mvo). The experiment was created and [described in a book](https://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667) by psychologists Daniel Simons and Christopher Chabris. 
 
+#### Isolation can be good
 Additionally, how human perception notices objects that are in its purview also depends on how the object's meaningfulness or physical nature is changed in size, shape, color or spacing. According to **Von Restorff effect** or **isolation paradigm**, the stimuli that stands out from the homogenous rest in a distinctive way are easily learned and remembered. For all the nerds out there, Hedwig Von Restorff was a German physician, who coined this term in 1933 based on her own observations and principles stemming from gestalt psychology.
 
 #### Application in video games
