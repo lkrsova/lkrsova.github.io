@@ -4,7 +4,7 @@ subtitle: A game designer at Warhorse Studios and information science PhD candid
 featured_image: /images/me-leni.jpg
 ---
 
-![](/images/me-leni2.jpg)
+![](/images/itsmeleni.jpg)
 
 ### Game designer by day, academic by night
 Yes. I’ve been always interested in how people make sense of technologies and how their experience is designed, video games included. Studzing it has come naturally.
