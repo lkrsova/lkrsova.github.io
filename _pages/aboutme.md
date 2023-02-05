@@ -7,7 +7,7 @@ featured_image: /images/me-leni.jpg
 ![](/images/me-leni2.jpg)
 
 ### So, you study and design games, huh?
-Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed, video games included. Intrigued by pop cultural phenomena like [https://www.imdb.com/title/tt0088247](The Terminator), [https://www.imdb.com/title/tt0091949](Short Circuit) or [https://www.imdb.com/title/tt0133093](The Matrix), I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is **what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI**, be it an avatar, robot, or NPCs in video games.
+Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed, video games included. Intrigued by pop cultural phenomena like [The Terminator](https://www.imdb.com/title/tt0088247), [Short Circuit](https://www.imdb.com/title/tt0091949) or [The Matrix](https://www.imdb.com/title/tt0133093), I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is **what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI**, be it an avatar, robot, or NPCs in video games.
 
 I focus mainly on understanding **how gamers perceive NPCs in video games**, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their success in gameplay walkthroughs.
 
@@ -18,4 +18,4 @@ Oh, yeah! Though I wouldn't call myself a gamer, I do love playing video games f
 
 I appreciate video games mainly for their interactive affordances and qualities - they allow me to be in charge of a story and co-create what's going to happen to my character. They allow for playful, fun, and impactful experiences. Games also offer me a unique way how to escape mundane things and experience something that would not be otherwise possible. All this while having a huge appreciation for all the hard work put in creating them. 
 
-If you want to check what games I play, follow me in [https://steamcommunity.com/profiles/76561198067795186/](Steam) or catch me occasionally streaming on [https://www.twitch.tv/leeloocz](Twitch).
+If you want to check what games I play, follow me in [Steam](https://steamcommunity.com/profiles/76561198067795186/) or catch me occasionally streaming on [Twitch](https://www.twitch.tv/leeloocz).
