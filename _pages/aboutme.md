@@ -7,7 +7,7 @@ featured_image: /images/ischoolme.jpg
 ![](/images/ilugamesres.png)
 
 ### Game designer by day, academic by night
-Yes. I’ve been always interested in how people make sense of technologies and how their experience is designed, video games included. Studzing it has come naturally.
+Yes. I’ve been always interested in how people make sense of technologies and how their experience is designed, video games included. Studying it has only come naturally.
 
 Intrigued by pop cultural phenomena like [The Terminator](https://www.imdb.com/title/tt0088247), [Short Circuit](https://www.imdb.com/title/tt0091949) or [The Matrix](https://www.imdb.com/title/tt0133093), I've been fascinated by artificial intelligence since I was a little kid. 
 
