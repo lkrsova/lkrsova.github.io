@@ -6,8 +6,7 @@ featured_image: /images/me-leni.jpg
 
 ![](/images/me-leni2.jpg)
 
-### So you say you study and design games, huh?
-
+### So, you study and design games, huh?
 Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed. Intrigued by pop cultural phenomena like Terminator, Short Circuit or The Matrix, I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI, be it an avatar or NPCs in video games.
 
 I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their success in gameplay walkthroughs.
@@ -17,8 +16,7 @@ As a game designer, I am responsible of non-player characters and what they do i
 ### Do you play games, too? Me as a player
 Yup. Though I wouldn't call myself a gamer, I do love playing video games for fun and educative purposes alike. The more games I play the better tools I have to design them. The more tools I have the more I understand what makes their design impactful. 
 
-
-I appreciate video games for their unique interactive qualities - they allow me to be in charge of the story and co-create what's going to happen.  
+I appreciate video games mainly for their interactive affordances and qualities - they allow me to be in charge of the story and co-create what's going to happen to my character. They allow for a play, fun, and impactful experiences. They also offer a unique way how to escape mundane things and experience something that would not be possible. On top of that, I enjoy analyzing their level design. All this while having a huge appreciation for all the hard work put in them. 
 
 Video games are closely connected to my i
 
