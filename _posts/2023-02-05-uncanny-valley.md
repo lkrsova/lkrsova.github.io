@@ -21,6 +21,9 @@ Prosthetic hands, even in the 70s, had achieved a resemblance to the human form 
 
 As the graph shows with it's dashed line, **uncanny valley gets even more prominent with movement**. People are in general so attuned to the natural movements human bodies and their parts make that even the slight differences can throw them into the uncanny valley. In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in *Star Wars Jedi: Fallen Order*), dancing, and more coordinate and complex set of movements. (I want to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!)
 
+![](/images/mocap-kingdomcome.jpg)
+*A still from a mocap session for Kingdom Come: Deliverance at Warhorse Studios*
+
 By the way, uncanny valley is not a new thing. If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). He specifically talked about a fear of automata, which were then heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann and alike.
 
 ### What does research say?
