@@ -1,5 +1,5 @@
 ---
-title: "Uncanny valley: Why do some NPCs creep you out more than others?"
+title: "Uncanny valley: Why do some NPCs creep you out?"
 author: "Leni Krsova"
 categories: 
 featured_image: /images/david-detroit.png
