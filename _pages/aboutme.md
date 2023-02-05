@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Originally from Central Europe, currently residing in Upstate New York. I am an iSchool PhD student in an interdisciplinary field of information science & technology, studying AI in video games.
+subtitle: A game designer at Warhorse Studio and information science PhD candidate on hiatus. Studying AI in video games and how humans interact with non-playable characters.
 featured_image: /images/me-leni.jpg
 ---
 
