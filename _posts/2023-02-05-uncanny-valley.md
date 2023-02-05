@@ -2,7 +2,7 @@
 title: "Why do some NPCs creep you out more than others?"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/visual3.jpg
+featured_image: /images/posts/david-detroit.png
 tags: [video games, NPCs, theory, research, uncanny valley]
 ---
 
