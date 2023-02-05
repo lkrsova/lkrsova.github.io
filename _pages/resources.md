@@ -1,7 +1,7 @@
 ---
 title: Game Design Resources
 subtitle: 
-featured_image: /images/coffee.PNG
+featured_image: /images/coffee.jpg
 ---
 
 _This is not at all a guide on how to break into the game industry_. In the best possible scenario, this post will give you an idea of where to go next and what this discipline entails. I put these resources together because I wish I had something like this when I started my own journey.
