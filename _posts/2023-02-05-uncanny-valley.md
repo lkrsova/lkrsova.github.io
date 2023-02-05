@@ -19,10 +19,7 @@ A good example is a prosthetic hand, which was the original artefact Mori used i
 
 Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. However, once we hit the realization that the hand is actually artificial, we experience an eerie sensation. We can get startled by the unnatural behavior of the hand while shaking it, it’s coldness and boneless structure that doesn’t fit in our mental model of how a human hand should behave while interacting with it.
 
-If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). He talked about a fear of automata,
-What causes it?
-
-That’s a very good question that even reserchers have not been able to crack in a satisfying way. There have been
+If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). He specifically talked about a fear of automata, which were then heavily discussed as a part of cybernetics theory of systems by people such as C. Shannon, John von Neumann and alike.
 
 ### What does research say?
 Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to be living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
