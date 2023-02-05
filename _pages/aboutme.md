@@ -6,13 +6,15 @@ featured_image: /images/me-leni.jpg
 
 ![](/images/me-leni2.jpg)
 
-### So you say you study games, huh?
+### So you say you study and design games, huh?
 
 Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed. Intrigued by pop cultural phenomena like Terminator, Short Circuit or The Matrix, I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as a believable while interacting with an anthropomorphised AI, be it an avatar or NPC in video games.
 
+I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their succesf in gameplay walkthroughs.
+
 As a game designer, my daily bread & butter is to take care of non-player characters and what they do in the world to be the most authentic in a given setting. As a researchers I seek to support my work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
 
-I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their succesf in gameplay walkthroughs.
+### Me as a player
 
 Video games that excites me the most are the ones which put players in the center of their design by creating an immersive experience. Since immersion is closely connected to human-like NPCs and realistic game worlds, that’s also the broader interest of my research.
 
