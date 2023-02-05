@@ -23,8 +23,28 @@ What causes it?
 That’s a very good question that even reserchers have not been able to crack in a satisfying way. There have been
 
 ### What does research say?
-Interestingly enough, there also seems to be a generational divide [1]. As anecdotal as it sounds, two Christmas movies have been dividing family members
-But I heard..
+Different explanations investigated from biological [Moosa et al., 2010], cognitive
+[Polick, 2009], and social [Urgen et al., 2018] roots tried explaining uncanny valley, but its
+origin is not conclusively confirmed. For that reason some researchers contest the existence of
+uncanny valley entirely [Brenton et al., 2005,] or claim that the “valley” is actually a “cliff”
+[Bartneck et al., 2007]. Interestingly enough, there also seems to be a generational divide [1]. As anecdotal as it sounds, two Christmas movies have been dividing family members
+
+One of the approaches that aims to explain what happens when human interact with
+increasingly human-like characters claims that the discomfort comes from the perceptual
+mismatch hypothesis when a mismatch by inconsistent sensory cues (e.g. proportions of face
+features doesn’t match skin texture) [Kätsyri et al., 2015; Polick, 2009].
+On the other hand, theory of mind might offer another explanation [Blakemore & Decety,
+2001]. Research has shown that the most problematic parts causing uncanny valley are
+particularly face and eye-related areas. Humans are tuned in to detect even small changes in
+facial expressions and eye movement and surrounding areas are the facial features used to assess
+other people’s mental states through. When for example a smile doesn’t match human anatomy,
+humans subconsciously assess that there is something off with the person and might feel repulsed
+by them. Then the capacity to understand others through theory of mind can be limited. Research
+also shows that there is an effect between the prior familiarity with a character and uncanny
+valley, where the curve tends to be moderate for those characters previously known by the
+subject [Dill et al., 2012].
+
+### But I've heard..
 
 …that uncanny valley might be an uncanny cliff or might not exist at all, right? You’re correct. Since the phenomena is not fully understood and its occurence might heavily depend on subjectivity of a human, some research questions the existence of it.
 
