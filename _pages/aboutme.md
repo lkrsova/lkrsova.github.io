@@ -1,7 +1,7 @@
 ---
 title: Hello, I'm Leni!
 subtitle: A game designer at Warhorse Studios and information science PhD candidate on hiatus. Studying NPCs in video games, how humans interact with them, and what it all can mean for authenticity in other domains of human lives.
-featured_image: /images/me-leni.jpg
+featured_image: /images/itsmeleni.jpg
 ---
 
 ![](/images/itsmeleni.jpg)
