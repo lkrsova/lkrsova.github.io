@@ -9,7 +9,9 @@ tags: [video games, NPCs, theory, research, uncanny valley]
 Have you ever felt creeped out or even repulsed by a video game character but couldn’t really tell why? It happens when you subconciously hit a so-called **uncanny valley**, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
 
 ### What is uncanny valley?
-You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a valley. This valley is what we know as “uncanny valley” where people tend to get repulsed by the uncanny resemblance with a human.
+You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics, professor Masahiro Mori in the 1970s. His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a "valley" where we feel uncomfortable to look at a thing or entity resembling a person (or its part). This valley is what we know as “uncanny valley” where people tend to get repulsed by the uncanny resemblance with a human.
+
+Professor Mori even provided a graph that covers most types of object holding a human likeness and either missing or fulfillin it:
 
 ![](/images/mori-uncanny.png)
 
