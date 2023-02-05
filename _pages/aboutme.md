@@ -7,7 +7,7 @@ featured_image: /images/me-leni.jpg
 ![](/images/me-leni2.jpg)
 
 ### So, you study and design games, huh?
-Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed. Intrigued by pop cultural phenomena like Terminator, Short Circuit or The Matrix, I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI, be it an avatar or NPCs in video games.
+Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed, video games included. Intrigued by pop cultural phenomena like [https://www.imdb.com/title/tt0088247](The Terminator), [https://www.imdb.com/title/tt0091949](Short Circuit) or [https://www.imdb.com/title/tt0133093](The Matrix), I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI, be it an avatar, robot, or NPCs in video games.
 
 I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their success in gameplay walkthroughs.
 
