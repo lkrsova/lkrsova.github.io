@@ -1,10 +1,9 @@
 ---
 title: Hello, I'm Leni!
 subtitle: A game designer at Warhorse Studios and information science PhD candidate on hiatus. Studying NPCs in video games, how humans interact with them, and what it all can mean for authenticity in other domains of human lives.
-featured_image: /images/ischoolme.jpg
+featured_image: /images/ilugamesres.jpg
 ---
 
-![](/images/itsmelenis.jpg)
 
 ### Game designer by day, academic by night
 Yes. I’ve been always interested in how people make sense of technologies and how their experience is designed, video games included. Studzing it has come naturally.
