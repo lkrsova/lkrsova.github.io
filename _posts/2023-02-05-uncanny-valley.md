@@ -6,7 +6,7 @@ featured_image: /images/david-detroit.png
 tags: [video games, NPCs, theory, research, uncanny valley]
 ---
 
-Have you ever felt creeped out or even repulsed by a video game character but couldn’t really tell why? It happens when you subconciously hit a so-called uncanny valley, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
+Have you ever felt creeped out or even repulsed by a video game character but couldn’t really tell why? It happens when you subconciously hit a so-called **uncanny valley**, a phenomena when humans realize there is something off with the human-like looking entity in front of them.
 
 What is uncanny valley?
 
