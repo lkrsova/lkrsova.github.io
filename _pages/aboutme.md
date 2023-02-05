@@ -6,16 +6,17 @@ featured_image: /images/me-leni.jpg
 
 ![](/images/me-leni2.jpg)
 
-### So, you study and design games, huh?
-Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed, video games included. Intrigued by pop cultural phenomena like [The Terminator](https://www.imdb.com/title/tt0088247), [Short Circuit](https://www.imdb.com/title/tt0091949) or [The Matrix](https://www.imdb.com/title/tt0133093), I've been fascinated by artificial intelligence since I was a little kid. 
+### Game designer and academic, huh?
+Yes. I’ve been always interested in how people make sense of technologies and how their experience is designed, video games included. Intrigued by pop cultural phenomena like [The Terminator](https://www.imdb.com/title/tt0088247), [Short Circuit](https://www.imdb.com/title/tt0091949) or [The Matrix](https://www.imdb.com/title/tt0133093), I've been fascinated by artificial intelligence since I was a little kid. 
 
 What entices me the most is **what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI**, be it an avatar, robot, or NPCs in video games.
 
 I focus mainly on understanding **how gamers perceive NPCs in video games**, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what information sources players use to support their success in gameplay walkthroughs. As a researcher I seek to support my design work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
 
-### Do you play games, too?
-Oh, yeah! Though I wouldn't call myself a gamer, I do love playing video games for fun and educative purposes alike. The more games I play the better tools I have to design them. The more tools I have the more I understand what makes their design impactful. And the more I know what makes game design impactful the better games I can create, as well as make educated guesses to further pursue in my research. Win-win!
+### Why video games?
+Though I wouldn't call myself a gamer, I do love playing video games for fun and educative purposes alike. The more games I play the better tools I have to design them. The more tools I have the more I understand what makes their design impactful. And the more I know what makes game design impactful the better games I can create, as well as make educated guesses to further pursue in my research. Win-win!
 
-Video games also offer me a unique way how to escape mundane things and experience something that would not be otherwise possible. I appreciate video games mainly for their interactive affordances and qualities - they allow me to be in charge of a story and co-create what's going to happen to my character. They allow for playful, fun, and impactful experiences. 
+Video games offer me a unique way how to escape mundane things and experience something that would not be otherwise possible. I appreciate video games mainly for their interactive affordances and qualities - they allow us to be in charge of a story and co-create what's going to happen to us as a fictitious character in a made up world. Games allow for playful, fun, and impactful experiences. As recent research shows, video games can also have an undeniable role in therapy, cognitive training and for educational purposes.
 
+### Find me here: 
 If you want to check what games I play, follow me on [Steam](https://steamcommunity.com/profiles/76561198067795186/) and let's become friends there, or catch me occasionally streaming on [Twitch](https://www.twitch.tv/leeloocz).
