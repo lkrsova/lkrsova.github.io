@@ -25,10 +25,7 @@ If we go even further in the history, the first discussion about uncanny valley 
 Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to be living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
 
 ### What does cause the uncanny valley?
-One of the approaches that aims to explain what happens when human interact with
-increasingly human-like characters claims that the discomfort comes from the *perceptual
-mismatch hypothesis* when a mismatch by inconsistent sensory cues (e.g. proportions of face
-features doesn’t match skin texture).
+One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the *perceptual mismatch hypothesis* when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
 
 On the other hand, *theory of mind* might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. Humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas are the facial features used to assess other people’s mental states through. When for example a smile doesn’t match human anatomy, humans subconsciously assess that there is something off with the person and might feel repulsed by them. Then the capacity to understand others through theory of mind can be limited.
 
