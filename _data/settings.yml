@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'Resources'
-      url: '/' 
+      url: '/resources' 
     - title: 'About me'
       url: '/aboutme'
  #   - title: 'Contact'
