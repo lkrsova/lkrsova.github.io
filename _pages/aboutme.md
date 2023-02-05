@@ -1,6 +1,6 @@
 ---
 title: Hello, I'm Leni!
-subtitle: A game designer at Warhorse Studios and information science PhD candidate on hiatus. Studying NPCs in video games, how humans interact with them, and what it all can mean for authenticitz in other domains of human lives.
+subtitle: A game designer at Warhorse Studios and information science PhD candidate on hiatus. Studying NPCs in video games, how humans interact with them, and what it all can mean for authenticity in other domains of human lives.
 featured_image: /images/me-leni.jpg
 ---
 
@@ -8,15 +8,22 @@ featured_image: /images/me-leni.jpg
 
 ### So you say you study and design games, huh?
 
-Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed. Intrigued by pop cultural phenomena like Terminator, Short Circuit or The Matrix, I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as a believable while interacting with an anthropomorphised AI, be it an avatar or NPC in video games.
+Yes. I’ve been always interested in how people make sense of technologies around them and how their experience is designed. Intrigued by pop cultural phenomena like Terminator, Short Circuit or The Matrix, I've been fascinated by artificial intelligence since I was a little kid. What entices me the most is what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI, be it an avatar or NPCs in video games.
 
-I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their succesf in gameplay walkthroughs.
+I focus mainly on understanding how gamers perceive NPCs in video games, what makes them believable to interact with, and what strategies players develop, for example in the combat, to be succesfu in their gameplay. Since part of my PhD training dwells in the domain of information science, I also pay attention to what sources players use to support their success in gameplay walkthroughs.
 
-As a game designer, my daily bread & butter is to take care of non-player characters and what they do in the world to be the most authentic in a given setting. As a researchers I seek to support my work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
+As a game designer, I am responsible of non-player characters and what they do in the world to be the most authentic in a given setting. As a researcher I seek to support my work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
 
-### Me as a player
+### Do you play games, too? Me as a player
+Yup. Though I wouldn't call myself a gamer, I do love playing video games for fun and educative purposes alike. The more games I play the better tools I have to design them. The more tools I have the more I understand what makes their design impactful. 
 
-Video games that excites me the most are the ones which put players in the center of their design by creating an immersive experience. Since immersion is closely connected to human-like NPCs and realistic game worlds, that’s also the broader interest of my research.
+
+I appreciate video games for their unique interactive qualities - they allow me to be in charge of the story and co-create what's going to happen.  
+
+Video games are closely connected to my i
+
+
+that excites me the most are the ones which put players in the center of their design by creating an immersive experience. Since immersion is closely connected to human-like NPCs and realistic game worlds, that’s also the broader interest of my research.
 
 
 
