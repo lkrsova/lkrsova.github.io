@@ -13,7 +13,7 @@ I focus mainly on understanding how gamers perceive NPCs in video games, what ma
 
 As a game designer, I am responsible of non-player characters and what they do in the world to be the most authentic in a given setting. As a researcher I seek to support my work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
 
-### Do you play games, too? Me as a player
+### Do you play games, too?
 Yup. Though I wouldn't call myself a gamer, I do love playing video games for fun and educative purposes alike. The more games I play the better tools I have to design them. The more tools I have the more I understand what makes their design impactful. 
 
 I appreciate video games mainly for their interactive affordances and qualities - they allow me to be in charge of the story and co-create what's going to happen to my character. They allow for a play, fun, and impactful experiences. They also offer a unique way how to escape mundane things and experience something that would not be possible. On top of that, I enjoy analyzing their level design. All this while having a huge appreciation for all the hard work put in them. 
