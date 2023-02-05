@@ -1,6 +1,6 @@
 ---
-title: About me
-subtitle: A game designer at Warhorse Studio and information science PhD candidate on hiatus. Studying AI in video games and how humans interact with non-playable characters.
+title: Hello, I'm Leni!
+subtitle: A game designer at Warhorse Studios and information science PhD candidate on hiatus. Studying NPCs in video games, how humans interact with them, and what it can mean in believability in other domains.
 featured_image: /images/me-leni.jpg
 ---
 
@@ -8,7 +8,7 @@ featured_image: /images/me-leni.jpg
 
 ### Algorithms, AI & believability of NPCs
 
-I am always interested in how people make sense of technology and how their experience with it is designed. Right now **I focus on AI in video games and how gamers perceive believability of NPCs** in story driven open world games like The Witcher 3: Wild Hunt,
+Right now **I focus on AI in video games and how gamers perceive believability of NPCs** in story driven open world games like The Witcher 3: Wild Hunt,
 
 **I used to work in companies handling personal data harvested from social media platforms including Facebook, Twitter and Instagram.** At some point I wasn’t okay with the unethical dimensions of this type of work and joined the other ("Light") side of research. I moved both physically and mentally from Europe to the USA to follow a path that allows me to ask and work on fun research questions and problems.
 
