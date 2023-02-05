@@ -2,7 +2,7 @@
 title: "Why do some NPCs creep you out more than others?"
 author: "Leni Krsova"
 categories: 
-featured_image: /images/posts/david-detroit.png
+featured_image: /images/david-detroit.png
 tags: [video games, NPCs, theory, research, uncanny valley]
 ---
 
@@ -11,6 +11,8 @@ Have you ever felt creeped out or even repulsed by a video game character but co
 What is uncanny valley?
 
 You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics professor Masahiro Mori in the 1970s. His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a valley. This valley is what we know as “uncanny valley” where people tend to get repulsed by the uncanny resemblance with a human.
+
+![](/images/mori-uncanny.png)
 
 A good example is a prosthetic hand, which was the original artefact Mori used in his example.
 
