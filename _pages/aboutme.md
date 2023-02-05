@@ -11,7 +11,7 @@ Yes. I’ve been always interested in how people make sense of technologies and 
 
 What entices me the most is **what we perceive as "believable" or "authentic" while interacting with an anthropomorphised AI**, be it an avatar, robot, or NPCs in video games. As a researcher I seek to support my design work with recent findings from human-computer interaction, AI in video games, robotics, and game design more broadly.
 
-One of the cases would be understanding **how players perceive NPCs in video games** and what strategies players develop, for example in the combat, to be succesful in their gameplay.
+What does it mean in practice? One of the cases would be understanding **how players perceive NPCs in video games** and what strategies they develop (alone or as a part of a community) to be succesful in their gameplay. This way we can help provide studies to design practitioners, as well as study pattern recognition capabilities, player's maturity, and even detect information sources and social dynamics they use to understand game design.
 
 Since part of my PhD training dwells in the domain of information science, I also pay attention to what information sources players use to support their success in gameplay walkthroughs. 
 
