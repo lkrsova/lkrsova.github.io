@@ -35,25 +35,24 @@ On the other hand, *theory of mind* might offer another explanation. Research ha
 Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject.
 
 ### Why should I care?
-In video games in particular, the demand for bridging the uncanny valley by creating
-highly realistic animations is of the utmost importance because it can hinder player’s immersion.
-Also, to some extent it is the nature of game developers to challenge themselves and increase the
-realism of the game world and characters inhabiting them.
+In video games in particular, the demand for bridging the uncanny valley by creating highly realistic animations is of the utmost importance because it can hinder player’s immersion. Also, to some extent it is the nature of game developers to challenge themselves and increase the realism of the game world and characters inhabiting them.
 
 Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by a myriad of things but when you’re developing a game with realistic human-like looking and behaving characters, this is not the way how you want to loose them.
 
+![](/images/markusdroid.jpg)
+
+*Some video games like Detroit: Become Human by Quantic Dream take advantage of uncanny valley phenomenon and use it to support their characters
+
 ### How do I apply what I just read in the game development?
-One of the ways to bypass this problem is to go through the path of stylization. Some of
-the elements of stylization that have the greatest impact on the attractiveness of characters are
-material properties or figures, the shape of characters determines mainly how realistic they
-appear. Sometimes uncanny valley is even desirable, especially in creation of
-deliberately repulsive characters.
+One of the ways to bypass this problem is to go through the path of stylization. Some of the elements of stylization that have the greatest impact on the attractiveness of characters are material properties or figures, the shape of characters determines mainly how realistic they appear. Sometimes uncanny valley is even desirable, especially in creation of deliberately repulsive characters.
 
 ![](/images/disco-elysium.png)
 
 *Characters from Disco Elysium are a good example how stylization helped make them more believable.*
 
 As humans interact more with software agents, and come to rely on them more, it becomes increasingly important that the systems rely on the same interactional rules that humans do. The goal should not be “to make every interface anthropomorphic but the principles of spatialized interaction and embodied conversational agents might helpfully locate intelligence for users” [Cassell et al., 2000; Cassell, 2001]. Although believability is often named as the primary purpose behind embodying the interface, functions and properly conveyed social cues would appear to be more effective.
+
+
 
 
 Test it and test it early. Especially the animation part will be the trickiest to manage.
