@@ -18,22 +18,26 @@ In his paper, professor Mori provided a graph that covers most types of objects 
 ![](/images/mori-uncanny.png)
 
 #### Prosthetics origin
-The original artefact Mori used was a prosthetic hand. Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. Upon first glance artificial hands covered by a skin colored looking material seems human-like. But once a person hits the realization that the hand is actually artificial, they experience an eerie sensation. First they get startled by the unnatural behavior of the hand while shaking it - it’s coldness and boneless structure that doesn’t fit in the mental model of how a human hand should behave while interacting with it.
+The original artefact Mori used was a prosthetic hand. Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. Upon first glance artificial hands covered by a skin colored looking material seems human-like. But once a person hits the realization that the hand is actually artificial, they experience an eerie sensation. They usually get startled once they shake the hand - the unnatural behavior of the hand, including its coldness and boneless structure that doesn’t fit in the mental model of how a human hand should behave while interacting with it.
 
 ![](/images/figurepaperpoliakoff.png)
 
 *Recent studies [Poliakoff et al., 2018] examined the perception of eeriness of human prosthetic hands to, once again, support or refute Mori's hypothesis.*
 
 #### It gets worse with movement
-As the graph shows, **uncanny valley gets even more prominent with movement**. People are in general so attuned and familiar to the natural flow of movements human bodies and their parts make that even the slightest difference can throw them into the uncanny valley. Just think about all the examples from movies where a the world is hit by a virus and majority of the populace becomes zombie. They either tend to have jerky, jolting and in other way fast uncoordinated movements, or are amost impossibly slow and drag themselves around.
+As the graph shows, **uncanny valley gets even more prominent with movement**. People are in general so attuned and familiar to the natural flow of movements human bodies and their parts make that even the slightest difference can throw them into the uncanny valley.
 
-In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in [*Star Wars Jedi: Fallen Order*](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)) - dancing, and more coordinate and complex set of movements. I would like to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!
+Just think about all the examples from movies where a the world is hit by a virus and majority of the populace becomes zombie. They either tend to have jerky, jolting and in other way spasmic, uncoordinated movements, or are impossibly slow and drag themselves around. All of it seems so unnatural to the human eye we, as the audience, immediately recognize there's something off.
 
-### What does research say?
-Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to be living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
+Excuse this 
 
-### What does cause the uncanny valley?
-One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the *perceptual mismatch hypothesis* when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
+### Research says...
+Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
+
+#### What causes it then?
+To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the *perceptual mismatch hypothesis* when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
+
+
 
 On the other hand, *theory of mind* might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. Humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas are the facial features used to assess other people’s mental states through. When for example a smile doesn’t match human anatomy, humans subconsciously assess that there is something off with the person and might feel repulsed by them. Then the capacity to understand others through theory of mind can be limited.
 
@@ -49,6 +53,9 @@ Players detecting uncanny valley while playing game tend to drop from the state 
 *Some video games like Detroit: Become Human by Quantic Dream take advantage of uncanny valley phenomenon and use it to support their characters*
 
 ### How do I apply what I just read in the game development?
+
+In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in [*Star Wars Jedi: Fallen Order*](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)) - dancing, and more coordinate and complex set of movements. I would like to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!
+
 One of the ways to bypass this problem is to go through the path of stylization. Some of the elements of stylization that have the greatest impact on the attractiveness of characters are material properties or figures, the shape of characters determines mainly how realistic they appear. Sometimes uncanny valley is even desirable, especially in creation of deliberately repulsive characters.
 
 ![](/images/disco-elysium.png)
