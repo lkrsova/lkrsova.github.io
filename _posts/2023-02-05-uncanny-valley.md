@@ -42,32 +42,24 @@ Research also shows that there is an effect between the prior familiarity with a
 
 *Just a couple of examples of uncanny valley from recent (and not so recent) movies.*
 
-#### What causes it then?
+#### Theoretical causes of the uncanny
 To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the [*perceptual mismatch hypothesis*](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00390/full) when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
 
-On the other hand, [*theory of mind*](https://www.verywellmind.com/theory-of-mind-4176826) might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. As the theory of mind explains, humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas. Facial features in general are used to assess other people’s mental states. When for example a smile doesn’t match human anatomy, humans subconsciously assess there is something off with the person and a cautionary signal is sent to the brain. The rest is but a simple biology - if something looks off, it might be potentially dangerous, thus I should avoid it.
+On the other hand, [*theory of mind*](https://www.verywellmind.com/theory-of-mind-4176826) might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. As the theory of mind explains, humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas. Facial features in general are used to assess other people’s mental states. When for example a smile doesn’t match human anatomy, humans subconsciously assess there is something off with the person and a cautionary signal is sent to the brain. The rest is but a simple biology: "if something looks off, it might be potentially dangerous, thus I should avoid it".
 
-### Uncanny in video games
-As humans interact more with software agents, and come to rely on them more, it becomes increasingly important that the systems rely on the same interactional rules that humans do. In video games in particular, the demand for bridging the uncanny valley by creating highly photorealistic characters with human-like animations is of the utmost importance because it can hinder player’s immersion. Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by a myriad of things but when you’re developing a game with realistic human-like looking and behaving characters, this is not the way how you want to loose them.
+### Uncanny versus immersion
+As humans interact more with software agents, and come to rely on them more, it becomes increasingly important that systems like video games rely on the same interactional rules that humans do. Although believability is often named as the primary purpose behind embodying the interface into a human-like character such as NPC, functions and properly conveyed social cues would appear to be more effective.
 
-Also, to some extent it is the nature of game developers to challenge themselves and increase the realism of the game world and characters inhabiting them. 
+In video games in particular, the demand for bridging the uncanny valley (both with looks and movement alike) is of the utmost importance because it can hinder player's immersion and overall experience. Immersion is a complex cognitive state (I'll cover it in a future blogpost) so it might be broken by a myriad of things. However games aiming for photorealistic, human-like looking and behaving characters have higher probability of losing them due to the uncanny valley.
+
 
 ![](/images/markusdroid.jpg)
 
-*Some video games like Detroit: Become Human by Quantic Dream take advantage of the uncanny valley phenomenon and use it to support eeriness of their android characters*
+*Some character design take advantage of the uncanny valley phenomenon and use it to support eeriness of their android characters*
 
-In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in [*Star Wars Jedi: Fallen Order*](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)) - dancing, and more coordinate and complex set of movements. I would like to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!
+One of the ways **to bypass the problem of the uncanny valley phenomen is to go through the path of stylization**. Some of the elements of stylization that have the greatest impact on the attractiveness of characters are material properties or figures, and even the shape of characters determines mainly how realistic they appear (think Smeagol from The Lord of The Rings and his big eyes or the Na'vi clan memebers from The Avatar). Sometimes uncanny valley is even desirable, especially in creation of deliberately repulsive characters or characters who are robots like in [Detroit: Become Human] by Quantic Dream. 
 
-One of the ways to bypass this problem is to go through the path of stylization. Some of the elements of stylization that have the greatest impact on the attractiveness of characters are material properties or figures, the shape of characters determines mainly how realistic they appear. Sometimes uncanny valley is even desirable, especially in creation of deliberately repulsive characters.
+### Before we part our ways
+With the evolution of animation tools and mocap technology, rendering and high-fidelity texturing, light and materials used in video games (and engines like Unreal 5) it is not a surprise there's an increasing demand for photorealistic and believable NPCs and avatars in video games. Also the nature of game developers to challenge themselves and increase the realism of game worlds and characters inhabiting them is propelling the field towards photorealism and unfrotunately a potential entrapment of the uncanny valley.
 
-![](/images/disco-elysium.png)
-
-*Characters from Disco Elysium are a good example how stylization helped make .*
-
- The goal should not be “to make every interface anthropomorphic but the principles of spatialized interaction and embodied conversational agents might helpfully locate intelligence for users” [Cassell et al., 2000; Cassell, 2001]. Although believability is often named as the primary purpose behind embodying the interface, functions and properly conveyed social cues would appear to be more effective.
-
-
-Test it and test it early. Especially the animation part will be the trickiest to manage.
-Cases from video games
-
-Creating, modeling and animating realistic human-like characters is immensely hard! With the progressively better technology, game studios do their best to deliver the best possible NPCs to their players. However, this not always goes according to the plan. Here are some of the examples of uncanny valley creeping out people, and further down you’ll find ones that players agreed upon to be not as creepy.
+Looking at games such as [God of War: Ragnarok], [The Last of Us], [Red Dead Redemption] and others, we can see some game studios manage to jump over it with success, whereas some are left hanging over the valley hoping to cross it soon [Until Dawn], []. I have an uncanny feeling we'll see some awesome things in the future from both.
