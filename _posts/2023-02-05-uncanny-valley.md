@@ -11,7 +11,7 @@ Have you ever felt creeped out or even repulsed by a video game character but co
 ### What is uncanny valley?
 You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics, [professor Masahiro Mori in the 1970s](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6213238). His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a "valley" where we feel uncomfortable to look at a thing or entity resembling a person (or its part). This valley is what we know as “uncanny valley” where people tend to get repulsed by the uncanny resemblance with a human.
 
-Professor Mori even provided a graph that covers most types of objects holding a human likeness and either missing or fulfilling it:
+Professor Mori even provided a graph that covers most types of objects holding a human likeness and either missing or fulfilling it. Over the years it got upgraded with a notion of movement, which deepens the uncanny valley even more:
 
 ![](/images/mori-uncanny.png)
 
@@ -19,13 +19,10 @@ A good example is a prosthetic hand, which was the original artefact Mori used i
 
 Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. However, once we hit the realization that the hand is actually artificial, we experience an eerie sensation. We can get startled by the unnatural behavior of the hand while shaking it, it’s coldness and boneless structure that doesn’t fit in our mental model of how a human hand should behave while interacting with it.
 
-As the graph shows with it's dashed line, **uncanny valley gets even more prominent with movement**. People are in general so attuned to the natural movements human bodies and their parts make that even the slight differences can throw them into the uncanny valley. In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in [*Star Wars Jedi: Fallen Order*](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)), dancing, and more coordinate and complex set of movements. (I want to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!)
-
-![](/images/mocap-kingdomcome.jpg)
-
-*A still from a mocap session for Kingdom Come: Deliverance at Warhorse Studios*
-
 By the way, uncanny valley is not a new thing. If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). He specifically talked about a fear of automata, which were then heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann and alike.
+
+### It gets worse with movement
+As the graph shows with it's dashed line, **uncanny valley gets even more prominent with movement**. People are in general so attuned to the natural movements human bodies and their parts make that even the slight differences can throw them into the uncanny valley. In video games specifically, you can spot it within animations including running -- I am personally expericing it now with a rather comical running in [*Star Wars Jedi: Fallen Order*](https://www.ea.com/games/starwars/jedi/jedi-fallen-order)) - dancing, and more coordinate and complex set of movements. I would like to cover this topic in more depth in the future with an expert's insight from someone from animation and mocap departments, so stay tuned!
 
 ### What does research say?
 Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to be living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
