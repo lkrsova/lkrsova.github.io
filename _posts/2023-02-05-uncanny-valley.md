@@ -11,7 +11,7 @@ Have you ever felt creeped out or even repulsed by a video game character but co
 ### What is uncanny valley?
 You have most like encountered this term already in relation to robots. Uncanny valley was coined by a Japanese robotics, [professor Masahiro Mori in the 1970s](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6213238). His hypothesis was that the closer people get to the depiction of robots as humans, the affinity for them increases until we come into a "valley" where we feel uncomfortable to look at a thing or entity resembling a person (or its part). This valley is what we know as “uncanny valley” where people tend to get repulsed by the uncanny resemblance with a human.
 
-By the way, uncanny valley is not a new thing. If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). There they discuss specifically about a fear of automata, later heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann and alike.
+Uncanny valley is not a new thing. If we go even further in the history, one of the first discussions about uncanny resemblance of puppets has some roots in [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud shared his opinions on the matter at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). They discussed specifically the fear of so-called automata, later heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann, and alike.
 
 In his paper, professor Mori provided a graph that covers most types of objects holding a human likeness and either missing or fulfilling it, including his remarks about movement deepening the uncanny valley significantly. There have been variations of the graph but the basics stay the same. Only recently some researchers suggested the valley might actually be a cliff [Bartneck et al., 2007].
 
@@ -52,7 +52,7 @@ Players detecting uncanny valley while playing game tend to drop from the state 
 
 ![](/images/markusdroid.jpg)
 
-*Some video games like Detroit: Become Human by Quantic Dream take advantage of uncanny valley phenomenon and use it to support their characters*
+*Some video games like Detroit: Become Human by Quantic Dream take advantage of the uncanny valley phenomenon and use it to support eeriness of their android characters*
 
 ### How do I apply what I just read in the game development?
 
@@ -62,7 +62,7 @@ One of the ways to bypass this problem is to go through the path of stylization.
 
 ![](/images/disco-elysium.png)
 
-*Characters from Disco Elysium are a good example how stylization helped make them more believable.*
+*Characters from Disco Elysium are a good example how stylization helped make .*
 
 As humans interact more with software agents, and come to rely on them more, it becomes increasingly important that the systems rely on the same interactional rules that humans do. The goal should not be “to make every interface anthropomorphic but the principles of spatialized interaction and embodied conversational agents might helpfully locate intelligence for users” [Cassell et al., 2000; Cassell, 2001]. Although believability is often named as the primary purpose behind embodying the interface, functions and properly conveyed social cues would appear to be more effective.
 
