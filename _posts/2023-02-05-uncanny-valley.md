@@ -36,19 +36,18 @@ What research has confirmed so far, though, is there seems to be a generational 
 
 What is even more interesting, and confirms that uncanny valley is actually acquired not born with, is the phenomenon among children and their perception of robots. [Studies show that until the age of 9, children don't bat an eye over the fact a human-like looking robot might possess feelings and cognition](https://www.wsj.com/articles/a-generational-divide-in-the-uncanny-valley-11547138712). It is plausible that the more contact children have with highly sophisticated types of robots or voice agents like Siri or Alexa, the more their generation will get accustomed to assumptions of AI having feelings and emotions. Therefore, the uncanny valley might eventually disappear.
 
+Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject. In short, if you are familiar with a character you might feel less uneasy upon seeing it again. 
+
+
 #### What causes it then?
 To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the [*perceptual mismatch hypothesis*](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00390/full) when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
 
-
-
-On the other hand, *theory of mind* might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. Humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas are the facial features used to assess other people’s mental states through. When for example a smile doesn’t match human anatomy, humans subconsciously assess that there is something off with the person and might feel repulsed by them. Then the capacity to understand others through theory of mind can be limited.
-
-Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject.
+On the other hand, [*theory of mind*](https://www.verywellmind.com/theory-of-mind-4176826) might offer another explanation. Research has shown that the most problematic parts causing uncanny valley are particularly face and eye-related areas. As the theory of mind explains, humans are tuned in to detect even small changes in facial expressions and eye movement and surrounding areas. Facial features in general are used to assess other people’s mental states. When for example a smile doesn’t match human anatomy, humans subconsciously assess there is something off with the person and a cautionary signal is sent to the brain. The rest is but a simple biology - if something looks off, it might be potentially dangerous, thus I should avoid it.
 
 ### Why should I care?
-In video games in particular, the demand for bridging the uncanny valley by creating highly realistic animations is of the utmost importance because it can hinder player’s immersion. Also, to some extent it is the nature of game developers to challenge themselves and increase the realism of the game world and characters inhabiting them.
+In video games in particular, the demand for bridging the uncanny valley by creating highly photorealistic animations is of the utmost importance because it can hinder player’s immersion. Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by a myriad of things but when you’re developing a game with realistic human-like looking and behaving characters, this is not the way how you want to loose them.
 
-Players detecting uncanny valley while playing game tend to drop from the state of immersion. Immersion is a complex cognitive state so it might be broken by a myriad of things but when you’re developing a game with realistic human-like looking and behaving characters, this is not the way how you want to loose them.
+Also, to some extent it is the nature of game developers to challenge themselves and increase the realism of the game world and characters inhabiting them.
 
 ![](/images/markusdroid.jpg)
 
