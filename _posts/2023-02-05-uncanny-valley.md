@@ -17,7 +17,7 @@ In his paper, professor Mori provided a graph that covers most types of objects 
 
 ![](/images/mori-uncanny.png)
 
-#### Prosthetics origin
+#### Prosthetic origins
 The original artefact Mori used was a prosthetic hand. Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. Upon first glance artificial hands covered by a skin colored looking material seems human-like. But once a person hits the realization that the hand is actually artificial, they experience an eerie sensation. They usually get startled once they shake the hand - the unnatural behavior of the hand, including its coldness and boneless structure that doesn’t fit in the mental model of how a human hand should behave while interacting with it.
 
 ![](/images/figurepaperpoliakoff.png)
@@ -27,12 +27,14 @@ The original artefact Mori used was a prosthetic hand. Prosthetic hands, even in
 #### It gets worse with movement
 As the graph shows, **uncanny valley gets even more prominent with movement**. People are in general so attuned and familiar to the natural flow of movements human bodies and their parts make that even the slightest difference can throw them into the uncanny valley.
 
-Just think about all the examples from movies where a the world is hit by a virus and majority of the populace becomes zombie. They either tend to have jerky, jolting and in other way spasmic, uncoordinated movements, or are impossibly slow and drag themselves around. All of it seems so unnatural to the human eye we, as the audience, immediately recognize there's something off.
-
-Excuse this 
+Just think about all the examples from movies where the world is hit by a virus and the majority of the population becomes zombie. These creatures either tend to have jerky, jolting and in other way spasmic, uncoordinated movements, or are impossibly slow and drag themselves around. All of it seems so unnatural to the human eye, the audience, and hopefully the main protagonist as well, immediately recognize there's something off.
 
 ### Research says...
-Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely or claim that the “valley” is actually a “cliff”. Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
+Different explanations investigated from biological, cognitive, and social roots tried explaining uncanny valley, but its origin is not conclusively confirmed. For that reason some researchers contest the existence of uncanny valley entirely.
+
+Interestingly enough, there also seems to be a generational and cultural divide. [Some cultures are so accustomed to living with their dead ones](https://www.escape.com.au/destinations/asia/the-tribe-that-keeps-their-dead-relatives-at-home/image-gallery/6b4fc89987417563bd9f9f128131ec28?galleryimage=2) that one would argue their threshold of uncanny valley is most likely placed in a very different spot than the one of members of the Western cultures.
+
+What is even more interesting, and confirms that uncanny valley is actually acquired not born with, are children and their perception of robots. [Studies show that until the age of 9, children don't bat an eye over the fact a human-like looking robot might possess feelings and cognition](https://www.wsj.com/articles/a-generational-divide-in-the-uncanny-valley-11547138712).
 
 #### What causes it then?
 To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the *perceptual mismatch hypothesis* when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
