@@ -38,7 +38,7 @@ What is even more interesting, and confirms that uncanny valley is actually acqu
 
 Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject. In short, if you are familiar with a character you might feel less uneasy upon seeing it again. 
 
-![](images/uncannyexamples.png)
+![](/images/uncannyexamples.png)
 
 *Just a couple of examples of uncanny valley from recent movies.*
 
