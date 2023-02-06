@@ -36,7 +36,7 @@ What research has confirmed so far, though, is there seems to be a generational 
 
 What is even more interesting, and confirms that uncanny valley is actually acquired not born with, is the phenomenon among children and their perception of robots. [Studies show that until the age of 9, children don't bat an eye over the fact a human-like looking robot might possess feelings and cognition](https://www.wsj.com/articles/a-generational-divide-in-the-uncanny-valley-11547138712). It is plausible that the more contact children have with highly sophisticated types of robots or voice agents like Siri or Alexa, the more their generation will get accustomed to assumptions of AI having feelings and emotions. Therefore, the uncanny valley might eventually disappear.
 
-Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject. In short, if you are familiar with a character you might feel less uneasy upon seeing it again. 
+Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject. In short, if you are familiar with a character you might feel less uneasy upon seeing it again. But to be honest, Henry Cavill without his CGI moustache is creepy even after all these years...
 
 ![](/images/uncannyexamples.png)
 
