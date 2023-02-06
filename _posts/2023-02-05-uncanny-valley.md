@@ -37,7 +37,7 @@ What research has confirmed so far, though, there seems to be a generational and
 What is even more interesting, and confirms that uncanny valley is actually acquired not born with, is the phenomenon among children and their perception of robots. [Studies show that until the age of 9, children don't bat an eye over the fact a human-like looking robot might possess feelings and cognition](https://www.wsj.com/articles/a-generational-divide-in-the-uncanny-valley-11547138712). It is plausible that the more contact children have with highly sophisticated types of robots or voice agents like Siri or Alexa, the more their generation will get accustomed to assumptions of AI having feelings and emotions. Therefore, the uncanny valley might eventually disappear.
 
 #### What causes it then?
-To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the *perceptual mismatch hypothesis* when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
+To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the [*perceptual mismatch hypothesis*](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00390/full) when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
 
 
 
