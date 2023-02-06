@@ -19,6 +19,10 @@ A good example is a prosthetic hand, which was the original artefact Mori used i
 
 Prosthetic hands, even in the 70s, had achieved a resemblance to the human form that looked on par with false teeth. However, once we hit the realization that the hand is actually artificial, we experience an eerie sensation. We can get startled by the unnatural behavior of the hand while shaking it, it’s coldness and boneless structure that doesn’t fit in our mental model of how a human hand should behave while interacting with it.
 
+![](/images/figurepaperpoliakoff.png)
+
+*Recent studies [Poliakoff et al., 2018] examined the perception of eeriness of human prosthetic hands to, once again, support or refute Mori's hypothesis.*
+
 By the way, uncanny valley is not a new thing. If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). He specifically talked about a fear of automata, which were then heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann and alike.
 
 ### It gets worse with movement
@@ -41,7 +45,7 @@ Players detecting uncanny valley while playing game tend to drop from the state 
 
 ![](/images/markusdroid.jpg)
 
-*Some video games like Detroit: Become Human by Quantic Dream take advantage of uncanny valley phenomenon and use it to support their characters
+*Some video games like Detroit: Become Human by Quantic Dream take advantage of uncanny valley phenomenon and use it to support their characters*
 
 ### How do I apply what I just read in the game development?
 One of the ways to bypass this problem is to go through the path of stylization. Some of the elements of stylization that have the greatest impact on the attractiveness of characters are material properties or figures, the shape of characters determines mainly how realistic they appear. Sometimes uncanny valley is even desirable, especially in creation of deliberately repulsive characters.
