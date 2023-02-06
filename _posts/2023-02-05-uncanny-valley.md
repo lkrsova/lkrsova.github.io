@@ -13,7 +13,7 @@ You have most like encountered this term already in relation to robots. Uncanny 
 
 By the way, uncanny valley is not a new thing. If we go even further in the history, the first discussion about uncanny valley has roots in a [1906 paper by Ernst Anton Jentsch, and even Sigmund Freud discussed it at the time](https://www.routledgehandbooks.com/doi/10.4324/9781315850115.ch3). There they discuss specifically about a fear of automata, later heavily discussed as a part of cybernetics, a theory of systems, by experts such as C. Shannon, John von Neumann and alike.
 
-In his paper, professor Mori provided a graph that covers most types of objects holding a human likeness and either missing or fulfilling it. There have been variation of it but it overall stays the same, only recently some researchers suggets the valley might be a cliff. Over the years the chart got upgraded with a consideration of movement, which seems to deepen the uncanny valley significantly:
+In his paper, professor Mori provided a graph that covers most types of objects holding a human likeness and either missing or fulfilling it, including his remarks about movement deepening the uncanny valley significantly. There have been variations of the graph but the basics stay the same. Only recently some researchers suggested the valley might actually be a cliff [Bartneck et al., 2007].
 
 ![](/images/mori-uncanny.png)
 
