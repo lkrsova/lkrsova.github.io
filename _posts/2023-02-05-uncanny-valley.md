@@ -38,6 +38,9 @@ What is even more interesting, and confirms that uncanny valley is actually acqu
 
 Research also shows that there is an effect between the prior familiarity with a character and uncanny valley, where the curve tends to be moderate for those characters previously known by the subject. In short, if you are familiar with a character you might feel less uneasy upon seeing it again. 
 
+![](images/uncannyexamples.png)
+
+*Just a couple of examples of uncanny valley from recent movies.*
 
 #### What causes it then?
 To be honest, we don't really know for sure. One of the approaches that aims to explain what happens when human interact with increasingly human-like characters claims that the discomfort comes from the [*perceptual mismatch hypothesis*](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00390/full) when a mismatch by inconsistent sensory cues happens (e.g. proportions of face features doesn’t match skin texture, etc.).
