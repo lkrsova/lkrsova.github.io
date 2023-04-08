@@ -1,7 +1,7 @@
 site: Journal Jekyll Theme
 
-url: lkrsova.github.io
-baseurl: 
+url: 
+baseurl: lkrsova.github.io
 
 collections:
   pages:
