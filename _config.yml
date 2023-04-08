@@ -1,7 +1,7 @@
 site: Journal Jekyll Theme
 
 url: 
-baseurl: lkrsova
+baseurl:
 
 collections:
   pages:
