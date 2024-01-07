@@ -79,6 +79,7 @@ Level design means you’re inevitably signing up for learning bits about archit
 - Von Borries: [Space Time Play: Computer Games, Architecture and Urbanism: The Next Level](https://www.amazon.com/Space-Time-Play-Friedrich-Borries/dp/376438414X)
 - Matthew Frederick: [101 Things I Learned in Architecture School](https://www.amazon.com/101-Things-Learned-Architecture-School/dp/0262062666)*
 - Matthew Frederick & Vikas Mehta: [101 Things I Learned in Urban Design School](https://www.amazon.com/Things-Learned%C2%AE-Urban-Design-School/dp/0451496698)*
+- Architecture & Design [LinkedIn inspirational page with more than 175k followers](https://www.linkedin.com/company/architectanddesign/)
 
 
 ##### Ethical game design & Representation
