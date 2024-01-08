@@ -126,11 +126,11 @@ All hail YouTube, the place where people explain everything in a fun way! (Unles
 - Game Developer Conference \| [website](https://www.youtube.com/c/Gdconf)
 
 ##### Miscellanous talks & articles
-- David Shaver (Naughty Dog) & Rober Yang (NYU professor) - [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?v=09r1B9cVEQY)
-- Richard Lemarchand (Naughty Dog) - [Attention, Not Immersion]([Richard Lemarchand ](https://www.gdcvault.com/play/1015464/Attention-Not-Immersion-Making-Your)
-- Elisabeth Beinke-Schwartz (Certain Affinity) - [Level Design Workshop: Singleplayer vs. Multiplayer Level Design: A Paradigm Shift](https://www.youtube.com/watch?v=PxpjRuATxKE)
-- Hugo Bille - [The Invisible Hand of Super Metroid](https://www.gamedeveloper.com/design/the-invisible-hand-of-super-metroid)
-- Emilia Schatz (Naughty Dog) - [Defining Environment Language for Video Games](https://80.lv/articles/defining-environment-language-for-video-games/) 
+- David Shaver (Naughty Dog) & Rober Yang (NYU professor): [Level Design Workshop: Blockmesh and Lighting Tips](https://www.youtube.com/watch?v=09r1B9cVEQY)
+- Richard Lemarchand (Naughty Dog): [Attention, Not Immersion]([Richard Lemarchand ](https://www.gdcvault.com/play/1015464/Attention-Not-Immersion-Making-Your)
+- Elisabeth Beinke-Schwartz (Certain Affinity): [Level Design Workshop: Singleplayer vs. Multiplayer Level Design: A Paradigm Shift](https://www.youtube.com/watch?v=PxpjRuATxKE)
+- Hugo Bille: [The Invisible Hand of Super Metroid](https://www.gamedeveloper.com/design/the-invisible-hand-of-super-metroid)
+- Emilia Schatz (Naughty Dog): [Defining Environment Language for Video Games](https://80.lv/articles/defining-environment-language-for-video-games/) 
 
 #### Podcasts
 - [Level Design podcast](https://open.spotify.com/show/4MX8DBjufpY3Vqk9HURyDo?si=c7db184ae5c14de8)
