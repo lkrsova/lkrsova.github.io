@@ -1,6 +1,6 @@
 ---
 title: 'Kingdom Come: Deliverance II'
-subtitle: 'click'
+subtitle: 'Responsibilities: Technical level designer, Settling team'
 date: 2024-10-07 12:00:00
 featured_image: '/images/portfolio/kcd2-header.jpg'
 ---
