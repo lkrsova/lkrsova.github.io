@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Leni Krsova - Game Designer & Researcher
-  site_tagline: Fun facts from videogame research & practice
+  site_title: Leni Krsova - Technical Level Designer & Researcher
+  site_tagline: Fun facts from videogame practice & research
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,12 +12,13 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
+    - title: 'Portfolio'
+     url: '/portfolio'
     - title: 'Resources'
       url: '/resources' 
     - title: 'About me'
       url: '/aboutme'
- #   - title: 'Contact'
- #    url: '/contact'
+    
 
 grid_settings:
   grid_spacing: 10
