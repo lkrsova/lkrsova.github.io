@@ -1,7 +1,7 @@
 ---
 title: 'Enchanted village level design'
 subtitle: 'click'
-date: 2024-10-07 12:00:00
+date: 2024-01-07 12:00:00
 featured_image: '/images/portfolio/leveldesign.png'
 ---
 
