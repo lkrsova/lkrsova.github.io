@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'Portfolio'
-     url: '/portfolio'
+      url: '/portfolio'
     - title: 'Resources'
       url: '/resources' 
     - title: 'About me'
