@@ -2,7 +2,7 @@
 title: 'Enchanted village level design'
 subtitle: 'click'
 date: 2024-10-07 12:00:00
-featured_image: '/images/projects/widdbanner.png'
+featured_image: '/images/portfolio/leveldesign.PNG'
 ---
 
  I want to look at the case of one of the early secondary quests of **<a href="https://thewitcher.com/en/witcher3" target="_blank">The Witcher 3: Wild Hunt</a>**, called **Wandering in The Dark**. I loved the environment design and immersive experience of this level, but I equally disliked the frequency of facing difficult enemies so early on in the game without any sort of preparation or warning. This post is not at all an expert view, rather just a bunch of personal notes about **facing difficulties in a game as a newcomer to the franchise**.
