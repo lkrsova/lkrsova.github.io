@@ -6,15 +6,31 @@ featured_image: '/images/portfolio/leveldesign.png'
 ---
 
 ### Design goal:
+Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs whoguide the player.
+
+As this is my The goal was also to learn how to navigate UE5
 
 
 ### Process
-You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
-Experience-wise you are most likely on a **level 4 or 5**. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
+#### Initial sketch
+
+Initial layut was made with ReMarkable tablet because sketching my ideas firs on a paper works well for me to jot basic ideas/layout of a level I want to design.
+
+Here we have a small settlement as an open area for the player to explore. In early stages of sketches I wanted to have a focal point elevated above the village, both to have a landmark and to practice how to navigate player to it.
 
 ![](/images/portfolio/sketch.png)
 
+#### Setting up the environment
+![](/images/portfolio/earlyphase.png)
+
+#### Tweaking focal points
+
+Entrance & enclosed space
+
+
+
+Landmark (windmill)
 
 ### Level design & enemies
 
