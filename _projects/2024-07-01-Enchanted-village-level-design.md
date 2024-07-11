@@ -20,10 +20,13 @@ In early stages of the sketch I wanted to have a starting area where player can 
 
 <div class="gallery" data-columns="2">
     <img src="/images/portfolio/sketch.png">
-    <img src="/images/portfolio/earlyphase.png">
     <img src="/images/portfolio/inspiration.png">
-    
+    <img src="/images/portfolio/earlyphase.png">
 </div>
+
+#### Iteration process
+
+As I was building the level, I added to create a starting area first and play with visual signposting to capture a player's eyes and curioisty, which would lead them to move further into the direction I wanted.
 
 #### Iteration of focal points
 
