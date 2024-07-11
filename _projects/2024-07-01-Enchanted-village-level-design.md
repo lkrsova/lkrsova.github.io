@@ -1,6 +1,6 @@
 ---
-title: 'Enchanted village level design'
-subtitle: 'click'
+title: 'Enchanted Village'
+subtitle: 'Level Design, Scipting'
 date: 2024-01-07 12:00:00
 featured_image: '/images/portfolio/leveldesign.png'
 ---
