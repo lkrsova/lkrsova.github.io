@@ -8,7 +8,7 @@ featured_image: '/images/portfolio/leveldesign.png'
 ### Design goal:
 Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs who guide the player.
 
-As this is my first playable project made with UE5 I used this opportunity to learn how to navigate UE5 and get familiar with LD tools and Blueprints respectively.
+As this is my first playable project made with UE5, I used this opportunity to learn how to navigate UE5 and get familiar with LD tools and Blueprints respectively.
 
 ### Process
 
@@ -26,7 +26,7 @@ In early stages of the sketch I wanted to have a starting area where player can 
 
 #### Iteration process
 
-As I was building the level, I added to create a starting area first and play with visual signposting to capture a player's eyes and curioisty, which would lead them to move further into the direction I wanted.
+As I was building the level, I had to adjust elevation to make the landscape more readable. I also added a starting area. I used visual signposting to capture a player's eyes and curiosity, which would then lead them to move further into the direction I wanted.
 
 #### Iteration of focal points
 
