@@ -23,13 +23,21 @@ Here we have a small settlement as an open area for the player to explore. In ea
 #### Setting up the environment
 ![](/images/portfolio/earlyphase.png)
 
-#### Tweaking focal points
+#### Iteration of focal points
 
 Entrance & enclosed space
 
 
 
-Landmark (windmill)
+Landmark on the hill (windmill)
+![](/images/portfolio/iteratingwindmill1.png)
+
+
+![](/images/portfolio/iteratingwindmill2.png)
+
+
+![](/images/portfolio/windmill.png)
+
 
 ### Level design & enemies
 
