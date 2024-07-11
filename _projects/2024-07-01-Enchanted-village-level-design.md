@@ -8,14 +8,12 @@ featured_image: '/images/portfolio/leveldesign.png'
 ### Design goal:
 
 
-
-### Where are we in the game?
+### Process
 You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
 
 Experience-wise you are most likely on a **level 4 or 5**. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-![](/images/posts/kill-the-griffin.jpg)
-
+![](/images/portfolio/sketch.jpg)
 
 
 ### Level design & enemies
@@ -35,5 +33,3 @@ Unreal Engine 5 (for meshes and Blueprints)
 
 Advanced Village Pack: https://www.advancedpacks.com/#AdvancedVillagePack
 Fantastic Village Pack: https://www.tidalflask.com/store/BxYz/fantastic-village-pack
-
-#### Thanks
