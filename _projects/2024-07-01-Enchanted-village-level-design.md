@@ -14,7 +14,7 @@ As this is my first playable project made with UE5 I used this opportunity to le
 
 #### Initial sketch
 
-Initial layut was made with ReMarkable tablet because sketching my ideas firs on a paper works well for me to jot basic ideas/layout of a level I want to design.
+I sketched the initial layout on a paper, which works well for me to jot basic ideas for a level I want to design.
 
 Here we have a small settlement as an open area for the player to explore. In early stages of sketches I wanted to have a focal point elevated above the village, both to have a landmark and to practice how to navigate player to it.
 
