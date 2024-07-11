@@ -5,7 +5,9 @@ date: 2024-01-07 12:00:00
 featured_image: '/images/portfolio/leveldesign.png'
 ---
 
- 
+### Design goal:
+
+
 
 ### Where are we in the game?
 You completed all the side quests and points of interest (❔ on the map) in the **White Orchard**. You are now moving into another stage of Witcher's story which is in Velen, a war-torn swampland under Nilfgaardian occupation. 
@@ -28,5 +30,10 @@ Just for the illustration and not necessarily in this particular order, you have
 + more **drowners**, plus **wraiths** on a toxic & explosive field of mushrooms;
 
 
-#### References
-[^1]: https://www.pcgamer.com/the-witcher-3-sales-were-up-554-thanks-to-the-netflix-show/
+#### Applied assets
+Unreal Engine 5 (for meshes and Blueprints)
+
+Advanced Village Pack: https://www.advancedpacks.com/#AdvancedVillagePack
+Fantastic Village Pack: https://www.tidalflask.com/store/BxYz/fantastic-village-pack
+
+#### Thanks
