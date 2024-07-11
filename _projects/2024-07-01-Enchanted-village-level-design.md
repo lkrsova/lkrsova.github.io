@@ -18,7 +18,7 @@ I sketched the initial layout on a paper, which works well for me to jot basic i
 
 In early stages of the sketch I wanted to have a starting area where player can orient themselves and understand the basic gameplay mechanics, then move them into a a small settlement and lead them to a focal point elevated above the village.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
     <img src="/images/portfolio/sketch.png">
     <img src="/images/portfolio/earlyphase.png">
     <img src="/images/portfolio/inspiration.png">
@@ -31,7 +31,7 @@ In early stages of the sketch I wanted to have a starting area where player can 
 
 ##### Landmark on the hill (windmill)
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
     <img src="/images/portfolio/iteratingwindmill1.png">
     <img src="/images/portfolio/iteratingwindmill2.png">
     <img src="/images/portfolio/windmill.png">
