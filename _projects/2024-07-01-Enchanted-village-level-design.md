@@ -38,16 +38,8 @@ Here we have a small settlement as an open area for the player to explore. In ea
 ![](/images/portfolio/windmill.png)
 
 
-### Level design & enemies
+### Outtakes future improvements
 
-You realize quite quickly that this little hiccup on the road soon develops into long hours of you fighting, rolling, dodging, and using other tricks to defeat all the enemies lurking in the dark.
-
-Just for the illustration and not necessarily in this particular order, you have to fight all these monsters:
-
-+ bunch of **drowners**;
-+ one or two **foglets** (this is the first time you meet them);
-+ **rats** nests (because Keira, the powerful sorceress, is afraid of them...);
-+ more **drowners**, plus **wraiths** on a toxic & explosive field of mushrooms;
 
 
 #### Applied assets
