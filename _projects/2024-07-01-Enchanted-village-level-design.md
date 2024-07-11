@@ -13,7 +13,7 @@ You completed all the side quests and points of interest (❔ on the map) in the
 
 Experience-wise you are most likely on a **level 4 or 5**. In the Witcher world, it means that you might have gained some experience with fighting packs of wolves or wild dogs, angry bandits, out-of-nowhere spawning drowners, or a group of ghouls scattered over a battlefield. And that's about it.
 
-![](/images/portfolio/sketch.jpg)
+![](/images/portfolio/sketch.png)
 
 
 ### Level design & enemies
