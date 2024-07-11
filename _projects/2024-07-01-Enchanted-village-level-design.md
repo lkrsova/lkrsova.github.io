@@ -1,6 +1,6 @@
 ---
 title: 'Enchanted Village'
-subtitle: 'Level Design, Scipting'
+subtitle: 'Level Design, Scripting'
 date: 2024-01-07 12:00:00
 featured_image: '/images/portfolio/leveldesign.png'
 ---
