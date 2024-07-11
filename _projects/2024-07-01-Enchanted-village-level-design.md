@@ -44,3 +44,4 @@ Unreal Engine 5 (for meshes and Blueprints)
 
 Advanced Village Pack: https://www.advancedpacks.com/#AdvancedVillagePack
 Fantastic Village Pack: https://www.tidalflask.com/store/BxYz/fantastic-village-pack
+Udemy Unreal Engine 5: The Complete Beginner's Course  
