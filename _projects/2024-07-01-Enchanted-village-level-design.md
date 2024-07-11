@@ -16,7 +16,7 @@ As this is my first playable project made with UE5, I used this opportunity to l
 
 I sketched the initial layout on a paper, which works well for me to jot basic ideas for a level I want to design.
 
-In early stages of the sketch I wanted to have a starting area where player can orient themselves and understand the basic gameplay mechanics, then move them into a a small settlement and lead them to a focal point elevated above the village.
+In early stages of the sketch I wanted to have a starting area where player can orient themselves and understand the basic gameplay mechanics, then move them into a a small settlement, and consequently lead them towards a focal point elevated above it.
 
 <div class="gallery" data-columns="2">
     <img src="/images/portfolio/sketch.png">
