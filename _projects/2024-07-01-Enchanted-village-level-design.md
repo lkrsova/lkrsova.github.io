@@ -12,16 +12,18 @@ As this is my first playable project made with UE5 I used this opportunity to le
 
 ### Process
 
-#### Initial sketch
+#### Initial sketch & Inspiration
 
 I sketched the initial layout on a paper, which works well for me to jot basic ideas for a level I want to design.
 
 In early stages of the sketch I wanted to have a starting area where player can orient themselves and understand the basic gameplay mechanics, then move them into a a small settlement and lead them to a focal point elevated above the village.
 
-![](/images/portfolio/sketch.png)
-
-#### Setting up the environment
-![](/images/portfolio/earlyphase.png)
+<div class="gallery" data-columns="2">
+    <img src="/images/portfolio/sketch.png">
+    <img src="/images/portfolio/earlyphase.png">
+    <img src="/images/portfolio/inspiration.png">
+    
+</div>
 
 #### Iteration of focal points
 
