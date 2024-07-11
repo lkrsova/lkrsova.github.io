@@ -16,7 +16,7 @@ As this is my first playable project made with UE5 I used this opportunity to le
 
 I sketched the initial layout on a paper, which works well for me to jot basic ideas for a level I want to design.
 
-Here we have a small settlement as an open area for the player to explore. In early stages of sketches I wanted to have a focal point elevated above the village, both to have a landmark and to practice how to navigate player to it.
+In early stages of the sketch I wanted to have a starting area where player can orient themselves and understand the basic gameplay mechanics, then move them into a a small settlement and lead them to a focal point elevated above the village.
 
 ![](/images/portfolio/sketch.png)
 
@@ -38,7 +38,7 @@ Here we have a small settlement as an open area for the player to explore. In ea
 ![](/images/portfolio/windmill.png)
 
 
-### Outtakes future improvements
+### Outtakes & future improvements
 
 
 
