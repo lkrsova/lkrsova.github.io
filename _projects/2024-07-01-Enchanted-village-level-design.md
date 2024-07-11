@@ -6,10 +6,9 @@ featured_image: '/images/portfolio/leveldesign.png'
 ---
 
 ### Design goal:
-Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs whoguide the player.
+Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs who guide the player.
 
-As this is my The goal was also to learn how to navigate UE5
-
+As this is my first playable project made with UE5 I used this opportunity to learn how to navigate UE5 and get familiar with basci tools and Blueprints.
 
 ### Process
 
