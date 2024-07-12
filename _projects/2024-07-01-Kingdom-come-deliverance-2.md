@@ -12,7 +12,7 @@ featured_image: '/images/portfolio/kcd2-header.jpg'
 → Suggesting level design solutions for stealth and combat gameplay for event places and locations
 
 #### Tools
-→ CryEngine
+→ CRYENGINE Sandbox Editor
 → Skald (proprietary quest writing and scripting tool)
 → P4V
 → YouTrack
