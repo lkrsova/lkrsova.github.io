@@ -29,20 +29,18 @@ In early stages of the sketch I wanted to have a starting area where player can 
 As I was building the level, I had to adjust elevation to make the landscape more readable. I also added a starting area. I used visual signposting to capture a player's eyes and curiosity, which would then lead them to move further into the direction I wanted.
 
 <div class="gallery" data-columns="2">
-    <img src="/images/portfolio/iteratingwindmill1.png">
-    <img src="/images/portfolio/windmill.png">
-    
-</div>
-
-
-##### Landmark on the hill (windmill)
-
-<div class="gallery" data-columns="2">
     <img src="/images/portfolio/earlyphase.png">
     <img src="/images/portfolio/phase3diffangle.png">
     
 </div>
 
+##### Landmark on the hill (windmill)
+
+<div class="gallery" data-columns="2">
+    <img src="/images/portfolio/iteratingwindmill1.png">
+    <img src="/images/portfolio/windmill.png">
+    
+</div>
 
 #### Applied assets & tools
 + Unreal Engine 5 (for meshes and Blueprints)
@@ -50,4 +48,4 @@ As I was building the level, I had to adjust elevation to make the landscape mor
 + Fantastic Village Pack: https://www.tidalflask.com/store/BxYz/fantastic-village-pack
 + Udemy Unreal Engine 5: The Complete Beginner's Course
 + Milanote for moodboard
-+ ReMarkable for sketching/notes
++ ReMarkable tablet for sketching/notes
