@@ -9,3 +9,4 @@ featured_image: '/images/portfolio/kcd2-header.png'
 Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs who guide the player.
 
 As this is my first playable project made with UE5, I used this opportunity to learn how to navigate UE5 and get familiar with LD tools and Blueprints respectively.
+
