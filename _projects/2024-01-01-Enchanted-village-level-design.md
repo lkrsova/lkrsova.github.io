@@ -1,7 +1,7 @@
 ---
 title: 'Enchanted Village'
-subtitle: 'Level Design, Scripting'
-date: 2024-01-07 12:00:00
+subtitle: 'Personal project in UE5 - Level Design, Scripting'
+date: 2024-01-01 12:00:00
 featured_image: '/images/portfolio/leveldesign.png'
 ---
 
