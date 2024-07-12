@@ -2,7 +2,7 @@
 title: 'Enchanted Village'
 subtitle: 'Personal project in UE5 - Level Design, Scripting'
 date: 2024-01-01 12:00:00
-featured_image: '/images/portfolio/leveldesign.png'
+featured_image: '/images/portfolio/phase3angle2.png'
 ---
 
 ### Design goal:
