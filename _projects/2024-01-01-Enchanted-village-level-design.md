@@ -6,9 +6,9 @@ featured_image: '/images/portfolio/phase3angle2.png'
 ---
 
 ### Design goal:
-Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items, solve basic enviromental puzzles, and interact with NPCs who guide the player.
+Have a playable and spatially readable level with a minimalistic gameplay scripted using Blueprints. Player's objective is to gather items and solve basic enviromental puzzles.
 
-As this is my first playable project made with UE5, I used this opportunity to learn how to navigate UE5 and get familiar with LD tools and Blueprints respectively.
+As this is my first playable project made with Unreal Engine 5, I used this opportunity to learn how to navigate UE5 and get familiar with its level design tools as well as learn how to use Blueprints.
 
 ### Process
 
@@ -41,6 +41,12 @@ As I was building the level, I had to adjust elevation to make the landscape mor
     <img src="/images/portfolio/windmill.png">
     
 </div>
+
+##### Scripted features
++ rotation of windmill fantail
++ UI prompts
++
+
 
 #### Applied assets & tools
 + Unreal Engine 5 (for meshes and Blueprints)
