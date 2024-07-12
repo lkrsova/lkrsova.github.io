@@ -1,7 +1,7 @@
 ---
 title: 'Kingdom Come: Deliverance II'
 subtitle: 'Technical Level Designer'
-date: 2024-01-01 12:00:00
+date: 2024-07-01 12:00:00
 featured_image: '/images/portfolio/kcd2-header.jpg'
 ---
 
