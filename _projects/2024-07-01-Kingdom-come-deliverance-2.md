@@ -2,7 +2,7 @@
 title: 'Kingdom Come: Deliverance II'
 subtitle: 'Technical Level Design'
 date: 2024-10-07 12:00:00
-featured_image: '/images/portfolio/kcd2-header.png'
+featured_image: '/images/portfolio/kcd2-header.jpg'
 ---
 
 ### Design goal:
