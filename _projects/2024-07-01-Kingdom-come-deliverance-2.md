@@ -6,16 +6,16 @@ featured_image: '/images/portfolio/kcd2-header.jpg'
 ---
 
 #### Responsibilities
-+ → Responsible for populating locations with NPCs, loot, and events within the game world of KCDII
-+ → Designing daily routines for NPCs and encounters in entrusted locations
-+ → Ownership of entrusted locations within the game world, including cooperation with other departments, notably with level artists, scripters, designers, and cinematics
-+ → Suggesting level design solutions for stealth and combat gameplay for event places and locations
++ Populating locations with NPCs, loot, and events within the game world of KCDII
++ Designing daily routines for NPCs and encounters in entrusted locations
++ Ownership of entrusted locations within the game world, including cooperation with other departments, notably with level artists, scripters, designers, and cinematics
++ Suggesting level design solutions for stealth and combat gameplay for event places and locations
 
 #### Tools
-+ → CRYENGINE Sandbox Editor
-+ → Skald (proprietary quest writing and scripting tool)
-+ → P4V
-+ → YouTrack
++ CRYENGINE Sandbox Editor
++ Skald (proprietary quest writing and scripting tool)
++ P4V
++ YouTrack
 
 #### Trailer
 
