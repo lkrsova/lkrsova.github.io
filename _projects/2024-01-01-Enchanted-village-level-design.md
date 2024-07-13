@@ -43,7 +43,8 @@ As I was building the level, I had to adjust elevation to make the landscape mor
 </div>
 
 ##### Scripted features
-+ rotation of windmill fantail
++ Mapping inputs for a player controller 
++ Rotation of windmill fantail
 + UI prompts
 +
 
