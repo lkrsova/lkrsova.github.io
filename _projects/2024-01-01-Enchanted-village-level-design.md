@@ -46,13 +46,11 @@ As I was building the level, I had to adjust elevation to make the landscape mor
 + Mapping inputs for a player controller 
 + Rotation of windmill fantail
 + UI prompts
-+
 
 
 #### Applied assets & tools
 + Unreal Engine 5 (for meshes and Blueprints)
 + Advanced Village Pack: https://www.advancedpacks.com/#AdvancedVillagePack
 + Fantastic Village Pack: https://www.tidalflask.com/store/BxYz/fantastic-village-pack
-+ Udemy Unreal Engine 5: The Complete Beginner's Course
 + Milanote for moodboard
 + ReMarkable tablet for sketching/notes
